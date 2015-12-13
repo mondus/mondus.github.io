@@ -1,0 +1,19 @@
+- name: "Peter Heywood"
+  img: "./pheywood.jpg"
+  website: "http://ptheywood.uk/"
+  description: "Peter Heywood is a PhD candidate (co-supervised by Dr Steve Maddock) working on GPU accelerated microsimulation of transport systems. He is developing techniques which support network based communication of multi agent systems on the GPU. He contributes towards the FLAME GPU software and is invovled in providing GPU research consultancy on industrially funded projects."
+
+- name: "Robert Chisholm"
+  img: "./rchisholm.jpg"
+  website: "http://staffwww.dcs.shef.ac.uk/people/R.Chisholm/"
+  description: "Robert Chisholm is a PhD candidate (co-supervised by Dr Steve Maddock) working on data structures for GPU accelerated multi-agent simulations. He is developing general techniques which improve the perfomacne of complex systems simulations which communicate over limited interaction ranges."
+  
+- name: "Eidah  Alzahrani"
+  img: "./ealzahrani.jpg"
+  website: "http://www.dcs.shef.ac.uk/dcs/person/E.Alzahrani/makeperson.html"
+  description: "Eidah  Alzahrani is a PhD candidate (Supervised by Tony Simons and co-supervised by myself) working on scheduling for multi-agent systems. She is dynamic task scheduling approaches for the FLAME and FLAME GPU software to enable it to be targetted at hybrid and future architectures."
+  
+- name: "Alcione De Paiva Oliveria"
+  img: "./alcione.png"
+  website: "http://www.dpi.ufv.br/pessoas/professores"
+  description: "Alcione De Paiva Oliveria is a visting research from the Informatics Department at the Federal University of Viçosa, Brazil. He is working on developing multi-agent simulations of the immune system using the FLAME GPU software."
