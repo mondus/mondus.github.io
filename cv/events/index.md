@@ -7,7 +7,7 @@ layout: homepage
 
 ## 2015
 
-* Invited Presentation to ATKINS, "CPU Computing"
+* Invited Presentation to ATKINS, "GPU Computing"
 * Presentation at EMIT 2015 Conference, "Complex system simulations on the GPU" (given by Peter Heywood on my behalf)
 * Presentation at the GPU Technology Conference, San Jose, California USA [Recording](http://on-demand.gputechconf.com/gtc/2015/video/S5133.html) [pdf](http://on-demand.gputechconf.com/gtc/2015/presentation/S5133-Paul-Richmond.pdf)
 
