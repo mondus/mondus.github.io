@@ -723,3 +723,10 @@ ul.list-of-papers li .abstract-toggle:checked ~ .abstract {
 .team-member{
 	float:left;
 }
+
+/* power poitn logo hack*/
+
+.icon {
+	float:left;
+	padding-right:15px;
+}

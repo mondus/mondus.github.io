@@ -72,7 +72,7 @@
       subnav:
 
 - text: "Teaching"
-  url: "/cs/"
+  url: "/teaching/"
   target: 
   subnav:
     - text: "Introduction to CUDA"
@@ -80,7 +80,7 @@
       target: 
       subnav: 
     - text: "COM4521 - Parallel Computing with GPUs"
-      url: "/teaching/COM4521/"
+      url: "/shef-only/COM4521/"
       target: 
       subnav:
     - text: "Jobs and PhDs Available"

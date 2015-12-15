@@ -13,7 +13,7 @@ Escalating demand for High Performance Computing (HPC) is driven by the need to 
 _"Many areas of research in the future will be only accessible to those with advanced computational technology and platforms"._
 </div>
 
-<div style="float:right; width: 400px;" markdown="1">
+<div style="float:right; width: 400px; padding: 10px;" markdown="1">
 ![GPU Computing Performance](../assets/images/gpu_performance.png "GPU Computing Performance")
 </div>
 
