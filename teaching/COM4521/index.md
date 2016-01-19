@@ -43,6 +43,12 @@ Not available yet
 
 Also not available yet
 
+# Discussion and Annoucements
+
+Discussion and annoucements will be made via the modules Gooogle Group.
+
+[https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group)
+
 # Calendar
 
 You can add this calendar to your University of Sheffield Google Calendar by searching for COM4521 and COM6521
