@@ -80,7 +80,7 @@
       target: 
       subnav: 
     - text: "COM4521 - Parallel Computing with GPUs"
-      url: "/shef-only/COM4521/"
+      url: "/teaching/COM4521/"
       target: 
       subnav:
     - text: "Jobs and PhDs Available"

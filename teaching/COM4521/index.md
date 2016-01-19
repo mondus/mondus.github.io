@@ -1,5 +1,5 @@
 ---
-title: Dr Paul Richmond - COM4521 Introduction to Parallel Computing with GPUs
+title: Dr Paul Richmond - COM4521 & COM 6521 Introduction to Parallel Computing with GPUs
 layout: homepage
 ---
 
@@ -42,3 +42,9 @@ Not available yet
 # Labs
 
 Also not available yet
+
+# Calendar
+
+You can add this calendar to your University of Sheffield Google Calendar by searching for COM4521 and COM6521
+
+<iframe src="https://calendar.google.com/calendar/embed?src=sheffield.ac.uk_4gq0ug3uf8dlts9d21gp4l1des%40group.calendar.google.com&ctz=Europe/London" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
