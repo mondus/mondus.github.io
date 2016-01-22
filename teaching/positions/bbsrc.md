@@ -24,4 +24,4 @@ This Studentship will cover tuition fees at the UK/EU rate and provide a tax-fre
 
 ## Application 
 
-Applications should be submit via the [university application system](http://www.sheffield.ac.uk/postgraduate/research/apply/applying). Any enquiries should be directed towards [Dr Paul Richmond](../../contact)
+Applications should be submit via the [university application system](http://www.sheffield.ac.uk/postgraduate/research/apply/applying). Any enquiries should be directed towards [Dr Paul Richmond](../../../contact)
