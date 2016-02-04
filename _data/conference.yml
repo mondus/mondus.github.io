@@ -5,6 +5,14 @@
   abstract: "This chapter presents the latest stage of the FLAME development - the high-performance environment FLAME-II and the parallel architecture designed for Graphics Processing Units, FLAMEGPU. The architecture and the performances of these two agent-based software environments are presented, together with illustrative large-scale simulations for systems from biology, economy, psychology and crowd behaviour applications."
   url: "http://www.springer.com/us/book/9783319237411"
   pdf: "./FLAME_IADIC.pdf"
+  
+- title: "Road Network Simulation using FLAME GPU"
+  author-list: "Heywood P, Richmond P, Maddock S"
+  year: "2015"
+  publication: "Euro-Par 2015: Parallel Processing Workshops, Volume 9523 of the series Lecture Notes in Computer Science pp 430-441" 
+  abstract: "Demand for high performance road network simulation is increasing due to the need for improved traffic management to cope with the globally increasing number of road vehicles and the poor capacity utilisation of existing infrastructure. This paper demonstrates FLAME GPU as a suitable Agent Based Simulation environment for road network simulations, capable of coping with the increasing demands on road network simulation. Gipps’ car following model is implemented and used to demonstrate the performance of simulation as the problem size is scaled. The performance of message communication techniques has been evaluated to give insight into the impact of runtime generated data structures to improve agent communication performance. A custom visualisation is demonstrated for FLAME GPU simulations and the techniques used are described."
+  url: "http://www.springer.com/us/book/9783319273075"
+  pdf: "http://ptheywood.uk/publications-and-talks/papers/road-network-simulation-using-flame-gpu.pdf"
 
 - title: "Complex system simulations on the GPU"
   author-list: "Richmond P, Heywood P"
