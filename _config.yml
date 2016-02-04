@@ -38,4 +38,4 @@ lsi: false
 markdown: kramdown
 kramdown:
   input: GFM
-highlighter: pygments
+highlighter: rouge
