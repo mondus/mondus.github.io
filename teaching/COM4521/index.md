@@ -16,12 +16,14 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 Lectures notes are available via [Google Drive](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMNmprekpuT3UteEk&usp=sharing) (you will need to login with your university credentials).
 
 Lecture 01 - Introduction ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMRDZodm9rcUVXZmc/view?usp=sharing))
+
 * Context and Hardware Trends
 * Supercomputing
 * Software and Parallel Computing
 * Course Outline
 
 Lecture 02 - Introduction to C ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMS1RabE5Dc2dobVE/view?usp=sharing))
+
 * Introduction to the C Programming Language
 * Basic C Usage "Hello World"
 * Functions and Scoping
