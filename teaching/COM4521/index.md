@@ -34,7 +34,7 @@ Labs will take place on Tuesdays 9:00 until 11:00 in the Diamond High Spec Lab (
 
 Lab sheets are available via Google Drive [Lab Sheets](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMdHdCQS1RZGVsNXM&usp=sharing), [Lab Solutions](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMV3VsSjA1SFo5ODQ&usp=sharing) (you will need to login with your university credentials).
 
-Lab 01 - C Programming [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMc0tzQ2lCNzdSNkk/view?usp=sharing) | [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMZzRGTUpnY1pwYW8/view?usp=sharing) | Solution
+Lab 01 - C Programming [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMc0tzQ2lCNzdSNkk/view?usp=sharing), [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMZzRGTUpnY1pwYW8/view?usp=sharing), Solution
 
 # Discussion and Annoucements
 
