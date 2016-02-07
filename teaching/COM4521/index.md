@@ -36,11 +36,19 @@ Labs will take place on Tuesdays 9:00 until 11:00 in the Diamond High Spec Lab (
 
 Lab sheets are available via Google Drive [Lab Sheets](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMdHdCQS1RZGVsNXM&usp=sharing), [Lab Solutions](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMV3VsSjA1SFo5ODQ&usp=sharing) (you will need to login with your university credentials).
 
-### Lab 01 - C Programming [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMc0tzQ2lCNzdSNkk/view?usp=sharing), [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMZzRGTUpnY1pwYW8/view?usp=sharing), Solution
+### Lab 01 - C Programming 
 
-# Discussion and Annoucements
+* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMc0tzQ2lCNzdSNkk/view?usp=sharing)
+* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMZzRGTUpnY1pwYW8/view?usp=sharing)
+* Solution
 
-Discussion and annoucements will be made via the modules Gooogle Group.
+# Feedback
+
+Anonymous feedback can be provided for the course content at any time by [visiting the feedback form](https://goo.gl/0r73gD). For example have you found the content useful, too easy or difficult, or would you like some aspect of the course to be clarified?
+
+# Discussion and Announcements
+
+Discussion and announcements will be made via the modules Gooogle Group.
 
 [https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group)
 
