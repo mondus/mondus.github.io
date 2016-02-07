@@ -5,9 +5,7 @@ layout: homepage
 
 # Teaching
 
-As part of my RSE Fellowship I am committed to teaching and advocating the use of GPU and accelerated computing. Currently I teach an undergraduate model [COM4521: Parallel Computing with GPUs](../shef-only/COM4521) (due to start in February 2016). This course is aimed at undergraduates but is available to all research staff and students (subject to demand). A limited number of places will likely be available and these will be served on a first come first serve basis. If you would like to register your interest then please fill in the following form.
-
-[Register Interest in COM4521 (Parallel Computing with GPUs)](http://goo.gl/forms/vKoAjUqFE2)
+As part of my RSE Fellowship I am committed to teaching and advocating the use of GPU and accelerated computing. Currently I teach an undergraduate model [COM4521: Parallel Computing with GPUs](../COM4521). This course is aimed at undergraduates but is available to all research staff and students (subject to demand). 
 
 If you are interested in more focused training then I run a series of short courses such as a one day [Introduction to CUDA course](./CUDA) (in partnership with CICS and ARCHER). The scope of this training will be expanded considerably over the next 5 years and if you have specific requirements or demands for training then please let [me know](../contact) and I will endeavour to deliver this for you.
 
