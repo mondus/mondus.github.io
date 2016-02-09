@@ -11,25 +11,95 @@ The modules aims, objectives and assessment details are available on the [module
  
 # Lecture Notes
 
-Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre DIA-LT09. On weeks 5 and 10 the second half of the lecture will be a MOLE quiz (location to be confirmed). Week 11 will be an invited lecture (details to be confirmed).
+Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre DIA-LT09. On weeks 5 and 10 the second half of the lecture will be a MOLE quiz. Week 11 will be an invited lecture (details to be confirmed).
 
 Lectures notes are available via [Google Drive](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMNmprekpuT3UteEk&usp=sharing) (you will need to login with your university credentials).
 
-### Lecture 01 - Introduction ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMRDZodm9rcUVXZmc/view?usp=sharing))
+
+### Week 01: Lecture 01 - Introduction ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMRDZodm9rcUVXZmc/view?usp=sharing))
 
 * Context and Hardware Trends
 * Supercomputing
 * Software and Parallel Computing
 * Course Outline
 
-### Lecture 02 - Introduction to C ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMS1RabE5Dc2dobVE/view?usp=sharing))
+### Week 01: Lecture 02 - Introduction to C ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMS1RabE5Dc2dobVE/view?usp=sharing))
 
 * Introduction to the C Programming Language
 * Basic C Usage "Hello World"
 * Functions and Scoping
 * Arrays, Strings and Basic IO
 * File IO
-* Visual Studio 2013 Overview ([availble as a seperate download](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcHBVR05GQkUwWEE/view?usp=sharing))
+* Visual Studio 2013 Overview ([available as a separate download](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcHBVR05GQkUwWEE/view?usp=sharing))
+
+### Week02: Lecture 03 - Memory
+
+* Pointers
+* Advanced use of Pointers
+* Dynamically Managed Memory
+* Structures
+* Binary Files
+
+### Week 02: Lecture 04 - Optimisation
+
+* Optimisation Overview
+* Compute Bound Code
+* Memory Bound Code
+
+### Week 03: Lecture 05 - OpenMP
+
+* Multi-core Systems and OpenMP
+* Parallelising Loops
+* Critical Sections and Synchronisation
+* OpenMP Scoping
+* Task Parallelism with Sections
+
+### Week 03: Lecture 06 - OpenMP Part II
+
+* Parallel Reduction
+* Scheduling
+* Nesting
+
+### Week 04: Lecture 07 - GPU Architectures
+
+* What is a GPU?
+* General Purpose Computation on GPUs (and GPU History)
+* GPU CUDA Hardware Model
+* Accelerated Systems
+
+### Week 04: Lecture 08 - Introduction to CUDA
+
+* CUDA Programming Model
+* CUDA Device Code
+* CUDA Host Code and Memory Management
+* CUDA Compilation and execution in Visual Studio
+
+### Week 05: Lecture 09 - CUDA Memory
+
+* Memory Hierarchy Overview
+* Global Memory
+* Constant Memory
+* Texture and Read-only Memory
+* Roundup & Performance Timing
+
+### Week 05: MOLE QUIZ (DIA-002, Computer room 2)
+
+### Week 06: Lecture 10 - CUDA Shared Memory
+
+* Shared Memory
+* Shared Memory Bank Conflicts
+* 2D Shared Memory Bank Conflicts
+* Boundary Conditions for Shared Memory Loading
+* Host-side Configurations for Shared Memory
+
+### Week 06: Lecture 11 - CUDA Performance
+
+* Global Memory Coalescing
+* Global Memory Coalescing with the L1 Cache
+* Occupancy and Thread Block Dimensions
+
+### Easter Vacation
+
 
 # Labs
 
