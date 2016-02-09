@@ -32,7 +32,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 
 # Labs
 
-Labs will take place on Tuesdays 9:00 until 11:00 in the Diamond High Spec Lab (DIA-207). Weeks 10 and 11 will be for assignment help. There will be no lab in week 12.
+Labs will take place on Tuesdays 9:00 until 11:00 in the Diamond High Spec Lab (DIA-206). Weeks 10 and 11 will be for assignment help. There will be no lab in week 12.
 
 Lab sheets are available via Google Drive [Lab Sheets](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMdHdCQS1RZGVsNXM&usp=sharing), [Lab Solutions](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMV3VsSjA1SFo5ODQ&usp=sharing) (you will need to login with your university credentials).
 
