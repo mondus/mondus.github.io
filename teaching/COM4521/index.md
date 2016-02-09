@@ -29,6 +29,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * Functions and Scoping
 * Arrays, Strings and Basic IO
 * File IO
+* Visual Studio 2013 Overview ([availble as a seperate download](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcHBVR05GQkUwWEE/view?usp=sharing))
 
 # Labs
 
