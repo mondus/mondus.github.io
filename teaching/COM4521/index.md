@@ -114,6 +114,12 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 * [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMc0tzQ2lCNzdSNkk/view?usp=sharing)
 * [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMY0ExNjg0TGxQWlk/view?usp=sharing)
 * [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMWXR4ZFFWQmowcWM/view?usp=sharing)
+* 
+### Lab 02 - Memory and Performance
+
+* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMSUNzVGxBMVd4dE0/view?usp=sharing)
+* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTWlHQnZlczhSNGM/view?usp=sharing)
+* Solution
 
 # Feedback
 
