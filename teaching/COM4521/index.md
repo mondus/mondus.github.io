@@ -32,7 +32,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * File IO
 * Visual Studio 2013 Overview ([available as a separate download](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcHBVR05GQkUwWEE/view?usp=sharing))
 
-### Week02: Lecture 03 - Memory
+### Week02: Lecture 03 - Memory ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMd005TEprQjBKT2c/view?usp=sharing))
 
 * Pointers
 * Advanced use of Pointers
@@ -40,7 +40,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * Structures
 * Binary Files
 
-### Week 02: Lecture 04 - Optimisation
+### Week 02: Lecture 04 - Optimisation ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMNmVuRWFETW00dDg/view?usp=sharing))
 
 * Optimisation Overview
 * Compute Bound Code
