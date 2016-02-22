@@ -46,7 +46,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * Compute Bound Code
 * Memory Bound Code
 
-### Week 03: Lecture 05 - OpenMP
+### Week 03: Lecture 05 - OpenMP ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMaHc0dGtWeE14SUk/view?usp=sharing))
 
 * Multi-core Systems and OpenMP
 * Parallelising Loops
@@ -54,7 +54,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * OpenMP Scoping
 * Task Parallelism with Sections
 
-### Week 03: Lecture 06 - OpenMP Part II
+### Week 03: Lecture 06 - OpenMP Part II ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMOExXQ0V4TmlETm8/view?usp=sharing))
 
 * Parallel Reduction
 * Scheduling
