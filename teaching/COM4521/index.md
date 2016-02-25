@@ -125,7 +125,7 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 
 * [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMazFrakdrSTNOVm8/view?usp=sharing)
 * [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTUcyRWtzUkxLUmM/view?usp=sharing)
-* Solution
+* [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMNkJyMlZDMEpiQ1U/view?usp=sharing)
 
 # Feedback
 
