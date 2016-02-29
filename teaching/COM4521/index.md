@@ -60,14 +60,14 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * Scheduling
 * Nesting
 
-### Week 04: Lecture 07 - GPU Architectures ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMUXQtRHJ6akZPZ3M/view?usp=sharing)
+### Week 04: Lecture 07 - GPU Architectures ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMUXQtRHJ6akZPZ3M/view?usp=sharing))
 
 * What is a GPU?
 * General Purpose Computation on GPUs (and GPU History)
 * GPU CUDA Hardware Model
 * Accelerated Systems
 
-### Week 04: Lecture 08 - Introduction to CUDA ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMdXFoZ1NIM3lnRUk/view?usp=sharing)
+### Week 04: Lecture 08 - Introduction to CUDA ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMdXFoZ1NIM3lnRUk/view?usp=sharing))
 
 * CUDA Programming Model
 * CUDA Device Code
