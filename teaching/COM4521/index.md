@@ -129,9 +129,9 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 
 ### Lab 04 - Introduction to CUDA
 
-*[Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMalBCUTBsc181cXM/view?usp=sharing)
-*[Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcnRSUjFHZnFiYmc/view?usp=sharing)
-*Solution
+* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMalBCUTBsc181cXM/view?usp=sharing)
+* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcnRSUjFHZnFiYmc/view?usp=sharing)
+* [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMN1RfM0dtMGNBUms/view?usp=sharing)
 
 # Feedback
 
