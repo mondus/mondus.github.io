@@ -133,6 +133,12 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 * [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcnRSUjFHZnFiYmc/view?usp=sharing)
 * [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMN1RfM0dtMGNBUms/view?usp=sharing)
 
+### Lab 05 - Memory
+
+* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTUhRaGRIcm5ZbE0/view?usp=sharing)
+* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMZ3VTdEYtWUF4dmc/view?usp=sharing)
+* Solution
+
 # Feedback
 
 Anonymous feedback can be provided for the course content at any time by [visiting the feedback form](https://goo.gl/0r73gD). For example have you found the content useful, too easy or difficult, or would you like some aspect of the course to be clarified?
