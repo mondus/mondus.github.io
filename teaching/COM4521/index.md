@@ -74,7 +74,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * CUDA Host Code and Memory Management
 * CUDA Compilation and execution in Visual Studio
 
-### Week 05: Lecture 09 - CUDA Memory
+### Week 05: Lecture 09 - CUDA Memory ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcUh4UzZMM1J6aHc/view?usp=sharing))
 
 * Memory Hierarchy Overview
 * Global Memory
