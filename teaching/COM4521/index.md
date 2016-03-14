@@ -84,7 +84,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 
 ### Week 05: MOLE QUIZ (DIA-002, Computer room 2)
 
-### Week 06: Lecture 10 - CUDA Shared Memory
+### Week 06: Lecture 10 - CUDA Shared Memory ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMdmtld0t1aUdUcDQ/view?usp=sharing))
 
 * Shared Memory
 * Shared Memory Bank Conflicts
@@ -92,7 +92,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * Boundary Conditions for Shared Memory Loading
 * Host-side Configurations for Shared Memory
 
-### Week 06: Lecture 11 - CUDA Performance
+### Week 06: Lecture 11 - CUDA Performance ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMWUk1SlFYcEhkMGs/view?usp=sharing))
 
 * Global Memory Coalescing
 * Global Memory Coalescing with the L1 Cache
@@ -138,6 +138,12 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 * [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTUhRaGRIcm5ZbE0/view?usp=sharing)
 * [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMZ3VTdEYtWUF4dmc/view?usp=sharing)
 * [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMUm9zb1N6UWxjUlU/view?usp=sharing)
+
+### Lab 06 - Shared Memory and Occupancy
+
+* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMOFQxbGJneWNXZW8/view?usp=sharing)
+* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMNjBxbnRwVy1oZTA/view?usp=sharing)
+* [Solution]: Availble after easter
 
 # Feedback
 
