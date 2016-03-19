@@ -141,8 +141,10 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 
 ### Lab 06 - Shared Memory and Occupancy
 
-* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMOFQxbGJneWNXZW8/view?usp=sharing) [Revised Lab sheet with row major access](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMLXFqaHBlcHRuVTQ/view?usp=sharing)
-* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMNjBxbnRwVy1oZTA/view?usp=sharing) [Revised Source Code with row major access](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMMlp1Y0E3dlhUU1E/view?usp=sharing)
+* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMOFQxbGJneWNXZW8/view?usp=sharing) 
+* [Revised Lab sheet with row major access](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMLXFqaHBlcHRuVTQ/view?usp=sharing)
+* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMNjBxbnRwVy1oZTA/view?usp=sharing) 
+* [Revised Source Code with row major access](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMMlp1Y0E3dlhUU1E/view?usp=sharing)
 * Solution: Availble after easter
 
 # Feedback
