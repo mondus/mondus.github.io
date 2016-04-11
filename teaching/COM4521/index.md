@@ -158,6 +158,13 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 * [Revised Source Code with row major access](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMMlp1Y0E3dlhUU1E/view?usp=sharing)
 * [Solution for orginal lab sheet](https://drive.google.com/open?id=0B2HbOiEppVPMTE5YQ2xKZGpNYXM)
 * [Solution for revised row major version](https://drive.google.com/open?id=0B2HbOiEppVPMM2ZaS0NNczBON28)
+ 
+### Lab 07 - Atomics and Primitives
+
+* [Lab Sheet](https://drive.google.com/open?id=0B2HbOiEppVPMSXJRb2E2aFhrTjQ)
+* [Source Code](https://drive.google.com/open?id=0B2HbOiEppVPMOTRFQXRYRTQwem8)
+* Solution
+
 
 # Feedback
 
