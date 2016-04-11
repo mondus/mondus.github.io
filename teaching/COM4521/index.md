@@ -145,7 +145,8 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 * [Revised Lab sheet with row major access](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMLXFqaHBlcHRuVTQ/view?usp=sharing)
 * [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMNjBxbnRwVy1oZTA/view?usp=sharing) 
 * [Revised Source Code with row major access](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMMlp1Y0E3dlhUU1E/view?usp=sharing)
-* Solution: Availble after easter
+* [Solution for orginal lab sheet](https://drive.google.com/open?id=0B2HbOiEppVPMTE5YQ2xKZGpNYXM)
+* [Solution for revised row major version](https://drive.google.com/open?id=0B2HbOiEppVPMM2ZaS0NNczBON28)
 
 # Feedback
 
