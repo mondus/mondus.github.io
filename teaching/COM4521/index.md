@@ -100,6 +100,17 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 
 ### Easter Vacation
 
+### Week 07: Lecture 12 - Warp Level CUDA ([pdf](https://drive.google.com/open?id=0B2HbOiEppVPMbXhfUEcySkxoX3M))
+
+* Warp Scheduling and Divergence
+* Atomics
+* Warp Operations
+
+### Week 07: Lecture 13 - Parallel Patterns ([pdf](https://drive.google.com/open?id=0B2HbOiEppVPMNkJ4NWtvck04M28))
+
+* Parallel Patterns Overview
+* Reduction
+* Scan
 
 # Labs
 
