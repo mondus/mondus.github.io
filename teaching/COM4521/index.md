@@ -163,7 +163,7 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 
 * [Lab Sheet](https://drive.google.com/open?id=0B2HbOiEppVPMSXJRb2E2aFhrTjQ)
 * [Source Code](https://drive.google.com/open?id=0B2HbOiEppVPMOTRFQXRYRTQwem8)
-* Solution
+* [Solution](https://drive.google.com/open?id=0B2HbOiEppVPMVUhNMGRmOHdfeTQ)
 
 
 # Feedback
