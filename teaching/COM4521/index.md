@@ -112,6 +112,20 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * Reduction
 * Scan
 
+### Week 08: Lecture 14 - Sorting and Libraries ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMN2t2dEN3TWxBaUU/view?usp=sharing))
+
+* Sorting Networks
+* Merge and Bitonic Sort
+* Thrust Parallel Primitives Library
+* Applications of Sorting (binning)
+
+### Week 08: Lecture 15 - CUDA Streams ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMNUt6UkJieW9XX2c/view?usp=sharing))
+
+* Synchronous and Asynchronous execution 
+* CUDA Streams
+* Synchronisation
+* Multi GPU Programming
+
 # Labs
 
 Labs will take place on Tuesdays 9:00 until 10:50 in the Diamond High Spec Lab (DIA-206). Weeks 10 and 11 will be for assignment help. There will be no lab in week 12.
