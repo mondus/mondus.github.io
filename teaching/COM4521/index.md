@@ -105,6 +105,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * Warp Scheduling and Divergence
 * Atomics
 * Warp Operations
+* [Excel cheet sheet for SM conflicts](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMYlVQU2t4Y3NJWUE/view?usp=sharing)
 
 ### Week 07: Lecture 13 - Parallel Patterns ([pdf](https://drive.google.com/open?id=0B2HbOiEppVPMNkJ4NWtvck04M28))
 
