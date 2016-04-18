@@ -180,6 +180,12 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 * [Source Code](https://drive.google.com/open?id=0B2HbOiEppVPMOTRFQXRYRTQwem8)
 * [Solution](https://drive.google.com/open?id=0B2HbOiEppVPMVUhNMGRmOHdfeTQ)
 
+### Lab 08 - Libraries and Streams
+
+* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMVzhKYVc2OUVtTVk/view?usp=sharing)
+* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMZGdDMWNDd2padmc/view?usp=sharing)
+* Solution
+
 
 # Feedback
 
