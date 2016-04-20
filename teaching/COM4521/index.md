@@ -127,9 +127,19 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * Synchronisation
 * Multi GPU Programming
 
+### Week 9: Lecture 16 and 17 - Performance Optimisation
+
+### Week 10: BANK HOLIDAY 
+
+MOLE quiz has moved to following days lab. i.e. 9:00am Tuesday 3rd May in Diamond High Spec Lab (DIA-206).
+
+### Week 11: Lecture 18 - Invited Talk, "Optimising single source shortest path on the GPU", by Peter Heywood
+
+### Week 12: No lecture
+
 # Labs
 
-Labs will take place on Tuesdays 9:00 until 10:50 in the Diamond High Spec Lab (DIA-206). Weeks 10 and 11 will be for assignment help. There will be no lab in week 12.
+Labs will take place on Tuesdays 9:00 until 10:50 in the Diamond High Spec Lab (DIA-206). Weeks 9 and 11 will be for assignment help. There will be no lab in week 12.
 
 Lab sheets are available via Google Drive [Lab Sheets](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMdHdCQS1RZGVsNXM&usp=sharing), [Lab Solutions](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMV3VsSjA1SFo5ODQ&usp=sharing) (you will need to login with your university credentials).
 
