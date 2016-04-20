@@ -8,10 +8,10 @@ layout: homepage
 Accelerator architectures are discrete processing units which supplement a base processor with the objective of providing advanced performance at lower energy cost. Performance is gained by a design which favours a high number of parallel compute cores at the expense of imposing significant software challenges. This module looks at accelerated computing from multi-core CPUs to GPU accelerators with many TFlops of theoretical performance. The module will give insight into how to write high performance code with specific emphasis on GPU programming with NVIDIA CUDA GPUs. A key aspect of the module will be understanding what the implications of program code are on the underlying hardware so that it can be optimised.
  
 The modules aims, objectives and assessment details are available on the [modules public teaching page](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level4/com4521.html).
- 
+
 # Lecture Notes
 
-Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre DIA-LT09. On weeks 5 and 10 the second half of the lecture will be a MOLE quiz. Week 11 will be an invited lecture (details to be confirmed).
+Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre DIA-LT09. In week 5 the second half of the lecture will be a MOLE quiz (The second MOLE quiz in in week 10 lab) . Week 11 will be an invited lecture.
 
 Lectures notes are available via [Google Drive](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMNmprekpuT3UteEk&usp=sharing) (you will need to login with your university credentials).
 
@@ -133,7 +133,9 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 
 MOLE quiz has moved to following days lab. i.e. 9:00am Tuesday 3rd May in Diamond High Spec Lab (DIA-206).
 
-### Week 11: Lecture 18 - Invited Talk, "Optimising single source shortest path on the GPU", by Peter Heywood
+### Week 11: Lecture 18 - Invited Talk
+
+"Optimising single source shortest path on the GPU", by Peter Heywood
 
 ### Week 12: No lecture
 
