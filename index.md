@@ -9,6 +9,9 @@ Dr Richmond is a research focused Research Software Engineer who has recently be
 
 Dr Richmond has a proven track-record of forming inter-disciplinary collaborations to achieve agenda-driven research. His work focuses on developing software which facilitates the pioneering use of emerging high-performance computing architectures for complex systems simulation within computational science and engineering. He is an excellent communicator with a long term record of engaging scientists and engineers from diverse interdisciplinary fields to deliver requirement-driven software solutions.
 
+# News 21/04/16: 
+[I have a full time Research Software Engineer position available](./teaching/postitions)
+
 
 <div style="text-align:center" markdown="1">
 ![Dr Paul Richmond](./assets/images/paulrichmond.jpg "Dr Paul Richmond")
