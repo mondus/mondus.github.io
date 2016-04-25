@@ -132,6 +132,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * Profiling Introduction
 * The Problem
 * Visual Profiler Guided Analysis
+* Profiling in tha lab ([available as a seperate download](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTEV3dmprek5UZnc/view?usp=sharing))
 
 ### Week 10: BANK HOLIDAY 
 
@@ -202,6 +203,9 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 * [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMV0FPVVhjSHpSUUE/view?usp=sharing)
 * Solution
 
+### Lab 09 - Assignment Help
+
+* ([Profiling in the Diamond Lab](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTEV3dmprek5UZnc/view?usp=sharing))
 
 # Feedback
 
