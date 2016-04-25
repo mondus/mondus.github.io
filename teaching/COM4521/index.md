@@ -205,7 +205,7 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 
 ### Lab 09 - Assignment Help
 
-* ([Profiling in the Diamond Lab](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTEV3dmprek5UZnc/view?usp=sharing))
+* [Profiling in the Diamond Lab](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTEV3dmprek5UZnc/view?usp=sharing)
 
 # Feedback
 
