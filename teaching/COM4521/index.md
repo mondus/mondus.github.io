@@ -127,7 +127,11 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * Synchronisation
 * Multi GPU Programming
 
-### Week 9: Lecture 16 and 17 - Performance Optimisation
+### Week 9: Lecture 16 and 17 - Performance Optimisation ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMM0ZqT0xYcEV1ZjQ/view?usp=sharing))
+
+* Profiling Introduction
+* The Problem
+* Visual Profiler Guided Analysis
 
 ### Week 10: BANK HOLIDAY 
 
