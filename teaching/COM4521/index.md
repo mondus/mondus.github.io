@@ -91,6 +91,7 @@ Lectures notes are available via [Google Drive](https://drive.google.com/a/sheff
 * 2D Shared Memory Bank Conflicts
 * Boundary Conditions for Shared Memory Loading
 * Host-side Configurations for Shared Memory
+* [Shared Memory Bank Conflict Calculator](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMYlVQU2t4Y3NJWUE/view?usp=sharing)
 
 ### Week 06: Lecture 11 - CUDA Performance ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMWUk1SlFYcEhkMGs/view?usp=sharing))
 
