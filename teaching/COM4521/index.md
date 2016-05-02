@@ -202,11 +202,18 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 
 * [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMVzhKYVc2OUVtTVk/view?usp=sharing)
 * [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMV0FPVVhjSHpSUUE/view?usp=sharing)
-* Solution
+* [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMeE9heUlLRmtneFU/view?usp=sharing)
 
-### Lab 09 - Assignment Help
+### No Lab Sheet Exercise or Code for Week 09 - Assignment Help
 
 * [Profiling in the Diamond Lab](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTEV3dmprek5UZnc/view?usp=sharing)
+* Review the profiling code form the lectures 
+
+### Lab 09 - CUDA OpenGL Interop
+
+* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMSW15clJuYXRCQ1E/view?usp=sharing)
+* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTUE1TF9Pb2RZZGc/view?usp=sharing)
+* Solution
 
 # Feedback
 
