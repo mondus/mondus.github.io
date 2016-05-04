@@ -213,7 +213,7 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 
 * [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMSW15clJuYXRCQ1E/view?usp=sharing)
 * [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTUE1TF9Pb2RZZGc/view?usp=sharing)
-* Solution
+* [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMemtCbmU1SVlOV0E/view?usp=sharing)
 
 # Feedback
 
