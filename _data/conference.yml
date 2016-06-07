@@ -1,3 +1,11 @@
+- title: "Feasibility Study of Multi-Agent Simulation at the Cellular Level with FLAME GPU"
+  author-list: "de Paiva Oliveira A, Richmond P"
+  year: "2016"
+  publication: "Proceeding of the Twenty-Ninth International Flairs Conference, pages 398-403" 
+  abstract: "Multi-Agent Systems (MAS) are a common approach to simulating biological systems. Multi-agent modelling provides a natural method for describing individual level behaviours of cells. However, the computation cost of simulating behaviours at an individual level is considerably larger than top down equation based modelling approaches. A recent possibility to improve computational performance is the use of Graphics Processing Units (GPUs) to provide the necessary parallel computing power. In this paper we show that multi-agent models describing biological systems at cellular level are well suited to GPU acceleration. Cellular level systems are characterised by vast numbers of agents that intensively communicate, indirectly through diffusion of chemical substances, or directly, through connection of chemical receptors. We present a study which utilises the FLAME GPU software to target a MAS model of a generic pathogen induced infection to validate the suitability of the GPU for simulation of a broader class of cellular level systems."
+  url: "http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12797"
+  pdf: "http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12797/12601"
+
 - title: "Large-Scale Simulations with FLAME"
   author-list: "Coakley S, Richmond P, Gheorghe M, Chin S, Worth D, Holcombe M, Greenough C"
   year: "2016"
