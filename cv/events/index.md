@@ -24,6 +24,7 @@ layout: homepage
 * Poster at Harmony COMBINE, "The SpineML toolchain: Enabling computational neuroscience through flexible tools for creating, sharing, and simulating neural models", Manchester (UK), July 2014
 
 ## 2013
+* Poster at SfN (Presented by Alex Cope), "The SpineML toolchain for the creation of spiking neural networks", San Diego, November 2013
 * Poster Presented at CIBD, "Osteolytica: Osteolytic Lesion Analysis Software", Miami, November 2013
 * Poster Presented at Remote Sensing from Small Unmanned Aerial Systems, "A UAV for RIver Habitat Surveys", Worcester, July 2013
 * Second place winner of SET for Britain 2013 Engineering category at the House of Commons EPSRC News article, March 2013 [News Link](http://www.epsrc.ac.uk/newsevents/news/topawards/)
