@@ -1,3 +1,9 @@
+- title: "From GUI to GPU: A toolchain for GPU code generation for large scale Drosophila simulations using SpineML (CNS Extended Abstract)"
+  author-list: "Adam Tomkins, Carlos Luna Ortiz, Daniel Coca and Paul Richmond"
+  year: "2016"
+  publication "Front. Neuroinform. Conference Abstract: Neuroinformatics 2016. doi: 10.3389/conf.fninf.2016.20.00049"
+  url: "http://www.frontiersin.org/10.3389/conf.fninf.2016.20.00049/event_abstract"
+
 - title: "Feasibility Study of Multi-Agent Simulation at the Cellular Level with FLAME GPU"
   author-list: "de Paiva Oliveira A, Richmond P"
   year: "2016"
@@ -33,6 +39,12 @@
   abstract: "Simulation of complex systems provides a computational challenge due to the amount of computational performance required to simulate all individuals within a large population. The Graphics Processing Unit (GPU) presents a potential solution. Using the CUDA programming language GPUs can be programmed for general purpose use. Unfortunately the translation of a complex systems model to CUDA code is a non-trivial task requiring specialist knowledge of the architecture to obtain good performance. This paper reviews FLAME GPU a framework which provides transparent mapping and simulation of complex systems models to a CUDA enabled GPU. The framework has considerable performance benefits over its CPU counterpart and provides real-time visualisation for interactive steering of simulations in domains as diverse as computational biology and pedestrian dynamics."
   url: "http://emit.manchester.ac.uk/programme2015/"
   pdf: "./emit2015.pdf"
+  
+- title: "The SpineML toolchain: enabling computational neuroscience through flexible tools for creating, sharing, and simulating neural models (extended abstract)"
+  author-list: "Alexander J Cope, Paul Richmond, and Dave Allerton"
+  year: "2014"
+  publication: "BMC Neuroscience. 2014;15(Suppl 1):P224. doi:10.1186/1471-2202-15-S1-P224."
+  url: "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4126439/"
   
 - title: "Resolving conflicts between multiple competing agents in parallel simulations"
   author-list: "Richmond P"
