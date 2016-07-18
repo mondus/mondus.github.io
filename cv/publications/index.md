@@ -26,7 +26,7 @@ layout: homepage
 	{% endfor %}
 </ul>
 
-# Conference Proceedings
+# Peer Reviewed Conference Proceedings (and extended abstracts)
 
 <ul class="list-of-papers">
 	{% for paper in site.data.conference %}
