@@ -1,7 +1,7 @@
 - title: "From GUI to GPU: A toolchain for GPU code generation for large scale Drosophila simulations using SpineML (CNS Extended Abstract)"
   author-list: "Adam Tomkins, Carlos Luna Ortiz, Daniel Coca and Paul Richmond"
   year: "2016"
-  publication "Front. Neuroinform. Conference Abstract: Neuroinformatics 2016. doi: 10.3389/conf.fninf.2016.20.00049"
+  publication: "Front. Neuroinform. Conference Abstract: Neuroinformatics 2016. doi: 10.3389/conf.fninf.2016.20.00049"
   url: "http://www.frontiersin.org/10.3389/conf.fninf.2016.20.00049/event_abstract"
 
 - title: "Feasibility Study of Multi-Agent Simulation at the Cellular Level with FLAME GPU"
