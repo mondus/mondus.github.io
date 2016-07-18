@@ -5,6 +5,11 @@ layout: homepage
 
 # Events and Talks
 
+## 2016
+
+* Invited talk at Oxford University e-Science Centre, "Complex System Simulations on GPUs: Accelerating network flow simulations of transport systems.", MAny core computing seminar series.
+* Accepted talk at Modelling World 2016, "Alternative GPU friendly assignment algorithms" given by Paul Richmond and Peter Heywood as part of the Acclerating Models session.
+
 ## 2015
 
 * Invited Presentation to ATKINS, "GPU Computing"
@@ -16,11 +21,9 @@ layout: homepage
 * Installation of Pedestrian Simulation Demonstrator at the Transport Systems Catapult, June 2014 [News Link](http://www.sheffield.ac.uk/dcs/about/news/2014/transport_catapult)
 * Invited talk at DNVGL, "Emerging Accelerator Architectures with Application to Complex Systems Simulation", July 2014
 * Invited talk at Agents and Simulated Reality Group in DFKI Saarbruecken, "Complex Systems Simulation on Emerging Parallel Architectures", July 2014
-* Poster at CNS (Presented by Alex Cope), "The SpineML toolchain: Enabling computational neuroscience through flexible tools for creating, sharing, and simulating neural models", Quebec City, July 2014
 * Poster at Harmony COMBINE, "The SpineML toolchain: Enabling computational neuroscience through flexible tools for creating, sharing, and simulating neural models", Manchester (UK), July 2014
 
 ## 2013
-* Poster at SfN (Presented by Alex Cope), "The SpineML toolchain for the creation of spiking neural networks", San Diego, November 2013
 * Poster Presented at CIBD, "Osteolytica: Osteolytic Lesion Analysis Software", Miami, November 2013
 * Poster Presented at Remote Sensing from Small Unmanned Aerial Systems, "A UAV for RIver Habitat Surveys", Worcester, July 2013
 * Second place winner of SET for Britain 2013 Engineering category at the House of Commons EPSRC News article, March 2013 [News Link](http://www.epsrc.ac.uk/newsevents/news/topawards/)
