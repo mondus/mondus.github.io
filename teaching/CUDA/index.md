@@ -9,21 +9,21 @@ The introduction to CUDA course runs twice yearly, usually in March and November
 
 # Lectures and Practical Tutorials
 
-The course material (Lectures and lab classes) is available at the [GPUComputing@Sheffield training page](http://gpucomputing.sites.sheffield.ac.uk/training-and-events) or below. Note the links redirect to the GPUComputing@Sheffield google sites page.
+The course material (Lectures and lab classes) are available below. The exercise instructions are designed for Sheffields Iceberg system but they can be run anywhere.
 
-[![Lecture 1](../../assets/images/powerpoint.png){: .icon} **Lecture 1**: Introduction to GPU Programming with CUDA](https://sites.google.com/a/sheffield.ac.uk/gpucomputing/training-and-events/01%20-%20Introduction%20%28GPU%20Programming%20with%20CUDA%29.pptx?attredirects=0&d=1)
+[![Lecture 1](../../assets/images/powerpoint.png){: .icon} **Lecture 1**: Introduction to GPU Programming with CUDA](https://drive.google.com/file/d/0B2HbOiEppVPMNnFuZm4xTmc1MkE/view?usp=sharing)
 
-[![Lecture 2](../../assets/images/powerpoint.png){: .icon} **Lecture 2**: Accelerator Architectures](https://sites.google.com/a/sheffield.ac.uk/gpucomputing/training-and-events/02%20-%20Architectures.pptx?attredirects=0&d=1)
+[![Lecture 2](../../assets/images/powerpoint.png){: .icon} **Lecture 2**: Accelerator Architectures](https://drive.google.com/file/d/0B2HbOiEppVPMNFBWZ21vNkYybTg/view?usp=sharing)
 
-[![Lecture 3](../../assets/images/powerpoint.png){: .icon} **Lecture 3**: CUDA Programming](https://sites.google.com/a/sheffield.ac.uk/gpucomputing/training-and-events/03%20-%20CUDA%20Programming.pptx?attredirects=0&d=1)
+[![Lecture 3](../../assets/images/powerpoint.png){: .icon} **Lecture 3**: CUDA Programming](https://drive.google.com/file/d/0B2HbOiEppVPMeFpMQ3FRRDF5XzA/view?usp=sharing)
 
-[![Lecture 4](../../assets/images/powerpoint.png){: .icon} **Lecture 4**: CUDA Optimisation](https://sites.google.com/a/sheffield.ac.uk/gpucomputing/training-and-events/04%20-%20CUDA%20Optimisation.pptx?attredirects=0&d=1)
+[![Lecture 4](../../assets/images/powerpoint.png){: .icon} **Lecture 4**: CUDA Optimisation](https://drive.google.com/file/d/0B2HbOiEppVPMLWZ2NVczOVBtaTA/view?usp=sharing)
 
-[![Lecture 5](../../assets/images/powerpoint.png){: .icon} **Lecture 5**: Advanced CUDA Features](https://sites.google.com/a/sheffield.ac.uk/gpucomputing/training-and-events/05%20-%20Advanced%20CUDA%20Features.pptx?attredirects=0&d=1)
+[![Lecture 5](../../assets/images/powerpoint.png){: .icon} **Lecture 5**: Advanced CUDA Features](https://drive.google.com/file/d/0B2HbOiEppVPMN3U5NDFOZ21QRTg/view?usp=sharing)
 
-[![Tutorial](../../assets/images/pdf.png){: .icon} **Tutorial**: Exercise Sheet](https://sites.google.com/a/sheffield.ac.uk/gpucomputing/training-and-events/LearnCUDAPractical.pdf?attredirects=0&d=1)
+[![Tutorial](../../assets/images/pdf.png){: .icon} **Tutorial**: Exercise Sheet](https://drive.google.com/file/d/0B2HbOiEppVPMMFFHRkxZcC1iWHM/view?usp=sharing)
 
-[![Archive](../../assets/images/tgz.png){: .icon} **Tgz Archive**: Exercise Sheet Code](https://sites.google.com/a/sheffield.ac.uk/gpucomputing/training-and-events/learnCUDAsheffield.tgz?attredirects=0&d=1)
+[![Archive](../../assets/images/tgz.png){: .icon} **Tgz Archive**: Exercise Sheet Code](https://drive.google.com/file/d/0B2HbOiEppVPMMjJoemRfZUVhQzQ/view?usp=sharing)
 
-[![Archive](../../assets/images/tgz.png){: .icon} **Tgz Archive**: Exercise Sheet Code Solutions](https://sites.google.com/a/sheffield.ac.uk/gpucomputing/training-and-events/learnCUDAsheffield_solutions_all.tgz?attredirects=0&d=1)
+[![Archive](../../assets/images/tgz.png){: .icon} **Tgz Archive**: Exercise Sheet Code Solutions](https://drive.google.com/file/d/0B2HbOiEppVPMVU04ZEFIZDNrNXM/view?usp=sharing)
 
