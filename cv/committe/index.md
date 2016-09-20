@@ -7,6 +7,7 @@ layout: homepage
 
 ## 2016
 
+* Reviewer for Journal of Molecular Graphics and Modelling
 * Chair of OpenAB (Open Agent Benchmark Initiative for Parallel and Distributed Benchmarking) [link](http://www.openab.org/)
 * Program Committee for 3nd Workshop on Parallel and Distributed Agent-Based Simulations [link](http://www.padabs.org/)
 * Reviewer for PRACE 12th Project access call.
