@@ -1,3 +1,11 @@
+- title: "SpineCreator: a Graphical User Interface for the Creation of Layered Neural Models"
+  author-list: "A. J. Cope, P. Richmond, S. S. James, K. Gurney, D. J. Allerton"
+  year: "2016"
+  publication: "Neuroinform (2016). doi:10.1007/s12021-016-9311-z"
+  abstract: "There is a growing requirement in computational neuroscience for tools that permit collaborative model building, model sharing, combining existing models into a larger system (multi-scale model integration), and are able to simulate models using a variety of simulation engines and hardware platforms. Layered XML model specification formats solve many of these problems, however they are difficult to write and visualise without tools. Here we describe a new graphical software tool, SpineCreator, which facilitates the creation and visualisation of layered models of point spiking neurons or rate coded neurons without requiring the need for programming. We demonstrate the tool through the reproduction and visualisation of published models and show simulation results using code generation interfaced directly into SpineCreator. As a unique application for the graphical creation of neural networks, SpineCreator represents an important step forward for neuronal modelling."
+  url: "http://www.springer.com/-/3/AVc6PiFTeTu33jDFj2V1"
+  pdf: "http://link.springer.com/content/pdf/10.1007%2Fs12021-016-9311-z.pdf"
+  
 - title: "Osteolytica: An automated image analysis software package that rapidly measures cancer-induced osteolytic lesions in in vivo models with greater reproducibility compared to other commonly used methods."
   author-list: "Evans HR, Karmakharm T, Lawson MA, Walker RE, Harris W, Fellows C, Huggins ID, Richmond P, Chantry AD"
   year: "2015"
