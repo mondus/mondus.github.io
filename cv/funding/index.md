@@ -7,7 +7,7 @@ layout: homepage
 
 * SIEMENS and IIKE POC (P.I.), "Traveller Focused Integrated Multi-Model Transport Simulation", May 2016 49k
 * EPSRC Early Career Research Software Engineering Fellowship (P.I), "Accelerating Scientific Discovery with Accelerated Computing", February 2016 - February 2021
-* BBSRC (C.I.), "The Digital Fruit Fly Brain", 656k
+* BBSRC (C.I.), "The Digital Fruit Fly Brain", Sep 15 - Aug 18, 656k
 * Transport Systems Catapult, Industrially funded PhD position (P.I) with Steve Maddock (C.I.), (30k contribution)
 * SATGPU (P.I) with Steve Maddock (C.I.), "Commercial contract with Transport Systems Catapult, Atkins, Highways Agency and STFC", November 2015 - April 2016
 * Vice Chancellors Fellowship (P.I), January 2014 - December 2016, 288k
