@@ -13,18 +13,18 @@ The starting code and solutions for the exercises are hosted on the [AccleratedC
 
 [![Lecture 1](../../../assets/images/pdf.png){: .icon} **Lecture 1**: Introduction](./)
 
-[![Lecture 2](../../../assets/images/pdf.png){: .icon} **Lecture 2**: Architectures Overview](./)
+[![Lecture 2](../../../assets/images/pdf.png){: .icon} **Lecture 2**: Architectures Overview](./02 - Architectures Overview.pdf)
 
-[![Lecture 3](../../../assets/images/pdf.png){: .icon} **Lecture 3**: Introduction to CUDA](./)
+[![Lecture 3](../../../assets/images/pdf.png){: .icon} **Lecture 3**: Introduction to CUDA](./03 - Introduction to CUDA.pdf)
 
-[![Lecture 4](../../../assets/images/pdf.png){: .icon} **Lecture 4**: Optimisation Approaches](./)
+[![Lecture 4](../../../assets/images/pdf.png){: .icon} **Lecture 4**: Optimisation Approaches](./04 - Optimsation Approaches.pdf)
 
-[![Lecture 5](../../../assets/images/pdf.png){: .icon} **Lecture 5**: Advanced Memory](./)
+[![Lecture 5](../../../assets/images/pdf.png){: .icon} **Lecture 5**: Advanced Memory](./05 - Advanced Memory.pdf)
 
 [![Lecture 6](../../../assets/images/pdf.png){: .icon} **Lecture 6**: FLAME GPU](./)
 
 ## Hands On Labs
 
-[![Lab 01](../../../assets/images/pdf.png){: .icon} **Lab 01**: Day 1 Hands on Lab](./)
+[![Lab 01](../../../assets/images/pdf.png){: .icon} **Lab 01**: Day 1 Hands on Lab](./Day 01 Lab.pdf)
 
-[![Lab 02](../../../assets/images/pdf.png){: .icon} **Lab 03**: Day 2 Hands on Lab](./)
+[![Lab 02](../../../assets/images/pdf.png){: .icon} **Lab 03**: Day 2 Hands on Lab](./Day 02 Lab.pdf)
