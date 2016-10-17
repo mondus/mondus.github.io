@@ -79,6 +79,10 @@
       url: "/teaching/CUDA/"
       target: 
       subnav: 
+    - text: "NVIDIA Sponsored Training"
+      url: "/teaching/NVIDIA/"
+      target: 
+      subnav: 
     - text: "COM4521 - Parallel Computing with GPUs"
       url: "/teaching/COM4521/"
       target: 
