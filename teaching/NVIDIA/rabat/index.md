@@ -3,7 +3,7 @@ title: Dr Paul Richmond - Deep Learning, Big Data and Big Compute Camp
 layout: homepage
 ---
 
-# NVIDIA CUDA Training
+# Deep Learning, Big Data and Big Compute Camp
 
 Welcome to the NVIDIA Training Sessions of the Deep Learning, Big Data and Big Compute Camp by Dr Paul Richmond. Lecture notes and lab sheets are provided below. 
 
