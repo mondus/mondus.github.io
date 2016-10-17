@@ -7,7 +7,7 @@ layout: homepage
 
 Welcome to the NVIDIA Training Sessions of the Deep Learning, Big Data and Big Compute Camp by Dr Paul Richmond. Lecture notes and lab sheets are provided below. 
 
-The starting code and solutions for the exercises are hosted on the [AccleratedComputing](www.acceleratedcomputing.ac.uk) github site ([link](https://github.com/AcceleratedComputing/)). If you have questions regarding the content after the lab then please reaise these in the issue tracker with the tag "Question".
+The starting code and solutions for the exercises are hosted on the [AccleratedComputing](http://www.acceleratedcomputing.ac.uk) github site ([link](https://github.com/AcceleratedComputing/)). If you have questions regarding the content after the lab then please raise these in the issue tracker with the tag "Question".
 
 ## Lectures
 
