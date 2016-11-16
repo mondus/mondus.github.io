@@ -28,3 +28,18 @@ My research team consists of the following people. Each of them work in developi
 </div>
 {% endfor %}
 
+# Alumni
+
+{% for person in site.data.alumni %}
+<div class="team-member">
+	<div class="team-member-img">
+	<img src="{{person.img}}" alt="{{person.name}}">
+	</div>
+	<div> 
+		<h3>{{person.name}}</h3>
+		<h4><a href="{{person.website}}">{{person.website}}</a></h4>
+		<p>{{person.description}}</p>
+	</div>
+</div>
+{% endfor %}
+
