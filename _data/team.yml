@@ -1,3 +1,18 @@
+- name: "Mozhgan Kabiri Chimehn"
+  img: "./mozhgan.png"
+  website: "http://rse.shef.ac.uk/blog/mozhgankch_intro/"
+  description: "Mozhgan Kabiri Chimehn is a Research Associate/Research Software Engineer who specialises in performance acceleration targeting Many-core and Multi-core architectures."
+
+- name: "John Charlton"
+  img: "./john.png"
+  website: "http://www.sheffield.ac.uk/dcs/people/researchstudents"
+  description: "John Charlton is a PhD candidate (co-supervised by Dr Steve Maddock) working on improved fidelity of pedestrian crowd simulation and visualisation."
+
+- name: "Carlos Fernandez Musoles"
+  img: "./carlos.png"
+  website: "https://www.sheffield.ac.uk/acse/staff/rstu/fernandezmusoles"
+  description: "Carlos Fernandez Musole is a PhD candidate (co-supervised by DAniel Coca, ACSE) working load balancing and scheduling for complex systems simulations. He is based in ACSE as part of the Digital Fruit Fly Brain group."
+
 - name: "Peter Heywood"
   img: "./pheywood.jpg"
   website: "http://ptheywood.uk/"
@@ -12,8 +27,3 @@
   img: "./ealzahrani.jpg"
   website: "http://www.dcs.shef.ac.uk/dcs/person/E.Alzahrani/makeperson.html"
   description: "Eidah  Alzahrani is a PhD candidate (Supervised by Tony Simons and co-supervised by myself) working on scheduling for multi-agent systems. She is dynamic task scheduling approaches for the FLAME and FLAME GPU software to enable it to be targetted at hybrid and future architectures."
-  
-- name: "Alcione De Paiva Oliveria"
-  img: "./alcione.png"
-  website: "http://www.dpi.ufv.br/pessoas/professores"
-  description: "Alcione De Paiva Oliveria is a visting research from the Informatics Department at the Federal University of Viçosa, Brazil. He is working on developing multi-agent simulations of the immune system using the FLAME GPU software."
