@@ -1,3 +1,8 @@
+---
+title: PhD in Advanced Software Development for Complex Systems Modelling 
+layout: homepage
+---
+
 # PhD in Advanced Software Development for Complex Systems Modelling 
 
 ## Project Description
