@@ -11,7 +11,7 @@ I am continually seeking applications from talented and strongly motivated Softw
 
 The following full funded (UK/EU level) PhD positions are available.
 
-*none currently*
+[Advanced Software Development for Complex Systems Modelling (Closes 03/01/2017)](./flame)
 
  
 
