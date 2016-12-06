@@ -13,6 +13,8 @@ The following full funded (UK/EU level) PhD positions are available.
 
 [Advanced Software Development for Complex Systems Modelling (Closes 03/01/2017)](./flame)
 
+[Modelling genomic and phenotypic evolution in a natural population](./genomic_evolution)
+
  
 
 
