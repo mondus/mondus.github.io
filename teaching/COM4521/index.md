@@ -31,6 +31,7 @@ Two quizes, each 10% of the module mark will be held under exam conditions on
 Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre DIA-LT09. In week 5 the second half of the lecture will be a MOLE quiz (The second MOLE quiz in in week 10 lab) . Week 11 will be an invited lecture.
 
 ### Week 01: 
+
 #### Lecture 01 - Introduction 
 
 * Context and Hardware Trends
