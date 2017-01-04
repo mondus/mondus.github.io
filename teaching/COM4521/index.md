@@ -50,15 +50,25 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * Visual Studio 2013 Overview
 
 ### Week 02: 
+
 ### Week 03: 
+
 ### Week 04: 
+
 ### Week 05: 
+
 ### Week 06: 
+
 ### Week 07: 
+
 ### Week 08: 
+
 ### Week 09: 
+
 ### Week 10: BANK HOLIDAY 
+
 ### Week 11: 
+
 ### Week 12: NO LECTURE
 
 # Labs
