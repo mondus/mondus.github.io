@@ -31,7 +31,7 @@ Two quizes, each 10% of the module mark will be held under exam conditions on
 
 Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre DIA-LT09. In week 5 the second half of the lecture will be a MOLE quiz. Week 11 will be an invited lecture.
 
-### Week 01: 
+## Week 01: 
 
 #### Lecture 01 - Introduction ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMSzlYdVJ4WFFaUjQ/view?usp=sharing))
 
@@ -53,7 +53,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 * Visual Studio 2013 Overview
 
-### Week 02: 
+## Week 02: 
 
 #### Lecture 03 - Memory
 
@@ -69,7 +69,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * Compute Bound Code
 * Memory Bound Code
 
-### Week 03: 
+## Week 03: 
 
 #### Lecture 05 - OpenMP 
 
@@ -85,7 +85,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * Scheduling
 * Nesting
 
-### Week 04: 
+## Week 04: 
 
 #### Lecture 07 - GPU Architectures 
 
@@ -101,7 +101,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * CUDA Host Code and Memory Management
 * CUDA Compilation and execution in Visual Studio
 
-### Week 05: 
+## Week 05: 
 
 #### Lecture 09 - CUDA Memory 
 
@@ -113,7 +113,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 #### MOLE QUIZ
 
-### Week 06: 
+## Week 06: 
 
 #### Lecture 10 - CUDA Shared Memory 
 
@@ -130,7 +130,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * Global Memory Coalescing with the L1 Cache
 * Occupancy and Thread Block Dimensions
 
-### Week 07: 
+## Week 07: 
 
 #### Lecture 12 - Warp Level CUDA 
 
@@ -144,7 +144,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * Reduction
 * Scan
 
-### Week 08: 
+## Week 08: 
 
 #### Lecture 14 - Sorting and Libraries 
 
@@ -162,7 +162,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 ## Easter Vacation
 
-### Week 09: 
+## Week 09: 
 
 #### Lecture 16 and 17 - Performance Optimisation 
 
@@ -171,11 +171,11 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * Visual Profiler Guided Analysis
 * Profiling in tha lab
 
-### Week 10: BANK HOLIDAY 
+## Week 10: BANK HOLIDAY 
 
-### Week 11: Invited Talk
+## Week 11: Invited Talk
 
-### Week 12: NO LECTURE
+## Week 12: NO LECTURE
 
 # Labs
 
@@ -183,72 +183,72 @@ Labs will take place on Tuesdays 9:00 until 10:50 in the Diamond High Spec Lab (
 
 A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87mKyJke4bfbWbUVT7rpio2hN7_RUXRDZIT93j9g/edit?usp=sharing) has been prepared with common questions. This will be continually updated throughout the course.
 
-### Lab Register ###
+## Lab Register ##
 
 The lab register **must** be completed by every student following the completion and review of the exercises. You should complete this only when you have completed the lab **and** reviewed the solutions. You are not expected to complete this during the lab class but you should complete it by the end of the teaching week.
 
 Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
 
-### Lab 01 - C Programming 
+#### Lab 01 - C Programming 
 
 * Lab Sheet
 * Source Code
 * Solution
 
-### Lab 02 - Memory and Performance
+#### Lab 02 - Memory and Performance
 
 * Lab Sheet
 * Source Code
 * Solution
 
-### Lab 03 - OpenMP
+#### Lab 03 - OpenMP
 
 * Lab Sheet
 * Source Code
 * Solution
 
-### Lab 04 - Introduction to CUDA
+#### Lab 04 - Introduction to CUDA
 
 * Lab Sheet
 * Source Code
 * Solution
 
-### Lab 05 - Memory
+#### Lab 05 - Memory
 
 * Lab Sheet
 * Source Code
 * Solution
 
-### Lab 06 - Shared Memory and Occupancy
+#### Lab 06 - Shared Memory and Occupancy
 
 * Lab Sheet
 * Source Code
 * Solution
  
-### Lab 07 - Atomics and Primitives
+#### Lab 07 - Atomics and Primitives
 
 * Lab Sheet
 * Source Code
 * Solution
 
-### Lab 08 - Libraries and Streams
+#### Lab 08 - Libraries and Streams
 
 * Lab Sheet
 * Source Code
 * Solution
 
-### Lab 09 - MOLE QUIZ 2,  Profiling and Assignment Help
+#### Lab 09 - MOLE QUIZ 2,  Profiling and Assignment Help
 
 * Assignment help
 * Profiling your own code in the Diamond Lab
 
-### Lab 10 - CUDA OpenGL Interop
+#### Lab 10 - CUDA OpenGL Interop
 
 * Lab Sheet
 * Source Code
 * Solution
 
-### Lab 11 - Profiling and Assignment Help
+#### Lab 11 - Profiling and Assignment Help
 
 * Assignment help
 * Profiling your own code in the Diamond Lab
