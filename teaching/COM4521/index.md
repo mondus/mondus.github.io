@@ -26,13 +26,14 @@ Two quizes, each 10% of the module mark will be held under exam conditions on
 * Monday the 6th March (16:00-17:00) - Week 5 (This is during the sencond half of the lecture, location to be confirmed)
 * Tuesday the 25th April (9:00-10:00) - Week 9 (This will take place durin normal lab hours)
 
+
 # Lecture Notes
 
-Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre DIA-LT09. In week 5 the second half of the lecture will be a MOLE quiz (The second MOLE quiz in in week 10 lab) . Week 11 will be an invited lecture.
+Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre DIA-LT09. In week 5 the second half of the lecture will be a MOLE quiz. Week 11 will be an invited lecture.
 
 ### Week 01: 
 
-#### Lecture 01 - Introduction 
+#### Lecture 01 - Introduction [pdf](https://drive.google.com/file/d/0B2HbOiEppVPMSzlYdVJ4WFFaUjQ/view?usp=sharing)
 
 * Context and Hardware Trends
 * Supercomputing
@@ -40,13 +41,16 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * Course Outline
 
 
-#### Lecture 02 - Introduction to C
+#### Lecture 02 - Introduction to C [pdf](https://drive.google.com/file/d/0B2HbOiEppVPMd2NkM2txQ2tJVlE/view?usp=sharing)
 
 * Introduction to the C Programming Language
 * Basic C Usage "Hello World"
 * Functions and Scoping
 * Arrays, Strings and Basic IO
 * File IO
+
+#### Lecture 02 - Additional Notes on Visual Studio [pdf](https://drive.google.com/file/d/0B2HbOiEppVPMMW1ZY1Q0Q2MzY2M/view?usp=sharing)
+
 * Visual Studio 2013 Overview
 
 ### Week 02: 
@@ -73,9 +77,11 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 # Labs
 
-Labs will take place on Tuesdays 9:00 until 10:50 in the Diamond High Spec Lab (DIA-206). Weeks 9 (seond half after Quiz) and 11 (full lab) will be for assignment help. There will be no lab in week 12.
+Labs will take place on Tuesdays 9:00 until 10:50 in the Diamond High Spec Lab (DIA-206). Week 9 lab will be a MOLE quiz followed by assignment help. Week 11 (full lab) will be for assignment help. Assignment help will also be availble during any of the normal lab sessions. There will be no lab in week 12.
 
-Lab sheets are available via Google Drive 
+The lab register **must** be completed by every student following the completion and review of the exercises. You should complete this only when you have completed the lab **and** reviewed the solutions. You are not expected to complete this during the lab class but you should complete it by the end of the teaching week.
+
+Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
 
 A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87mKyJke4bfbWbUVT7rpio2hN7_RUXRDZIT93j9g/edit?usp=sharing) has been prepared with common questions. This will be continually updated throughout the course.
 
@@ -140,9 +146,9 @@ A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87
 
 Anonymous feedback can be provided for the course content at any time by [visiting the feedback form](https://goo.gl/0r73gD). For example have you found the content useful, too easy or difficult, or would you like some aspect of the course to be clarified?
 
-# Discussion and Announcements
+# Discussion, Announcements and Help
 
-Discussion and announcements will be made via the modules Gooogle Group.
+Discussion, announcements and help requests (outside of the labs) should be made via the modules public Gooogle Group.
 
 [https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group)
 
