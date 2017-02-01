@@ -33,7 +33,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 ### Week 01: 
 
-#### Lecture 01 - Introduction [pdf](https://drive.google.com/file/d/0B2HbOiEppVPMSzlYdVJ4WFFaUjQ/view?usp=sharing)
+#### Lecture 01 - Introduction ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMSzlYdVJ4WFFaUjQ/view?usp=sharing))
 
 * Context and Hardware Trends
 * Supercomputing
@@ -41,7 +41,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * Course Outline
 
 
-#### Lecture 02 - Introduction to C [pdf](https://drive.google.com/file/d/0B2HbOiEppVPMd2NkM2txQ2tJVlE/view?usp=sharing)
+#### Lecture 02 - Introduction to C ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMd2NkM2txQ2tJVlE/view?usp=sharing))
 
 * Introduction to the C Programming Language
 * Basic C Usage "Hello World"
@@ -49,7 +49,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * Arrays, Strings and Basic IO
 * File IO
 
-#### Lecture 02 - Additional Notes on Visual Studio [pdf](https://drive.google.com/file/d/0B2HbOiEppVPMMW1ZY1Q0Q2MzY2M/view?usp=sharing)
+#### Additional Notes on Visual Studio ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMMW1ZY1Q0Q2MzY2M/view?usp=sharing))
 
 * Visual Studio 2013 Overview
 
@@ -79,11 +79,13 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 Labs will take place on Tuesdays 9:00 until 10:50 in the Diamond High Spec Lab (DIA-206). Week 9 lab will be a MOLE quiz followed by assignment help. Week 11 (full lab) will be for assignment help. Assignment help will also be availble during any of the normal lab sessions. There will be no lab in week 12.
 
+A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87mKyJke4bfbWbUVT7rpio2hN7_RUXRDZIT93j9g/edit?usp=sharing) has been prepared with common questions. This will be continually updated throughout the course.
+
+### Lab Register ###
+
 The lab register **must** be completed by every student following the completion and review of the exercises. You should complete this only when you have completed the lab **and** reviewed the solutions. You are not expected to complete this during the lab class but you should complete it by the end of the teaching week.
 
 Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
-
-A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87mKyJke4bfbWbUVT7rpio2hN7_RUXRDZIT93j9g/edit?usp=sharing) has been prepared with common questions. This will be continually updated throughout the course.
 
 ### Lab 01 - C Programming 
 
