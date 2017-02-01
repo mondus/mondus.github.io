@@ -55,23 +55,125 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 ### Week 02: 
 
+#### Lecture 03 - Memory
+
+* Pointers
+* Advanced use of Pointers
+* Dynamically Managed Memory
+* Structures
+* Binary Files
+
+#### Lecture 04 - Optimisation 
+
+* Optimisation Overview
+* Compute Bound Code
+* Memory Bound Code
+
 ### Week 03: 
+
+#### Lecture 05 - OpenMP 
+
+* Multi-core Systems and OpenMP
+* Parallelising Loops
+* Critical Sections and Synchronisation
+* OpenMP Scoping
+* Task Parallelism with Sections
+
+#### Lecture 06 - OpenMP Part II 
+
+* Parallel Reduction
+* Scheduling
+* Nesting
 
 ### Week 04: 
 
+#### Lecture 07 - GPU Architectures 
+
+* What is a GPU?
+* General Purpose Computation on GPUs (and GPU History)
+* GPU CUDA Hardware Model
+* Accelerated Systems
+
+#### Lecture 08 - Introduction to CUDA 
+
+* CUDA Programming Model
+* CUDA Device Code
+* CUDA Host Code and Memory Management
+* CUDA Compilation and execution in Visual Studio
+
 ### Week 05: 
+
+#### Lecture 09 - CUDA Memory 
+
+* Memory Hierarchy Overview
+* Global Memory
+* Constant Memory
+* Texture and Read-only Memory
+* Roundup & Performance Timing
+
+#### MOLE QUIZ
 
 ### Week 06: 
 
+#### Lecture 10 - CUDA Shared Memory 
+
+* Shared Memory
+* Shared Memory Bank Conflicts
+* 2D Shared Memory Bank Conflicts
+* Boundary Conditions for Shared Memory Loading
+* Host-side Configurations for Shared Memory
+* [Shared Memory Bank Conflict Calculator](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMYlVQU2t4Y3NJWUE/view?usp=sharing)
+
+#### Lecture 11 - CUDA Performance 
+
+* Global Memory Coalescing
+* Global Memory Coalescing with the L1 Cache
+* Occupancy and Thread Block Dimensions
+
 ### Week 07: 
+
+#### Lecture 12 - Warp Level CUDA 
+
+* Warp Scheduling and Divergence
+* Atomics
+* Warp Operations
+
+#### Lecture 13 - Parallel Patterns 
+
+* Parallel Patterns Overview
+* Reduction
+* Scan
 
 ### Week 08: 
 
+#### Lecture 14 - Sorting and Libraries 
+
+* Sorting Networks
+* Merge and Bitonic Sort
+* Thrust Parallel Primitives Library
+* Applications of Sorting (binning)
+
+#### Lecture 15 - CUDA Streams 
+
+* Synchronous and Asynchronous execution 
+* CUDA Streams
+* Synchronisation
+* Multi GPU Programming
+
+## Easter Vacation
+
 ### Week 09: 
+
+#### Lecture 16 and 17 - Performance Optimisation 
+
+* Profiling Introduction
+* The Problem
+* Visual Profiler Guided Analysis
+* Profiling in tha lab
 
 ### Week 10: BANK HOLIDAY 
 
-### Week 11: 
+### Week 11: Invited Talk
 
 ### Week 12: NO LECTURE
 
@@ -89,64 +191,67 @@ Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
 
 ### Lab 01 - C Programming 
 
-* [Lab Sheet]()
-* [Source Code]()
-* [Solution]()
+* Lab Sheet
+* Source Code
+* Solution
 
 ### Lab 02 - Memory and Performance
 
-* [Lab Sheet]()
-* [Source Code]()
-* [Solution]()
+* Lab Sheet
+* Source Code
+* Solution
 
 ### Lab 03 - OpenMP
 
-* [Lab Sheet]()
-* [Source Code]()
-* [Solution]()
+* Lab Sheet
+* Source Code
+* Solution
 
 ### Lab 04 - Introduction to CUDA
 
-* [Lab Sheet]()
-* [Source Code]()
-* [Solution]()
+* Lab Sheet
+* Source Code
+* Solution
 
 ### Lab 05 - Memory
 
-* [Lab Sheet]()
-* [Source Code]()
-* [Solution]()
+* Lab Sheet
+* Source Code
+* Solution
 
 ### Lab 06 - Shared Memory and Occupancy
 
-* [Lab Sheet]()
-* [Source Code]()
-* [Solution]()
+* Lab Sheet
+* Source Code
+* Solution
  
 ### Lab 07 - Atomics and Primitives
 
-* [Lab Sheet]()
-* [Source Code]()
-* [Solution]()
+* Lab Sheet
+* Source Code
+* Solution
 
 ### Lab 08 - Libraries and Streams
 
-* [Lab Sheet]()
-* [Source Code]()
-* [Solution]()
+* Lab Sheet
+* Source Code
+* Solution
 
-### Lab 09 - QUIZ 2,  Profiling and Assignment Help
+### Lab 09 - MOLE QUIZ 2,  Profiling and Assignment Help
 
-* [Profiling in the Diamond Lab](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTEV3dmprek5UZnc/view?usp=sharing)
-* Review the profiling code form the lectures 
+* Assignment help
+* Profiling your own code in the Diamond Lab
 
 ### Lab 10 - CUDA OpenGL Interop
 
+* Lab Sheet
+* Source Code
+* Solution
+
 ### Lab 11 - Profiling and Assignment Help
 
-# Feedback
-
-Anonymous feedback can be provided for the course content at any time by [visiting the feedback form](https://goo.gl/0r73gD). For example have you found the content useful, too easy or difficult, or would you like some aspect of the course to be clarified?
+* Assignment help
+* Profiling your own code in the Diamond Lab
 
 # Discussion, Announcements and Help
 
