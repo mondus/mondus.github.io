@@ -14,7 +14,7 @@ The modules aims, objectives and assessment details are available on the [module
 
 ## Assignmnet
 
-The assignment makes up 80% of the total marks for this module and is split itot tow related parts. The handout will be available on MOLE from week 5 and week 9 and will be handed in in two stages.  
+The assignment makes up 80% of the total marks for this module and is split itot tow related parts. The handout will be available on MOLE from week 3 and week 6 and will be handed in in two stages.  
 
 * Part 1 is due Tuesday 28th March (5pm) - Week 8
 * Part 2 is due Wednesday 16th May (5pm) -  Week 12.
