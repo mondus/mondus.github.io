@@ -14,7 +14,7 @@ The modules aims, objectives and assessment details are available on the [module
 
 ## Assignmnet
 
-The assignment makes up 80% of the total marks for this module and is split itot tow related parts. The handout will be available on MOLE from week 3 and week 6 and will be handed in in two stages.  
+The assignment makes up 80% of the total marks for this module and is split into two related parts. The handout will be available on MOLE from week 3 and week 6 and will be handed in in two stages.  
 
 * Part 1 is due Tuesday 28th March (5pm) - Week 8
 * Part 2 is due Wednesday 16th May (5pm) -  Week 12.
@@ -23,8 +23,8 @@ The assignment makes up 80% of the total marks for this module and is split itot
 
 Two quizes, each 10% of the module mark will be held under exam conditions on 
 
-* Monday the 6th March (16:00-17:00) - Week 5 (This is during the sencond half of the lecture, location to be confirmed)
-* Tuesday the 25th April (9:00-10:00) - Week 9 (This will take place durin normal lab hours)
+* Monday the 6th March (16:00-17:00) - Week 5 (This is during the second half of the lecture, location to be confirmed)
+* Tuesday the 25th April (9:00-10:00) - Week 9 (This will take place during normal lab hours)
 
 
 # Lecture Notes
