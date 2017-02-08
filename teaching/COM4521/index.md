@@ -193,7 +193,7 @@ Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
 
 * Lab Sheet ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMUHp1N19RRlNZN3c/view?usp=sharing))
 * Source Code ([zip](https://github.com/mondus/com4521/archive/Lab01_src.zip))
-* Solution
+* Solution ([zip](https://github.com/mondus/com4521/archive/Lab01_sln.zip))
 
 #### Lab 02 - Memory and Performance
 
