@@ -199,8 +199,8 @@ Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
 
 #### Lab 02 - Memory and Performance
 
-* Lab Sheet
-* Source Code
+* Lab Sheet ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMMVhrQlZXLUNHTjQ/view?usp=sharing))
+* Source Code ([pdf](https://github.com/mondus/com4521/archive/Lab02_src.zip))
 * Solution
 
 #### Lab 03 - OpenMP
