@@ -78,6 +78,7 @@ and note the performance results in the following table;
 | `multiply_B` | Release mode `/O2` |   |
 | `multiply_C` | Matrix transpose |   |
 
+
 We are going to optimise this function by performing a number of changes to it.
 
 * 4.2 The inner loop writes directly to `r[i][j]`. This is unnecessary and will cause the program to be memory bound. Create a copy of `multiply_A` and call it `multiply_B`. Modify the inner loop to write to a local variable and make only a single write to `r[i][j]` at the end of the inner loop. Compile and execute your program and record the result.
