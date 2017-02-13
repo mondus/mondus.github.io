@@ -55,7 +55,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 ## Week 02: 
 
-#### Lecture 03 - Memory
+#### Lecture 03 - Memory ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMMzZ4U2doNUhDT2M/view?usp=sharing))
 
 * Pointers
 * Advanced use of Pointers
@@ -63,11 +63,13 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * Structures
 * Binary Files
 
-#### Lecture 04 - Optimisation 
+#### Lecture 04 - Optimisation ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMSm8xYXk1YUViUk0/view?usp=sharing))
 
 * Optimisation Overview
 * Compute Bound Code
 * Memory Bound Code
+
+#### NSS - National Stduent Survey ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMRDFBSFRLaDJtUlk/view?usp=sharing))
 
 ## Week 03: 
 
