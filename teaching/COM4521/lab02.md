@@ -6,11 +6,6 @@ layout: homepage
 
 # Com 4521 Parallel Computing with GPUs: Lab 02
 
-_Spring Semester 2016_
-_Dr Paul Richmond_
-_Lab Assistants: Robert Chisholm, John Charlton_
-_Department of Computer Science, University of Sheffield_
-
 ## Learning Outcomes
 
 * Understand how to manually allocate and free memory
