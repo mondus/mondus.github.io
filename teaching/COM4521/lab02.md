@@ -39,9 +39,9 @@ Copy your previous code from the first exercise into a new project called `Lab02
 
 The student structure uses a statically defined, fixed length `char` array to hold both the forename and surname. This is OK but potentially wasteful when we deal with large records as much of the `char` array will be empty. The file `students2.bin` differs from the file used in the first exercise in that it uses dynamic length `char` arrays to hold strings. Both the forename and surname are written to the binary file in the following format;
 
-  unsigned int n, char[0], char[1], char[2], …., char[n]; e.g.
+      unsigned int n, char[0], char[1], char[2], …., char[n]; e.g.
 
-  5, 'J','o', 'h', 'n', '\0'
+      5, 'J','o', 'h', 'n', '\0'
 
 Modify the `struct` definition so that forename and surname are pointers to `char`. Now update the code to read the student data. You will need to use `fread` to read the length of the forename (i.e. `n`). *Hint: allocate memory for the forename (of length `n`) and then `fread` the forename, etc. Don't forget to also update your code to ensure that you `free` any memory you have allocated.*
 
@@ -52,14 +52,12 @@ Copy your previous code from the last exercise into a new project called `Lab02\
 Both the previous exercises assumed that we knew how many student records were stored in the binary data file. For the next exercise we will update our program to read, store and display an arbitrary number of records. In order to do this we are going to use a linked list data structure. The `linked\_list.h` header file contains very basic implementation of a generic linked list. The header file contains a structure `llitems` which defines a pointer to the previous and next item in the list.
 
 * 3.1 The implementation of a linked list is incomplete. Complete the function `add_to_linked_list()` by implementing the following;
-
-* 3.1.1 Check that the `ll_end` item is in fact the end of the list (the next record should be `NULL`). If it is not the end then the function should return `NULL`.
-* 3.1.2 Add the item to the end of the linked list updating the old end of the linked list to reflect the addition.
-* 3.1.3 Return a pointer to the new end of the linked list.
-
+  * 3.1.1 Check that the `ll_end` item is in fact the end of the list (the next record should be `NULL`). If it is not the end then the function should return `NULL`.
+  * 3.1.2 Add the item to the end of the linked list updating the old end of the linked list to reflect the addition.
+  * 3.1.3 Return a pointer to the new end of the linked list.
 * 3.2 In order to use the `print_items` function the function pointer `print_callback` must be set to a function with the following declaration;
 
-  void print_function(void *);
+      void print_function(void *);
 
 You already have a function `print_student` which could be used but this function accepts a `const` pointer to student structure. Assign the `print_callback` function pointer to your `print_student` function using an explicit cast. You must be careful about your use of brackets here.
 
@@ -69,7 +67,7 @@ You already have a function `print_student` which could be used but this functio
 
 * 4.1 A program has been provided for you that performs a basic matrix multiply and writes the result out to a text file. The function `multiply_A` is the most compute intensive function of the program. You can confirm this by running the visual studio profiler if you wish. Timing code has been written to profile the function. Execute the program and compare the answer to the original using the command below (which is similar to unix `diff`) which will print any file differences (you will need to make copies of the output files yourself).
 
-  FC file1 file2
+      FC file1 file2
 
 and note the performance results in the following table;
 
