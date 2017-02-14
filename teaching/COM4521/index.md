@@ -12,7 +12,7 @@ The modules aims, objectives and assessment details are available on the [module
 
 # Assessment
 
-## Assignmnet
+## Assignment
 
 The assignment makes up 80% of the total marks for this module and is split into two related parts. The handout will be available on MOLE from week 3 and week 6 and will be handed in in two stages.  
 
@@ -200,7 +200,7 @@ Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
 #### Lab 02 - Memory and Performance
 
 * Lab Sheet ([web](./lab02/)) ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMMVhrQlZXLUNHTjQ/view?usp=sharing))
-* Source Code ([pdf](https://github.com/mondus/com4521/archive/Lab02_src.zip))
+* Source Code ([zip](https://github.com/mondus/com4521/archive/Lab02_src.zip))
 * Solution
 
 #### Lab 03 - OpenMP
