@@ -54,7 +54,7 @@ Both the previous exercises assumed that we knew how many student records were s
 
       void print_function(void *);
 
-  You already have a function `print_student` which could be used but this function accepts a `const` pointer to student structure. Assign the `print_callback` function pointer to your `print_student` function using an explicit cast. You must be careful about your use of brackets here.
+  You already have a function `print_student` which could be used but this function accepts a `const` pointer to student structure. Assign to the `print_callback` function pointer your `print_student` function using an explicit cast. You must be careful about your use of brackets here.
 
 * 3.3 Update your code to read in `students2.bin` by creating a linked list of student records. You will need a pointer to mark both the start and end of the linked list. To test if your stream is at the end of a file (i.e. it has read the last record) you should check the return value of `fread`  (if less than the requested number of items are returned this indicates the end of the file). You should use the `create_linked_list` and `add_to_linked_list` functions. You can use the `free_linked_list` function to free your linked list but be careful as this won't free the records which the linked list points to.
 
