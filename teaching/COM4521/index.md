@@ -73,7 +73,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 ## Week 03: 
 
-#### Lecture 05 - OpenMP 
+#### Lecture 05 - OpenMP ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMYXphNGVqaW1vSDA/view?usp=sharing))
 
 * Multi-core Systems and OpenMP
 * Parallelising Loops
@@ -81,7 +81,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * OpenMP Scoping
 * Task Parallelism with Sections
 
-#### Lecture 06 - OpenMP Part II 
+#### Lecture 06 - OpenMP Part II ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMSkFQMmNJM2NQSW8/view?usp=sharing))
 
 * Parallel Reduction
 * Scheduling
