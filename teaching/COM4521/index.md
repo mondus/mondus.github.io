@@ -199,14 +199,14 @@ Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
 
 #### Lab 02 - Memory and Performance
 
-* Lab Sheet ([web](./lab02/)) ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMMVhrQlZXLUNHTjQ/view?usp=sharing))
+* Lab Sheet  ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMMVhrQlZXLUNHTjQ/view?usp=sharing))
 * Source Code ([zip](https://github.com/mondus/com4521/archive/Lab02_src.zip))
 * Solution ([zip](https://github.com/mondus/com4521/archive/Lab02_sln.zip))
 
 #### Lab 03 - OpenMP
 
-* Lab Sheet
-* Source Code
+* Lab Sheet ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMRmZtc0RVd2ZwcDA/view?usp=sharing))
+* Source Code ([zip](https://github.com/mondus/com4521/archive/Lab03_src.zip))
 * Solution
 
 #### Lab 04 - Introduction to CUDA
