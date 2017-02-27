@@ -89,14 +89,14 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 ## Week 04: 
 
-#### Lecture 07 - GPU Architectures 
+#### Lecture 07 - GPU Architectures ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMNDNQd2FfeXM0a0E/view?usp=sharing))
 
 * What is a GPU?
 * General Purpose Computation on GPUs (and GPU History)
 * GPU CUDA Hardware Model
 * Accelerated Systems
 
-#### Lecture 08 - Introduction to CUDA 
+#### Lecture 08 - Introduction to CUDA ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMTkZ6YUdEVUZPY00/view?usp=sharing))
 
 * CUDA Programming Model
 * CUDA Device Code
