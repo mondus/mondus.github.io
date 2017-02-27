@@ -207,7 +207,7 @@ Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
 
 * Lab Sheet ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMRmZtc0RVd2ZwcDA/view?usp=sharing))
 * Source Code ([zip](https://github.com/mondus/com4521/archive/Lab03_src.zip))
-* Solution
+* Solution ([zip](https://github.com/mondus/com4521/archive/Lab03_sln.zip))
 
 #### Lab 04 - Introduction to CUDA
 
