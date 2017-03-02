@@ -213,7 +213,7 @@ Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
 
 * Lab Sheet ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMUkt1NDRQMXYwVnc/view?usp=sharing))
 * Source Code ([zip](https://github.com/mondus/com4521/archive/Lab04_src.zip))
-* Solution
+* Solution ([zip](https://github.com/mondus/com4521/archive/Lab04_sln.zip))
 
 #### Lab 05 - Memory
 
