@@ -23,7 +23,7 @@ The assignment makes up 80% of the total marks for this module and is split into
 
 Two quizes, each 10% of the module mark will be held under exam conditions on 
 
-* Monday the 6th March (16:00-17:00) - Week 5 (This is during the second half of the lecture, location to be confirmed)
+* Monday the 6th March (16:00-17:00) - Week 5 (This is during the second half of the lecture in Diamond High Spec Lab (DIA-206))
 * Tuesday the 25th April (9:00-10:00) - Week 9 (This will take place during normal lab hours)
 
 
