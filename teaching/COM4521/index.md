@@ -196,9 +196,9 @@ Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
 
 As part of the department of computer science you have the opportunity to access the DGX-1 GPU system with state or the art P100 GPUs. In order to access this system I have written a handy user guide / self paced getting started lab which describes the process specifically for this module. As part of this you will need to register for a HPC account.
 
-* [Getting started with the DGX-1 - Self Paced Lab](.\sharc)
+[Getting started with the DGX-1 - Self Paced Lab](.\sharc)
 
-Note: It is not a requirement of the module to use this system (there are GPUs you can use in the diamond lab). This is offered as an additional opportunity to test your code on the very latest hardware. It is also possible to use the ShARC system remotely allowing you the added benefit of being able to work outside of the lab on your assignment.
+*Note: It is not a requirement of the module to use this system (there are GPUs you can use in the diamond lab). This is offered as an additional opportunity to test your code on the very latest hardware. It is also possible to use the ShARC system remotely allowing you the added benefit of being able to work outside of the lab on your assignment.*
 
 Assistance for this is self paced lab is available during any normal lab session. If there is sufficient interest I will put on an additional lab session for help with this.
 
