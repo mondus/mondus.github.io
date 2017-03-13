@@ -117,16 +117,16 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 ## Week 06: 
 
-#### Lecture 10 - CUDA Shared Memory 
+#### Lecture 10 - CUDA Shared Memory ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMY3ZtWWJKU3lzM28/view?usp=sharing))
 
 * Shared Memory
 * Shared Memory Bank Conflicts
 * 2D Shared Memory Bank Conflicts
 * Boundary Conditions for Shared Memory Loading
 * Host-side Configurations for Shared Memory
-* [Shared Memory Bank Conflict Calculator](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMYlVQU2t4Y3NJWUE/view?usp=sharing)
+* [Shared Memory Bank Conflict Calculator](https://drive.google.com/file/d/0B2HbOiEppVPMY3NteVJXMUwyazA/view?usp=sharing)
 
-#### Lecture 11 - CUDA Performance 
+#### Lecture 11 - CUDA Performance ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMaXBPZGEzel9pakk/view?usp=sharing))
 
 * Global Memory Coalescing
 * Global Memory Coalescing with the L1 Cache
