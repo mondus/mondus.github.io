@@ -223,8 +223,8 @@ Lab Register Link: [https://goo.gl/0r73gD](https://goo.gl/0r73gD)
 
 #### Lab 06 - Shared Memory and Occupancy
 
-* Lab Sheet
-* Source Code
+* Lab Sheet ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMazRDUTJsa0xFVlk/view?usp=sharing))
+* Source Code ([zip](https://github.com/mondus/com4521/archive/Lab06_src.zip))
 * Solution
  
 #### Lab 07 - Atomics and Primitives
