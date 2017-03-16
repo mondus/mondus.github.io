@@ -239,7 +239,7 @@ If you are unfamiliar with Linux and the bash shell then this is probably not fo
 
 * Lab Sheet ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMazRDUTJsa0xFVlk/view?usp=sharing))
 * Source Code ([zip](https://github.com/mondus/com4521/archive/Lab06_src.zip))
-* Solution
+* Solution ([zip](https://github.com/mondus/com4521/archive/Lab06_sln.zip))
  
 #### Lab 07 - Atomics and Primitives
 
