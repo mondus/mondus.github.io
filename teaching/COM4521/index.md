@@ -134,17 +134,18 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 ## Week 07: 
 
-#### Lecture 12 - Warp Level CUDA 
+#### Lecture 12 - Warp Level CUDA ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMYkE5dFpGdnA1X00/view?usp=sharing))
 
 * Warp Scheduling and Divergence
 * Atomics
 * Warp Operations
 
-#### Lecture 13 - Parallel Patterns 
+#### Lecture 13 - Parallel Patterns ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMQVZzX1RhVkozUTg/view?usp=sharing))
 
 * Parallel Patterns Overview
 * Reduction
 * Scan
+* [Shared Memory Bank Conflicts for Examples](https://drive.google.com/file/d/0B2HbOiEppVPMX0xHQ2l1d05GX3c/view?usp=sharing)
 
 ## Week 08: 
 
