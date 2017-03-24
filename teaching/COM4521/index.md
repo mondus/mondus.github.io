@@ -246,7 +246,7 @@ If you are unfamiliar with Linux and the bash shell then this is probably not fo
 
 * Lab Sheet ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMTjI4aTVBekZYVmc/view?usp=sharing))
 * Source Code ([zip](https://github.com/mondus/com4521/archive/Lab07_src.zip))
-* Solution
+* Solution ([zip](https://github.com/mondus/com4521/archive/Lab07_sln.zip))
 
 #### Lab 08 - Libraries and Streams
 
