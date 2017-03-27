@@ -149,14 +149,14 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 ## Week 08: 
 
-#### Lecture 14 - Sorting and Libraries 
+#### Lecture 14 - Sorting and Libraries ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMYUxCZnhodDlHZWc/view?usp=sharing))
 
 * Sorting Networks
 * Merge and Bitonic Sort
 * Thrust Parallel Primitives Library
 * Applications of Sorting (binning)
 
-#### Lecture 15 - CUDA Streams 
+#### Lecture 15 - CUDA Streams ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMaXNpRFZ0TWNjYnM/view?usp=sharing))
 
 * Synchronous and Asynchronous execution 
 * CUDA Streams
