@@ -252,7 +252,7 @@ If you are unfamiliar with Linux and the bash shell then this is probably not fo
 
 * Lab Sheet ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMbFIxUjdrUTkyOFE/view?usp=sharing))
 * Source Code ([zip](https://github.com/mondus/com4521/archive/Lab08_src.zip))
-* Solution
+* Solution ([zip](https://github.com/mondus/com4521/archive/Lab08_sln.zip))
 
 #### Lab 09 - MOLE QUIZ 2,  Profiling and Assignment Help
 
