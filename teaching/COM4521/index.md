@@ -167,12 +167,12 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 
 ## Week 09: 
 
-#### Lecture 16 and 17 - Performance Optimisation 
+#### Lecture 16 and 17 - Performance Optimisation ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMcW5oSEtNMzZJeTA/view?usp=sharing))
 
 * Profiling Introduction
 * The Problem
 * Visual Profiler Guided Analysis
-* Profiling in tha lab
+* Profiling in the lab
 
 ## Week 10: BANK HOLIDAY 
 
