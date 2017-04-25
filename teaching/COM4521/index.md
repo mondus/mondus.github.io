@@ -172,7 +172,7 @@ Lectures will take place on Mondays 15:00 until 17:00 in Diamond lecture theatre
 * Profiling Introduction
 * The Problem
 * Visual Profiler Guided Analysis
-* Profiling in the lab
+* Profiling in the lab Notes ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMdjFid0xsd0xuMFU/view?usp=sharing))
 
 ## Week 10: BANK HOLIDAY 
 
@@ -257,7 +257,8 @@ If you are unfamiliar with Linux and the bash shell then this is probably not fo
 #### Lab 09 - MOLE QUIZ 2,  Profiling and Assignment Help
 
 * Assignment help
-* Profiling your own code in the Diamond Lab
+* Profiling your own code in the Diamond Lab Notes ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMdjFid0xsd0xuMFU/view?usp=sharing))
+* Solution code and prfiles ([zip](https://github.com/mondus/com4521/archive/lab09_sln.zip))
 
 #### Lab 10 - CUDA OpenGL Interop
 
