@@ -4,7 +4,7 @@
   description: "Mozhgan Kabiri Chimeh is a Research Associate/Research Software Engineer who specialises in performance acceleration targeting Many-core and Multi-core architectures."
 
 - name: "Twin Karmakharm"
-  img: "./twin.jpg"
+  img: "./twin.png"
   website: "http://rse.shef.ac.uk/contact/"
   description: "Twin Karmakharm is a Research Software Engineer specialising in High-performance agent-based pedestrian simulation, Parallel computing using GPUs, Virtual reality and Deep learning. He currently provides research and industrial consultancy, training and technical support for Deep learning and other GPU related software engineering problems."
 
