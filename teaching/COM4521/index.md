@@ -258,12 +258,12 @@ If you are unfamiliar with Linux and the bash shell then this is probably not fo
 
 * Assignment help
 * Profiling your own code in the Diamond Lab Notes ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMdjFid0xsd0xuMFU/view?usp=sharing))
-* Solution code and prfiles ([zip](https://github.com/mondus/com4521/archive/lab09_sln.zip))
+* Solution code and profiles ([zip](https://github.com/mondus/com4521/archive/lab09_sln.zip))
 
 #### Lab 10 - CUDA OpenGL Interop
 
-* Lab Sheet
-* Source Code
+* Lab Sheet ([pdf](https://drive.google.com/file/d/0B2HbOiEppVPMemp6eEtXdzExX0k/view?usp=sharing))
+* Source Code ([zip](https://github.com/mondus/com4521/archive/lab09_sln.zip))
 * Solution
 
 #### Lab 11 - Profiling and Assignment Help
