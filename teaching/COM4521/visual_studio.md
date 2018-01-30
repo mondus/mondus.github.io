@@ -13,7 +13,7 @@ To install Visual Studio 2017 Community (15.2) first remove any installation of 
 
 If your version is later than 15.2 then you should use the Windows Add Remove Programs feature to remove Visual Studio 2017 and Visual Studio Installer.
 
-![Visual Studio Version](../../assets/images/VisualStudioVersion.png "Visual Studio Version")
+![Visual Studio Version](../../../assets/images/VisualStudioVersion.png "Visual Studio Version")
 
 ## Installation of Visual Studio 2017
 
