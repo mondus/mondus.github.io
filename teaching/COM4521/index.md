@@ -33,23 +33,6 @@ The Diamond high spec compute room is booked for the lab classes and is always a
 * Your own Linux machine - Example makefiles are provided with the lab handouts and solutions. You will need to install CUDA 9.1.
 * ShARC - In week 8, the lab class will guide you through how to use the ShARC facility to submit GPU jobs to the Universities HPC system. Instructions for ShARC usage will be made available before easter for those wishing to use the facility in advance of week 8.
 
-# Lectures and Labs
-
-| Week | Lecture Monday 15:00 - 16:00 | Lecture Monday 16:00 - 17:00 | Lab Tuesday 9:00 - 11:00 | Other Material         |
-|------|------------------------------|------------------------------|--------------------------|------------------------|
-| 1    | Introduction to Course       | Introduction to C            | C Programming            | Visual Studio Overview |
-| 2    | Memory                       | Optimisation                 | Memory and Performance   |                        |
-| 3    |                              |                              |                          |                        |
-|      |                              |                              |                          |                        |
-|      |                              |                              |                          |                        |
-|      |                              |                              |                          |                        |
-|      |                              |                              |                          |                        |
-|      |                              |                              |                          |                        |
-|      |                              |                              |                          |                        |
-|      |                              |                              |                          |                        |
-|      |                              |                              |                          |                        |
-|      |                              |                              |                          |                        |
-
 # Lectures
 
 ### Week 01: Lecture 01 - Introduction ([pdf]())
