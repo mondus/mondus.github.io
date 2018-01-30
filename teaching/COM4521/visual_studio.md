@@ -19,7 +19,7 @@ If your version is later than 15.2 then you should use the Windows Add Remove Pr
 
 The Installer for VIsual Studio 2017 (15.2) is availabel from campus share (or via VPN) at
 
-[\\\uosfstore\shared\student\ac_share\software\MicrosoftVisualStudioCommunity2017.2](\\\uosfstore\shared\student\ac_share\software\MicrosoftVisualStudioCommunity2017.2)
+`\\uosfstore\shared\student\ac_share\software\MicrosoftVisualStudioCommunity2017.2`
 
 You should copy the link into a local file browser. You will need to authenticate using your CICS login. You may also need to use the workgroup `SHEFUNIAD` i.e. your username should be in the format `SHEFUNIAD\ab1xyz`.
 
