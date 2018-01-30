@@ -224,7 +224,8 @@ table {
 }
 
 th {
-  font-weight: 500;
+  font-weight: bold;
+  border: 1px solid #ebebeb;
 }
 
 td {
