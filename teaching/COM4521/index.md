@@ -68,8 +68,8 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ### Lab 01 - C Programming 
 
-* [Lab Sheet]()
-* [Source Code]()
+* [Lab Sheet](https://drive.google.com/file/d/1D36rRt3UpYkFH_MFLgorsqEdO2QlY7Ay/view?usp=sharing)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab01_src.zip)
 * Solution
 
 ## Week02: 
