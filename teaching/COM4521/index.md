@@ -33,15 +33,31 @@ The Diamond high spec compute room is booked for the lab classes and is always a
 * Your own Linux machine - Example makefiles are provided with the lab handouts and solutions. You will need to install CUDA 9.1.
 * ShARC - In week 8, the lab class will guide you through how to use the ShARC facility to submit GPU jobs to the Universities HPC system. Instructions for ShARC usage will be made available before easter for those wishing to use the facility in advance of week 8.
 
-# Week 01
-## Lecture 01 - Introduction ([pdf]())
+# Lab Attendance Checking and Module Feedback
+
+You are required to complete a lab register to indicate your progress with the lab exercises each week. You should fill this either once you have completed the lab exercises. It is not expected that you will be able to complete all of the lab exercises within the two hour lab slot, you are expected to undertake independent study but you must try and complete the labs before the start of the next lab. The purpose of the lab register is to monitor class progress to be able provide feedback, clarifications on difficult areas and additional assistance to you. please use the additional comments section to highlight if you found the content useful, too easy or difficult, or would you like some aspect of the course to be clarified?
+
+[Lab Register and Feedback Form](https://goo.gl/0r73gD)
+
+# Discussion, Announcements and Requests for Help
+
+A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group) has been created for announcements, help and discussion. Any changes to timetabling will be made via this group. All students enrolled on the module on the 1st Feb 2018 have been added to this group already. If you have transfered via Add/Drop then you will need to manually join the group yourself. The group is monitored by the teaching staff (including lab assistants) as well as additional PhD students who can provide help with the lab classes or assignment. This is a public (within the University of Sheffield) forum and therefore you should not post assignment code. If you require personal assistance then you should request this during the lab hours. Any lab class can be used for assignment help in addition to the lab exercises which are set.
+
+[https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group)
+
+
+# Teaching Material
+
+## Week 01
+
+### Lecture 01 - Introduction ([pdf]())
 
 * Context and Hardware Trends
 * Supercomputing
 * Software and Parallel Computing
 * Course Outline
 
-## Lecture 02 - Introduction to C ([pdf]())
+### Lecture 02 - Introduction to C ([pdf]())
 
 * Introduction to the C Programming Language
 * Basic C Usage "Hello World"
@@ -50,7 +66,7 @@ The Diamond high spec compute room is booked for the lab classes and is always a
 * File IO
 * Visual Studio 2013 Overview ([available as a separate download](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcHBVR05GQkUwWEE/view?usp=sharing))
 
-## Lab 01 - C Programming 
+### Lab 01 - C Programming 
 
 * [Lab Sheet]()
 * [Source Code]()
@@ -58,7 +74,7 @@ The Diamond high spec compute room is booked for the lab classes and is always a
 
 # Week02: 
 
-## Lecture 03 - Memory (pdf])
+### Lecture 03 - Memory (pdf)
 
 * Pointers
 * Advanced use of Pointers
@@ -66,13 +82,21 @@ The Diamond high spec compute room is booked for the lab classes and is always a
 * Structures
 * Binary Files
 
-### Week 02: Lecture 04 - Optimisation ([pdf]())
+### Lecture 04 - Optimisation (pdf)
 
 * Optimisation Overview
 * Compute Bound Code
 * Memory Bound Code
 
-### Week 03: Lecture 05 - OpenMP ([pdf]())
+### Lab 02 - Memory and Performance
+
+* Lab Sheet
+* Source Code
+* Solution
+
+## Week 03
+
+### Lecture 05 - OpenMP (pdf)
 
 * Multi-core Systems and OpenMP
 * Parallelising Loops
@@ -80,27 +104,44 @@ The Diamond high spec compute room is booked for the lab classes and is always a
 * OpenMP Scoping
 * Task Parallelism with Sections
 
-### Week 03: Lecture 06 - OpenMP Part II ([pdf]())
+### Lecture 06 - OpenMP Part II (pdf)
 
 * Parallel Reduction
 * Scheduling
 * Nesting
 
-### Week 04: Lecture 07 - GPU Architectures ([pdf]())
+### Lab 03 - OpenMP
+
+* Lab Sheet
+* Source Code
+* Solution
+
+## Week 04
+
+### Lecture 07 - GPU Architectures (pdf)
 
 * What is a GPU?
 * General Purpose Computation on GPUs (and GPU History)
 * GPU CUDA Hardware Model
 * Accelerated Systems
 
-### Week 04: Lecture 08 - Introduction to CUDA ([pdf]())
+### Lecture 08 - Introduction to CUDA (pdf)
 
 * CUDA Programming Model
 * CUDA Device Code
 * CUDA Host Code and Memory Management
 * CUDA Compilation and execution in Visual Studio
 
-### Week 05: Lecture 09 - CUDA Memory ([pdf]())
+### Lab 04 - Introduction to CUDA
+
+* Lab Sheet
+* Source Code
+* Solution
+
+
+## Week 05
+
+### Lecture 09 - CUDA Memory (pdf)
 
 * Memory Hierarchy Overview
 * Global Memory
@@ -108,9 +149,18 @@ The Diamond high spec compute room is booked for the lab classes and is always a
 * Texture and Read-only Memory
 * Roundup & Performance Timing
 
-### Week 05: MOLE QUIZ (Diamond high spec compute room, DIA-002, Computer room 2)
+### 5th March 2018 (16:00) - MOLE QUIZ (Diamond high spec compute room, DIA-002, Computer room 2)
 
-### Week 06: Lecture 10 - CUDA Shared Memory ([pdf]())
+### Lab 05 - Memory
+
+* Lab Sheet
+* Source Code
+* Solution
+
+
+## Week 06
+
+### Lecture 10 - CUDA Shared Memory (pdf)
 
 * Shared Memory
 * Shared Memory Bank Conflicts
@@ -119,137 +169,95 @@ The Diamond high spec compute room is booked for the lab classes and is always a
 * Host-side Configurations for Shared Memory
 * [Shared Memory Bank Conflict Calculator]()
 
-### Week 06: Lecture 11 - CUDA Performance ([pdf]())
+### Lecture 11 - CUDA Performance (pdf)
 
 * Global Memory Coalescing
 * Global Memory Coalescing with the L1 Cache
 * Occupancy and Thread Block Dimensions
 
-### Easter Vacation
+### Lab 06 - Shared Memory and Occupancy
 
-### Week 07: Lecture 12 - Warp Level CUDA ([pdf]())
+* Lab Sheet
+* Source Code
+* Solution
+
+## Week 07
+
+### Lecture 12 - Warp Level CUDA (pdf)
 
 * Warp Scheduling and Divergence
 * Atomics
 * Warp Operations
 * [Excel cheat sheet for SM conflicts]()
 
-### Week 07: Lecture 13 - Parallel Patterns ([pdf]())
+### Lecture 13 - Parallel Patterns (pdf)
 
 * Parallel Patterns Overview
 * Reduction
 * Scan
 
+### Lab 07 - Atomics and Primitives
 
-### Week 8: Lecture 14 and 15 - Performance Optimisation ([pdf]())
+* Lab Sheet
+* Source Code
+* Solution
+
+## EASTER VACTION
+
+## Week 8
+
+### Lecture 14 and 15 - Performance Optimisation (pdf)
 
 * Profiling Introduction
 * The Problem
 * Visual Profiler Guided Analysis
 * Profiling in the lab ([available as a separate download]())
 
+### Lab 08 - ShARC Lab
 
-### Week 09: Lecture 16 - Sorting and Libraries ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMN2t2dEN3TWxBaUU/view?usp=sharing))
+* Lab Sheet
+* Source Code
+* Solution
+
+## Week 09
+
+### Lecture 16 - Sorting and Libraries (pdf)
 
 * Sorting Networks
 * Merge and Bitonic Sort
 * Thrust Parallel Primitives Library
 * Applications of Sorting (binning)
 
-### Week 09: Lecture 17 - CUDA Streams ([pdf](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMNUt6UkJieW9XX2c/view?usp=sharing))
+### Lecture 17 - CUDA Streams (pdf)
 
 * Synchronous and Asynchronous execution 
 * CUDA Streams
 * Synchronisation
 * Multi GPU Programming
 
-### Week 10: Lecture 18 - Invited Talk
+### Lab 09 - Libraries and Streams
 
+* Lab Sheet
+* Source Code
+* Solution
 
-### Week 11: BANK HOLIDAY
+## Week 10
 
+### Lecture 18 - Invited Talk
 
-### Week 12: No lecture
+### 1st May 2018 (09:00) - MOLE QUIZ (Diamond high spec compute room, DIA-002, Computer room 2)
 
+### Lab 10 - Assignment Help
 
+## Week 11: BANK HOLIDAY
 
-# Labs
+### Lab 11 - OpenGL and Assignment Help
 
-Lab sheets are available via Google Drive [Lab Sheets](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMdHdCQS1RZGVsNXM&usp=sharing), [Lab Solutions](https://drive.google.com/a/sheffield.ac.uk/folderview?id=0B2HbOiEppVPMV3VsSjA1SFo5ODQ&usp=sharing) (you will need to login with your university credentials).
+* Lab Sheet
+* Source Code
+* Solution
 
-A [Lab FAQ document](https://docs.google.com/a/sheffield.ac.uk/document/d/1w4k87mKyJke4bfbWbUVT7rpio2hN7_RUXRDZIT93j9g/edit?usp=sharing) has been prepared with common questions. This will be continually updated throughout the course.
-
-### Lab 01 - C Programming 
-
-* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMc0tzQ2lCNzdSNkk/view?usp=sharing)
-* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMY0ExNjg0TGxQWlk/view?usp=sharing)
-* [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMWXR4ZFFWQmowcWM/view?usp=sharing)
-
-### Lab 02 - Memory and Performance
-
-* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMSUNzVGxBMVd4dE0/view?usp=sharing)
-* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTWlHQnZlczhSNGM/view?usp=sharing)
-* [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMaVNwNGY1NzFKTzA/view?usp=sharing)
-
-### Lab 03 - OpenMP
-
-* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMazFrakdrSTNOVm8/view?usp=sharing)
-* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTUcyRWtzUkxLUmM/view?usp=sharing)
-* [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMNkJyMlZDMEpiQ1U/view?usp=sharing)
-
-### Lab 04 - Introduction to CUDA
-
-* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMalBCUTBsc181cXM/view?usp=sharing)
-* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcnRSUjFHZnFiYmc/view?usp=sharing)
-* [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMN1RfM0dtMGNBUms/view?usp=sharing)
-
-### Lab 05 - Memory
-
-* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTUhRaGRIcm5ZbE0/view?usp=sharing)
-* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMZ3VTdEYtWUF4dmc/view?usp=sharing)
-* [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMUm9zb1N6UWxjUlU/view?usp=sharing)
-
-### Lab 06 - Shared Memory and Occupancy
-
-* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMOFQxbGJneWNXZW8/view?usp=sharing) 
-* [Revised Lab sheet with row major access](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMLXFqaHBlcHRuVTQ/view?usp=sharing)
-* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMNjBxbnRwVy1oZTA/view?usp=sharing) 
-* [Revised Source Code with row major access](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMMlp1Y0E3dlhUU1E/view?usp=sharing)
-* [Solution for orginal lab sheet](https://drive.google.com/open?id=0B2HbOiEppVPMTE5YQ2xKZGpNYXM)
-* [Solution for revised row major version](https://drive.google.com/open?id=0B2HbOiEppVPMM2ZaS0NNczBON28)
- 
-### Lab 07 - Atomics and Primitives
-
-* [Lab Sheet](https://drive.google.com/open?id=0B2HbOiEppVPMSXJRb2E2aFhrTjQ)
-* [Source Code](https://drive.google.com/open?id=0B2HbOiEppVPMOTRFQXRYRTQwem8)
-* [Solution](https://drive.google.com/open?id=0B2HbOiEppVPMVUhNMGRmOHdfeTQ)
-
-### Lab 08 - Libraries and Streams
-
-* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMVzhKYVc2OUVtTVk/view?usp=sharing)
-* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMV0FPVVhjSHpSUUE/view?usp=sharing)
-* [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMeE9heUlLRmtneFU/view?usp=sharing)
-
-### No Lab Sheet Exercise or Code for Week 09 - Assignment Help
-
-* [Profiling in the Diamond Lab](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTEV3dmprek5UZnc/view?usp=sharing)
-* Review the profiling code form the lectures 
-
-### Lab 09 - CUDA OpenGL Interop
-
-* [Lab Sheet](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMSW15clJuYXRCQ1E/view?usp=sharing)
-* [Source Code](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMTUE1TF9Pb2RZZGc/view?usp=sharing)
-* [Solution](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMemtCbmU1SVlOV0E/view?usp=sharing)
-
-# Feedback
-
-Anonymous feedback can be provided for the course content at any time by [visiting the feedback form](https://goo.gl/0r73gD). For example have you found the content useful, too easy or difficult, or would you like some aspect of the course to be clarified?
-
-# Discussion and Announcements
-
-Discussion and announcements will be made via the modules Gooogle Group.
-
-[https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group)
+## Week 12: No lectures or labs
 
 # Calendar
 
