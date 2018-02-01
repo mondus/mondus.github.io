@@ -39,6 +39,20 @@ You are required to complete a lab register to indicate your progress with the l
 
 [Lab Register and Feedback Form](https://goo.gl/0r73gD)
 
+You will receive additional feedback from the module through discussion in the lab classes, MOLE quiz assessment and your assignment 1 handin.
+
+# Assignments
+
+There are two assignments for the module which contribute 80% of the total module mark
+
+* Part 1 (30% of the assignemnt total) - Released Week 3, Due Tuesday week 7 (20/03/2018) at 17:00
+* Part 2 (70% of the assignment total) - Released Week 6, Due Tuesday week 12 (15/05/2018) at 17:00
+
+The remaining 20% of the module mark is from two mole quizes which are 
+
+* Week 5 - During the second half of the lecture in Diamond high spec compute room (DIA-206)
+* Week 10 - During the first half of the lab class in Diamond high spec compute room (DIA-206)
+
 # Discussion, Announcements and Requests for Help
 
 A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group) has been created for announcements, help and discussion. Any changes to timetabling will be made via this group. All students enrolled on the module on the 1st Feb 2018 have been added to this group already. If you have transfered via Add/Drop then you will need to manually join the group yourself. The group is monitored by the teaching staff (including lab assistants) as well as additional PhD students who can provide help with the lab classes or assignment. This is a public (within the University of Sheffield) forum and therefore you should not post assignment code. If you require personal assistance then you should request this during the lab hours. Any lab class can be used for assignment help in addition to the lab exercises which are set.
