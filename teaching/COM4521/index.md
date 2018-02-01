@@ -33,16 +33,15 @@ The Diamond high spec compute room is booked for the lab classes and is always a
 * Your own Linux machine - Example makefiles are provided with the lab handouts and solutions. You will need to install CUDA 9.1.
 * ShARC - In week 8, the lab class will guide you through how to use the ShARC facility to submit GPU jobs to the Universities HPC system. Instructions for ShARC usage will be made available before easter for those wishing to use the facility in advance of week 8.
 
-# Lectures
-
-### Week 01: Lecture 01 - Introduction ([pdf]())
+# Week 01
+## Lecture 01 - Introduction ([pdf]())
 
 * Context and Hardware Trends
 * Supercomputing
 * Software and Parallel Computing
 * Course Outline
 
-### Week 01: Lecture 02 - Introduction to C ([pdf]())
+## Lecture 02 - Introduction to C ([pdf]())
 
 * Introduction to the C Programming Language
 * Basic C Usage "Hello World"
@@ -51,7 +50,15 @@ The Diamond high spec compute room is booked for the lab classes and is always a
 * File IO
 * Visual Studio 2013 Overview ([available as a separate download](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcHBVR05GQkUwWEE/view?usp=sharing))
 
-### Week02: Lecture 03 - Memory ([pdf]())
+## Lab 01 - C Programming 
+
+* [Lab Sheet]()
+* [Source Code]()
+* Solution
+
+# Week02: 
+
+## Lecture 03 - Memory (pdf])
 
 * Pointers
 * Advanced use of Pointers
