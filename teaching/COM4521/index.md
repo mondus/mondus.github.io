@@ -72,7 +72,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 * [Source Code]()
 * Solution
 
-# Week02: 
+## Week02: 
 
 ### Lecture 03 - Memory (pdf)
 
