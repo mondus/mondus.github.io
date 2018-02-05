@@ -64,21 +64,21 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 01
 
-### Lecture 01 - Introduction ([pdf]())
+### Lecture 01 - Introduction ([pdf](https://drive.google.com/file/d/1gzpVxLevd64Htc61l2HtT5p--BrGs0Ut/view?usp=sharing))
 
 * Context and Hardware Trends
 * Supercomputing
 * Software and Parallel Computing
 * Course Outline
 
-### Lecture 02 - Introduction to C ([pdf]())
+### Lecture 02 - Introduction to C ([pdf](https://drive.google.com/file/d/1Bu5txgZ1WSyk5y9rbfw5Ub1EOdolGxiX/view?usp=sharing))
 
 * Introduction to the C Programming Language
 * Basic C Usage "Hello World"
 * Functions and Scoping
 * Arrays, Strings and Basic IO
 * File IO
-* Visual Studio 2013 Overview ([available as a separate download](https://drive.google.com/a/sheffield.ac.uk/file/d/0B2HbOiEppVPMcHBVR05GQkUwWEE/view?usp=sharing))
+* Visual Studio 2017 Overview ([pdf](https://drive.google.com/file/d/1RoIziwJdneABVb2kMlEq4UrpUzUg-qm4/view?usp=sharing))
 
 ### Lab 01 - C Programming 
 
