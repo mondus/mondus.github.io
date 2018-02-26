@@ -133,14 +133,14 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 04
 
-### Lecture 07 - GPU Architectures (pdf)
+### Lecture 07 - GPU Architectures ([pdf](https://drive.google.com/file/d/16wCEOYkEVKl09nQIM3xZFc4V9T8UmXJE/view?usp=sharing))
 
 * What is a GPU?
 * General Purpose Computation on GPUs (and GPU History)
 * GPU CUDA Hardware Model
 * Accelerated Systems
 
-### Lecture 08 - Introduction to CUDA (pdf)
+### Lecture 08 - Introduction to CUDA ([pdf](https://drive.google.com/file/d/1P8egjKhItHT1T4p_WZ5b__InbLtK81DS/view?usp=sharing))
 
 * CUDA Programming Model
 * CUDA Device Code
@@ -149,8 +149,8 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ### Lab 04 - Introduction to CUDA
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/file/d/1X7OxvYZmxXoXqbCSAZ7KeGtZYj-Byvm2/view?usp=sharing)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab04_src.zip)
 * Solution
 
 
