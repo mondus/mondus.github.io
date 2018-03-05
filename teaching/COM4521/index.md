@@ -156,7 +156,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 05
 
-### Lecture 09 - CUDA Memory (pdf)
+### Lecture 09 - CUDA Memory ([pdf](https://drive.google.com/file/d/1FPgi2nmDavd-_Sc6Rd7eDfDPQDBU-UVm/view?usp=sharing))
 
 * Memory Hierarchy Overview
 * Global Memory
@@ -164,12 +164,12 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 * Texture and Read-only Memory
 * Roundup & Performance Timing
 
-### 5th March 2018 (16:00) - MOLE QUIZ (Diamond high spec compute room, DIA-002, Computer room 2)
+### 5th March 2018 (16:00) - MOLE QUIZ (Diamond high spec compute room, Computer room 4)
 
 ### Lab 05 - Memory
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/file/d/1itfrEHTyIT8zgLk_S8ay7pVMnVynfniZ/view?usp=sharing)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab05_src.zip)
 * Solution
 
 
