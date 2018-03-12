@@ -175,16 +175,16 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 06
 
-### Lecture 10 - CUDA Shared Memory (pdf)
+### Lecture 10 - CUDA Shared Memory ([pdf](https://drive.google.com/file/d/1CN977UxqI5DbVpIK5YxKKuSalnpv-7Wi/view?usp=sharing))
 
 * Shared Memory
 * Shared Memory Bank Conflicts
 * 2D Shared Memory Bank Conflicts
 * Boundary Conditions for Shared Memory Loading
 * Host-side Configurations for Shared Memory
-* [Shared Memory Bank Conflict Calculator]()
+* [Shared Memory Bank Conflict Calculator](https://drive.google.com/file/d/173St-SBa9J3gtvt3CdTVrhPZqE-fNbY_/view?usp=sharing)
 
-### Lecture 11 - CUDA Performance (pdf)
+### Lecture 11 - CUDA Performance ([pdf](https://drive.google.com/file/d/1aeoY76E9mIlBdgWsHvg5NpmQEdpaf0Cp/view?usp=sharing))
 
 * Global Memory Coalescing
 * Global Memory Coalescing with the L1 Cache
