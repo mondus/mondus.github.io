@@ -194,7 +194,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 * [Lab Sheet](https://drive.google.com/file/d/1csN6DbbE6ooXIOVk4YVLpwftJhS3aiE-/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab06_src.zip)
-* Solution
+* [Solution](https://github.com/mondus/com4521/archive/Lab06_sln.zip)
 
 ## Week 07
 
