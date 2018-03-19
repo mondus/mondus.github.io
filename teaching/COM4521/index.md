@@ -199,14 +199,14 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 07
 
-### Lecture 12 - Warp Level CUDA (pdf)
+### Lecture 12 - Warp Level CUDA ([pdf](https://drive.google.com/file/d/1wQm3qegPIp7I5XG0eH_z_HwhLXkAdU4E/view?usp=sharing))
 
 * Warp Scheduling and Divergence
 * Atomics
 * Warp Operations
-* [Excel cheat sheet for SM conflicts]()
+* [Excel sheet for SM conflicts](https://drive.google.com/file/d/1DAnIEcW7vixm7zZMIevaIMW7Hf2UGiA9/view?usp=sharing)
 
-### Lecture 13 - Parallel Patterns (pdf)
+### Lecture 13 - Parallel Patterns ([pdf](https://drive.google.com/file/d/1AeJCT0cvIPC5fPXsBxHoheoXHDMlzhRm/view?usp=sharing))
 
 * Parallel Patterns Overview
 * Reduction
@@ -214,8 +214,8 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ### Lab 07 - Atomics and Primitives
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/file/d/1q9J6iL_mZxxsWlDITczaOFKUGmfdIfdA/view?usp=sharing)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab07_src.zip)
 * Solution
 
 ## EASTER VACTION
