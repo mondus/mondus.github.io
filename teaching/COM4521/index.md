@@ -232,6 +232,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 ### Lab 08 - ShARC Lab
 
 * [Online Lab Guide](./sharc)
+* [Profile Lecture Example Code](https://github.com/mondus/com4521/archive/lab09_sln.zip)
 
 ## Week 09
 
