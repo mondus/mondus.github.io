@@ -21,7 +21,7 @@ In order to use ShARC you must have an account configured. I have already reques
 The ShARC is accessed through an `ssh` terminal. To login to ShARC from a CICS managed desktop account you can use the PuTTY program (if it is unavailable then you will need to install it via the software centre). Within Putty, set the *“Host Name”* text field to `sharc.shef.ac.uk`. For some exercises (or your assignment) you may wish to view output images which will require X windows forwarding. To enable this, ensure the *“Enable X Window Forwarding”* option is selected from the `Connection -> SSH -> X11` tab (see figure below). Select Open and login with your CICS username and password.
 
 {: .center}
-![Putty configuration](./assets/images/putty_config.jpg "Putty configuration")
+![Putty configuration](/assets/images/putty_config.png)
 
 If you are connecting from a machine which is your own (i.e. not a CICS managed desktop) then connect to ShARC using the instructions provided on the [ShARC documentation site](http://docs.hpc.shef.ac.uk/en/latest/sharc/index.html):
 
