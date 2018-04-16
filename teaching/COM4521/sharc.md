@@ -25,7 +25,7 @@ The ShARC is accessed through an `ssh` terminal. To login to ShARC from a CICS m
 
 If you are connecting from a machine which is your own (i.e. not a CICS managed desktop) then connect to ShARC using the instructions provided on the [ShARC documentation site](http://docs.hpc.shef.ac.uk/en/latest/sharc/index.html):
 
-[http://docs.hpc.shef.ac.uk/en/latest/hpc/getting-started.html](http://docs.hpc.shef.ac.uk/en/latest/hpc/getting-started.html).
+[http://docs.hpc.shef.ac.uk/en/latest/hpc/connecting.html]http://docs.hpc.shef.ac.uk/en/latest/hpc/connecting.html).
 
 Once you are logged into a ShARC head node then request an interactive session by typing 
 
@@ -70,7 +70,7 @@ Take a look at the contents of this file in the console using `nano` e.g.
 
 	nano helloworld.cu
 
-*Note: If you wish to view/edit this file locally then you can use sftp (e.g. using Filezilla or MoboXTerm).*
+*Note: If you wish to view/edit this file locally then you can use FPT (e.g. using Filezilla). Files can be transfered to and from your HPC account storage space using the instructions on the [ShARC documentation page](http://docs.hpc.shef.ac.uk/en/latest/hpc/transferring-files.html). MobaXTerm described on the same link can also be used instead of Putty for both SSH connections and remote file editing.*
 
 Compile the code using nvcc with the following command (note this is the command line equivalent of the build process in visual studio):
 
