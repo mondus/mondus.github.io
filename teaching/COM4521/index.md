@@ -222,12 +222,12 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 8
 
-### Lecture 14 and 15 - Performance Optimisation (pdf)
+### Lecture 14 and 15 - Performance Optimisation ([pdf](https://drive.google.com/file/d/1fCY4IYtgEu1JszlvkL7u_n-K9Nda-Dzq/view?usp=sharing))
 
 * Profiling Introduction
 * The Problem
 * Visual Profiler Guided Analysis
-* Profiling in the lab ([available as a separate download]())
+* Profiling in the lab ([available as a separate download](https://drive.google.com/file/d/13yUe3-1bk-umAT84LJxnOaD0DwSni8Q3/view?usp=sharing))
 
 ### Lab 08 - ShARC Lab
 
