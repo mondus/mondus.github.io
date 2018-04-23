@@ -64,7 +64,7 @@ From your interactive session on the CPU worker node get the *"hello world for G
 
 This will check out the hello world example into the folder `CUDAHelloWorldCOM4521`. Change directory to this folder. e.g.
 
-	cd CUDAHellowWorldCOM4521
+	cd CUDAHelloWorldCOM4521
 
 Take a look at the contents of this file in the console using `nano` e.g.
 
@@ -113,7 +113,7 @@ This will output a table with your jobs. E.g.
 	205629 0.00534 bash       co1pr        r     01/18/2017 14:24:55 interactive.q@testnode01.icebe     1
 	205650 0.00000 helloworld co1pr        qw    01/18/2017 14:26:45                                    1
 
-The status of your GPU job will initially be `qw` to indicate queued and waiting. It will then change to `r` whilst running and will disappear once complete. In the above exampke you can see both the interactive session and the queued gpu job submission. When complete the job submission will create an execution log file with a file name matching the binary or bash script and with a file extension of `.e<jobid>` (i.e. `helloworld.e205650`). You can view the contents of this log file using the `cat` command. E.g.
+The status of your GPU job will initially be `qw` to indicate queued and waiting. It will then change to `r` whilst running and will disappear once complete. In the above example you can see both the interactive session and the queued gpu job submission. When complete the job submission will create an execution log file with a file name matching the binary or bash script and with a file extension of `.e<jobid>` (i.e. `helloworld.e205650`). You can view the contents of this log file using the `cat` command. E.g.
 
 	cat helloworld.e205650
 
