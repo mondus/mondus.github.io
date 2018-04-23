@@ -236,14 +236,14 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 09
 
-### Lecture 16 - Sorting and Libraries (pdf)
+### Lecture 16 - Sorting and Libraries ([pdf](https://drive.google.com/file/d/1gZRro8vBrcpFdRTZ6vQwU3PGY8bKK6-1/view?usp=sharing))
 
 * Sorting Networks
 * Merge and Bitonic Sort
 * Thrust Parallel Primitives Library
 * Applications of Sorting (binning)
 
-### Lecture 17 - CUDA Streams (pdf)
+### Lecture 17 - CUDA Streams ([pdf](https://drive.google.com/file/d/13IodcFY0rrZ6iWgmA_IYaJ0Ihpdb9-oL/view?usp=sharing))
 
 * Synchronous and Asynchronous execution 
 * CUDA Streams
@@ -252,8 +252,8 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ### Lab 09 - Libraries and Streams
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/file/d/1X6TiotIwEIyxjmi87dmmgm3ENpSHlyE7/view?usp=sharing)
+* [Source Code](https://github.com/mondus/com4521/archive/lab08_src.zip)
 * Solution
 
 ## Week 10
