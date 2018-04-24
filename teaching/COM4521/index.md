@@ -232,7 +232,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 ### Lab 08 - ShARC Lab
 
 * [Online Lab Guide](./sharc)
-* [Profile Lecture Example Code](https://github.com/mondus/com4521/archive/Lab08_src.zip)
+* [Profile Lecture Example Code](https://github.com/mondus/com4521/archive/lab08_src.zip)
 
 ## Week 09
 
@@ -253,7 +253,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 ### Lab 09 - Libraries and Streams
 
 * [Lab Sheet](https://drive.google.com/file/d/1X6TiotIwEIyxjmi87dmmgm3ENpSHlyE7/view?usp=sharing)
-* [Source Code](https://github.com/mondus/com4521/archive/lab08_src.zip)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab08_src.zip)
 * Solution
 
 ## Week 10
