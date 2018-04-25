@@ -148,7 +148,7 @@ In order to profile your code on ShARC you will need to run your code through `n
 
     module load libs/CUDA
     nvprof -o timeline.nvprof ./myapplication
-    nvprof -o --analysis-metrics analysis.nvprof ./myapplication
+    nvprof --analysis-metrics -o analysis.nvprof ./myapplication
     
 E.g. a complete shell script for profiling might look like the following.
 
