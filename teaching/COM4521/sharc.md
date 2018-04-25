@@ -25,7 +25,7 @@ The ShARC is accessed through an `ssh` terminal. To login to ShARC from a CICS m
 
 If you are connecting from a machine which is your own (i.e. not a CICS managed desktop) then connect to ShARC using the instructions provided on the [ShARC documentation site](http://docs.hpc.shef.ac.uk/en/latest/sharc/index.html):
 
-[http://docs.hpc.shef.ac.uk/en/latest/hpc/connecting.html]http://docs.hpc.shef.ac.uk/en/latest/hpc/connecting.html).
+[http://docs.hpc.shef.ac.uk/en/latest/hpc/connecting.html](http://docs.hpc.shef.ac.uk/en/latest/hpc/connecting.html).
 
 Once you are logged into a ShARC head node then request an interactive session by typing 
 
