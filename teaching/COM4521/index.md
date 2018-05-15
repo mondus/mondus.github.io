@@ -216,7 +216,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 * [Lab Sheet](https://drive.google.com/file/d/1q9J6iL_mZxxsWlDITczaOFKUGmfdIfdA/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab07_src.zip)
-* Solution
+* [Solution](https://github.com/mondus/com4521/archive/Lab07_sln.zip)
 
 ## EASTER VACTION
 
@@ -270,7 +270,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 * [Lab Sheet](https://drive.google.com/file/d/19MZ-oVYj2hOB9ZkW3havOOZMQeaJm_w3/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab10_src.zip)
-* Solution
+* [Solution](https://github.com/mondus/com4521/archive/lab10_sln.zip)
 
 ## Week 12: No lectures or labs
 
