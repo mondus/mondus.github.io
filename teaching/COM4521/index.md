@@ -15,6 +15,6 @@ During Spring semester of 2019 I will be on shared parental leave. As a result [
 
 Content for the previous years are available below.
 
-* [2018](./index2018)
-* [2017](./index2017)
-* [2016](./index2016)
+* [2018](./index_2018)
+* [2017](./index_2017)
+* [2016](./index_2016)
