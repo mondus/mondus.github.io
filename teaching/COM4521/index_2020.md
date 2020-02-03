@@ -17,7 +17,7 @@ Lectures will take place on Tuesdays 9:00 until 11:00 in Broad Lane Lecture Thea
 
 Labs are double taught, you only need to attend one two lab session per week. You should have been allocated a group by the teaching admin team. 
 
-* Group 1 lab is run on Tuesdays 13:00-15:00 (with no lab in week 5). 
+* Group 1 lab is run on Tuesdays 13:00-15:00 (on week 5 the lab is 11:00-13:00). 
 * Group 2 lab is Wednesday 9:00-11:00 (in week 6 the lab is on Friday 20th March 10:00-1200, and there is no lab in week 10).
 
 # Lecture and Lab Material
@@ -34,17 +34,19 @@ If you want to complete the exercises in Linux then example Makefiles will be pr
 
 The Diamond high spec compute room is booked for the lab classes and is always available to you during standard lab hours. Our side of lab times the room has a tendency to be quite busy, especially towards the end of term when assignments are due. The following options are available to you;
 
-* The Diamond high spec compute room (compute room 4)- The room has been block booked for participants in this module and Computer Science project students ([See list of bookings]()). If the room is occupied then machines must be  vacated to provide space for you. If people are unwilling to move then consult the Diamond reception desk.
-* Diamond loanable high spec laptops - details to follow
+* The Diamond high spec compute room (compute room 4)- The room has been block booked for participants in this module and Computer Science project students ([See list of bookings](https://docs.google.com/spreadsheets/d/1sIeNWsJgY_ylXT-yW1qtv2bP8zkr_zE0L5lOb30ZTMs/edit?usp=sharing)). If the room is occupied then machines must be  vacated to provide space for you. If people are unwilling to move then consult the Diamond reception desk.
+* Diamond loanable high spec laptops - Available to borrow from the Fluids Engineering lab in the Diamond Level 3 (during working hours when the room is not is use for teaching)
 * Your own Windows/Linux machine - Follow the instructions under "software for this module".
 * Your own Linux machine - Example makefiles are provided with the lab handouts and solutions. You will need to install CUDA 10.0
-* [ShARC](./sharc) - In week 5, a self paced lab class (outside of normal lab hours) will be provided to guide you through how to use the ShARC facility to submit GPU jobs to the Universities HPC system. You can ask for assistance with this lab during any normal lab hours.
+* ShARC - In week 8, a lab will be provided to guide you through how to use the ShARC facility to submit GPU jobs to the Universities HPC system.
 
 # Lab Attendance Checking and Module Feedback
 
 You are required to complete a lab register to indicate your progress with the lab exercises each week. You should fill this in once you have completed the lab exercises and reviewed the solutions. It is not expected that you will be able to complete all of the lab exercises within the two hour lab slot, you are expected to undertake independent study but you must try and complete the labs before the start of the next lab. The purpose of the lab register is to monitor class progress to be able provide feedback, clarifications on difficult areas and additional assistance to you. please use the additional comments section to highlight if you found the content useful, too easy or difficult, or would you like some aspect of the course to be clarified?
 
-[Lab Register and Feedback Form](https://goo.gl/0r73gD)
+[Lab Register and Feedback Form](https://bit.ly/3b77Lhy)
+
+*Note: There is a form section per lab class. Please only complete this form once and edit your last submission each week to update.*
 
 # Feedback
 
@@ -169,15 +171,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 05
 
-### MOLE Quiz 1 - No lectures
-
-### Lab 5
-
-* No lab on Tuesday 10/03/202
-* Wednesday 11/03/2020 9:00-11:00 Drop in Assignment help open to all
-
-
-## Week 6
+### Quiz BEFORE lecture 9
 
 ### Lecture 09 - CUDA Memory 
 
@@ -187,49 +181,48 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 * Texture and Read-only Memory
 * Roundup & Performance Timing
 
-
-
-### Lab 05 - Memory
+### Lab 5 - CUDA Memory
 
 * Lab Sheet
 * Source Code
 * Solution
 
 
-## Week 06
+## Week 6
 
-### Lecture 10 - CUDA Shared Memory ([pdf](https://drive.google.com/file/d/1CN977UxqI5DbVpIK5YxKKuSalnpv-7Wi/view?usp=sharing))
+
+### Lecture 10 - CUDA Shared Memory
 
 * Shared Memory
 * Shared Memory Bank Conflicts
 * 2D Shared Memory Bank Conflicts
 * Boundary Conditions for Shared Memory Loading
 * Host-side Configurations for Shared Memory
-* [Shared Memory Bank Conflict Calculator](https://drive.google.com/file/d/173St-SBa9J3gtvt3CdTVrhPZqE-fNbY_/view?usp=sharing)
+* Shared Memory Bank Conflict Calculator
 
-### Lecture 11 - CUDA Performance ([pdf](https://drive.google.com/file/d/1aeoY76E9mIlBdgWsHvg5NpmQEdpaf0Cp/view?usp=sharing))
+### Lecture 11 - CUDA Performance
+
+* Global Memory Coalescing
+* Global Memory Coalescing with the L1 Cache
+* Occupancy and Thread Block Dimensions
+
+### Lab 6 - Shared Memory
 
 * Lab Sheet
 * Source Code
 * Solution
-
-### Lab 06 - Shared Memory and Occupancy
-
-* [Lab Sheet](https://drive.google.com/file/d/1csN6DbbE6ooXIOVk4YVLpwftJhS3aiE-/view?usp=sharing)
-* [Source Code](https://github.com/mondus/com4521/archive/Lab06_src.zip)
-* [Solution](https://github.com/mondus/com4521/archive/Lab06_sln.zip)
-* [Solution Explanation](https://drive.google.com/file/d/1Trsmttmng_Bjqdhrz2Hel2VbqOOfyN03/view?usp=sharing)
+* Solution Explanation
 
 ## Week 07
 
-### Lecture 12 - Warp Level CUDA ([pdf](https://drive.google.com/file/d/1wQm3qegPIp7I5XG0eH_z_HwhLXkAdU4E/view?usp=sharing))
+### Lecture 12 - Warp Level CUDA 
 
 * Warp Scheduling and Divergence
 * Atomics
 * Warp Operations
-* [Excel sheet for SM conflicts](https://drive.google.com/file/d/1DAnIEcW7vixm7zZMIevaIMW7Hf2UGiA9/view?usp=sharing)
+* Excel sheet for SM conflicts
 
-### Lecture 13 - Parallel Patterns ([pdf](https://drive.google.com/file/d/1AeJCT0cvIPC5fPXsBxHoheoXHDMlzhRm/view?usp=sharing))
+### Lecture 13 - Parallel Patterns 
 
 * Parallel Patterns Overview
 * Reduction
@@ -241,32 +234,33 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 * Source Code
 * Solution
 
-## EASTER VACTION
-
 ## Week 8
 
-### Lecture 14 and 15 - Performance Optimisation ([pdf](https://drive.google.com/file/d/1fCY4IYtgEu1JszlvkL7u_n-K9Nda-Dzq/view?usp=sharing))
+### Lecture 14 and 15 - Performance Optimisation 
 
 * Profiling Introduction
 * The Problem
 * Visual Profiler Guided Analysis
-* Profiling in the lab ([available as a separate download](https://drive.google.com/file/d/13yUe3-1bk-umAT84LJxnOaD0DwSni8Q3/view?usp=sharing))
+* Profiling in the lab ([available as a separate download]())
 
-### Lab 08 - ShARC Lab
+### Lab 08 - Profiling Example and ShARC Lab
 
 * [Online Lab Guide](./sharc)
 * [Profile Lecture Example Code](https://github.com/mondus/com4521/archive/lab08_src.zip)
 
+
+## EASTER VACATION
+
 ## Week 09
 
-### Lecture 16 - Sorting and Libraries ([pdf](https://drive.google.com/file/d/1gZRro8vBrcpFdRTZ6vQwU3PGY8bKK6-1/view?usp=sharing))
+### Lecture 16 - Sorting and Libraries 
 
 * Sorting Networks
 * Merge and Bitonic Sort
 * Thrust Parallel Primitives Library
 * Applications of Sorting (binning)
 
-### Lecture 17 - CUDA Streams ([pdf](https://drive.google.com/file/d/13IodcFY0rrZ6iWgmA_IYaJ0Ihpdb9-oL/view?usp=sharing))
+### Lecture 17 - CUDA Streams 
 
 * Synchronous and Asynchronous execution 
 * CUDA Streams
@@ -275,25 +269,27 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ### Lab 09 - Libraries and Streams
 
-* [Lab Sheet](https://drive.google.com/file/d/1X6TiotIwEIyxjmi87dmmgm3ENpSHlyE7/view?usp=sharing)
-* [Source Code](https://github.com/mondus/com4521/archive/Lab08_src.zip)
-* [Solution](https://github.com/mondus/com4521/archive/Lab08_sln.zip)
+* Lab Sheet
+* Source Code
+* Solution
 
 ## Week 10
 
 ### Lecture 18 - Invited Talk
 
-### 1st May 2018 (09:00) - MOLE QUIZ (Diamond high spec compute room, DIA-002, Computer room 2)
+### MOLE Quiz AFTER Lecture 18
 
 ### Lab 10 - Assignment Help
 
-## Week 11: BANK HOLIDAY
+## Week 11:
+
+## No Lectures
 
 ### Lab 11 - OpenGL and Assignment Help
 
-* [Lab Sheet](https://drive.google.com/file/d/19MZ-oVYj2hOB9ZkW3havOOZMQeaJm_w3/view?usp=sharing)
-* [Source Code](https://github.com/mondus/com4521/archive/Lab10_src.zip)
-* [Solution](https://github.com/mondus/com4521/archive/lab10_sln.zip)
+* Lab Sheet
+* Source Code
+* Solution
 
 ## Week 12: No lectures or labs
 
@@ -304,6 +300,8 @@ You can add this calendar to your University of Sheffield Google Calendar by sea
 <iframe src="https://calendar.google.com/calendar/embed?src=sheffield.ac.uk_4gq0ug3uf8dlts9d21gp4l1des%40group.calendar.google.com&ctz=Europe/London" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Recommended Reading
+
+The following are useful resources but not required reading.
 
 * Edward Kandrot, Jason Sanders, "CUDA by Example: An Introduction to General-Purpose GPU Programming", Addison Wesley 2010.
 * Brian Kernighan, Dennis Ritchie, “The C Programming Language (2nd Edition)”, Prentice Hall 1988.
