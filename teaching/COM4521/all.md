@@ -9,11 +9,9 @@ Accelerator architectures are discrete processing units which supplement a base 
  
 The modules aims, objectives and assessment details are available on the [modules public teaching page](http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level4/com4521.html).
 
-# Teaching 2019
+# Link to Course Content
 
-During Spring semester of 2019 I will be on shared parental leave. As a result [Mozhgan Kabiri-Chimeh](http://mkchimeh.staff.shef.ac.uk/) is teaching the Com4521 and Com6521 modules for this year.
-
-Content for the previous years are available below.
+Content for each year of teaching is below
 
 * [2020](./index)
 * 2019 - Course Taught by Mozhgan Kabiri Chimeh
