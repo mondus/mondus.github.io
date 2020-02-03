@@ -15,6 +15,8 @@ During Spring semester of 2019 I will be on shared parental leave. As a result [
 
 Content for the previous years are available below.
 
+* [2020](./index)
+* 2019 - Course Taught by Mozhgan Kabiri Chimeh
 * [2018](./index_2018)
 * [2017](./index_2017)
 * [2016](./index_2016)
