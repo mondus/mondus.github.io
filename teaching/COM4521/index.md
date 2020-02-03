@@ -3,9 +3,10 @@ title: Dr Paul Richmond - COM4521 & COM 6521 Introduction to Parallel Computing 
 layout: homepage
 ---
 
-Welcome to the 2020 module page for COM4521/COM6521.
 
 # About the Course
+
+Welcome to the 2020 module page for COM4521/COM6521.
 
 Accelerator architectures are discrete processing units which supplement a base processor with the objective of providing advanced performance at lower energy cost. Performance is gained by a design which favours a high number of parallel compute cores at the expense of imposing significant software challenges. This module looks at accelerated computing from multi-core CPUs to GPU accelerators with many TFlops of theoretical performance. The module will give insight into how to write high performance code with specific emphasis on GPU programming with NVIDIA CUDA GPUs. A key aspect of the module will be understanding what the implications of program code are on the underlying hardware so that it can be optimised.
  
