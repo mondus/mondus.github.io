@@ -27,7 +27,7 @@ Lectures notes and labs are available via [Google Drive](https://drive.google.co
 
 # Software for the Module
 
-The module programming exercises are designed to be completed in the Diamond high spec compute room. The room has recently been upgraded with Visual Studio 2019 and CUDA 10. If you intend to use your own machine for programming exercises (on the CUDA part of the module) then you **must** install the latest Community version of Visual Studio 2019 before you install the CUDA toolkit.
+The module programming exercises are designed to be completed in the Diamond high spec compute room. The room has recently been upgraded with Visual Studio 2017 and CUDA 10. If you intend to use your own machine for programming exercises (on the CUDA part of the module) then you **must** install the latest Community version of Visual Studio 2019 before you install the CUDA toolkit. Some versions of Visual Studio 2017 are not compatible with CUDA.
 
 If you want to complete the exercises in Linux then example Makefiles will be provided with the lab starting code and solution. It is not possible to build Linux CUDA programs in the high spec compute room, however there will be lab instructions on how to remotely build and execute CUDA code for the Universities High Performance (HPC) computing system (ShARC).
 
