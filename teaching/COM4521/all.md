@@ -13,8 +13,8 @@ The modules aims, objectives and assessment details are available on the [module
 
 Content for each year of teaching is below
 
-* [2020](./index)
+* [2020](../index)
 * 2019 - Course Taught by Mozhgan Kabiri Chimeh
-* [2018](./index_2018)
-* [2017](./index_2017)
-* [2016](./index_2016)
+* [2018](../index_2018)
+* [2017](../index_2017)
+* [2016](../index_2016)
