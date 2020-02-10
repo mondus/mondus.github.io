@@ -80,26 +80,26 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 01
 
-### Lecture 01 - Introduction 
+### Lecture 01 - Introduction ([pdf](https://drive.google.com/open?id=11_tQK9gFufXWy4b5wWlwv6QEnUFSu48u))
 
 * Context and Hardware Trends
 * Supercomputing
 * Software and Parallel Computing
 * Course Outline
 
-### Lecture 02 - Introduction to C 
+### Lecture 02 - Introduction to C ([pdf](https://drive.google.com/open?id=1XTLiobUquK3exL8LypViyh-QITw__WqK))
 
 * Introduction to the C Programming Language
 * Basic C Usage "Hello World"
 * Functions and Scoping
 * Arrays, Strings and Basic IO
 * File IO
-* Visual Studio 2017 Overview 
+* Extra Material: Visual Studio 2017 Overview ([pdf](https://drive.google.com/open?id=1qO9UURhX3tFKzZmkCbMO3nnKemIxssxJ))
 
 ### Lab 01 - Introduction to Visual Studio and C Programming 
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/open?id=10fxV71JuTdhe4Vu6WIzcoeckiy6TOa4z)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab01_src.zip)
 * Solution
 
 ## Week02: 
