@@ -36,7 +36,7 @@ If you want to complete the exercises in Linux then example Makefiles will be pr
 The Diamond high spec compute room is booked for the lab classes and is always available to you during standard lab hours. Our side of lab times the room has a tendency to be quite busy, especially towards the end of term when assignments are due. The following options are available to you;
 
 * The Diamond high spec compute room (compute room 4)- The room has been block booked for participants in this module and Computer Science project students ([See list of bookings](https://docs.google.com/spreadsheets/d/1sIeNWsJgY_ylXT-yW1qtv2bP8zkr_zE0L5lOb30ZTMs/edit?usp=sharing)). If the room is occupied then machines must be  vacated to provide space for you. If people are unwilling to move then consult the Diamond reception desk.
-* Diamond loanable high spec laptops - Available to borrow from the Fluids Engineering lab in the Diamond Level 3 (during working hours when the room is not is use for teaching)
+* Diamond **bookable** high spec laptops - Available to borrow from the lockers on Diamond Level 4 (for use within the Diamond building only) after completing an induction. To arrange an induction contact [James Screaton](mailto:j.screaton@sheffield.ac.uk).
 * Your own Windows/Linux machine - Follow the instructions under "software for this module".
 * Your own Linux machine - Example makefiles are provided with the lab handouts and solutions. You will need to install CUDA 10.0
 * ShARC - In week 8, a lab will be provided to guide you through how to use the ShARC facility to submit GPU jobs to the Universities HPC system.
