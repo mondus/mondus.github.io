@@ -14,7 +14,7 @@ The modules aims, objectives and assessment details are available on the [module
 
 # Lecture and Lab Location
 
-Lectures will take place on Tuesdays 9:00 until 11:00 in Broad Lane Lecture Theatre 7 (BROAD-LT7). In week 5 the **first** half of the lecture (9:00) will be a MOLE quiz in Diamond Computer Room 3. In week 10 the **second** half of the lecture (10:00) will be a MOLE quiz in Diamond Computer Room 1.
+Lectures will usually take place on Tuesdays 9:00 until 11:00 in Broad Lane Lecture Theatre 7 (BROAD-LT7). In week 5 the **first** half of the lecture (9:00) will be a MOLE quiz in Diamond Computer Room 3. In week 10 the **second** half of the lecture (10:00) will be a MOLE quiz in Diamond Computer Room 1. *Note: Any other changes to lectures will be added to the course calendar with an email sent to the course mailing list.*
 
 Labs are double taught, you only need to attend one two lab session per week. You should have been allocated a group by the teaching admin team. 
 
