@@ -104,7 +104,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week02: 
 
-### Lecture 03 - Memory 
+### Lecture 03 - Memory [pdf](https://drive.google.com/open?id=1gJGZvDRfFYVN1sFxXR-66QrL-lpdywEL)
 
 * Pointers
 * Advanced use of Pointers
@@ -112,7 +112,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 * Structures
 * Binary Files
 
-### Lecture 04 - Optimisation 
+### Lecture 04 - Optimisation [pdf](https://drive.google.com/open?id=11BGw2468XqRscLEPn9eT7jIh3aQ-VO74)
 
 * Optimisation Overview
 * Compute Bound Code
@@ -120,8 +120,8 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ### Lab 02 - Memory and Performance
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/open?id=1cNzLsdZUbHKJSh5eERzdmd9mLYbS1CFN)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab02_src.zip)
 * Solution
 
 ## Week 03
