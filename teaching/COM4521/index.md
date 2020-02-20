@@ -122,7 +122,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 * [Lab Sheet](https://drive.google.com/open?id=1cNzLsdZUbHKJSh5eERzdmd9mLYbS1CFN)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab02_src.zip)
-* Solution
+* [Solution](https://github.com/mondus/com4521/archive/Lab02_sln.zip)
 
 ## Week 03
 
