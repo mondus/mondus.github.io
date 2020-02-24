@@ -126,7 +126,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 03
 
-### Lecture 05 - OpenMP 
+### Lecture 05 - OpenMP [pdf](https://drive.google.com/open?id=1Xw_NP923Go_VXUNFIOMVZB02AdL8r2IC)
 
 * Multi-core Systems and OpenMP
 * Parallelising Loops
@@ -134,7 +134,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 * OpenMP Scoping
 * Task Parallelism with Sections
 
-### Lecture 06 - OpenMP Part II 
+### Lecture 06 - OpenMP Part II [pdf](https://drive.google.com/open?id=1sYG1xrjRNvSsvoXvycL6l4714mfWtkmq)
 
 * OpenMP TIming
 * Parallel Reduction
@@ -143,8 +143,8 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ### Lab 03 - OpenMP
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/open?id=1wR9zEYKdKyg1UhqvflDZY46NV7rvo8ME)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab03_src.zip)
 * Solution
 
 ## Week 04
