@@ -104,7 +104,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week02: 
 
-### Lecture 03 - Memory [pdf](https://drive.google.com/open?id=1gJGZvDRfFYVN1sFxXR-66QrL-lpdywEL)
+### Lecture 03 - Memory ([pdf](https://drive.google.com/open?id=1gJGZvDRfFYVN1sFxXR-66QrL-lpdywEL))
 
 * Pointers
 * Advanced use of Pointers
@@ -112,7 +112,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 * Structures
 * Binary Files
 
-### Lecture 04 - Optimisation [pdf](https://drive.google.com/open?id=11BGw2468XqRscLEPn9eT7jIh3aQ-VO74)
+### Lecture 04 - Optimisation ([pdf](https://drive.google.com/open?id=11BGw2468XqRscLEPn9eT7jIh3aQ-VO74))
 
 * Optimisation Overview
 * Compute Bound Code
@@ -126,7 +126,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 03
 
-### Lecture 05 - OpenMP [pdf](https://drive.google.com/open?id=1Xw_NP923Go_VXUNFIOMVZB02AdL8r2IC)
+### Lecture 05 - OpenMP ([pdf](https://drive.google.com/open?id=1Xw_NP923Go_VXUNFIOMVZB02AdL8r2IC))
 
 * Multi-core Systems and OpenMP
 * Parallelising Loops
@@ -134,7 +134,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 * OpenMP Scoping
 * Task Parallelism with Sections
 
-### Lecture 06 - OpenMP Part II [pdf](https://drive.google.com/open?id=1sYG1xrjRNvSsvoXvycL6l4714mfWtkmq)
+### Lecture 06 - OpenMP Part II ([pdf](https://drive.google.com/open?id=1sYG1xrjRNvSsvoXvycL6l4714mfWtkmq))
 
 * OpenMP TIming
 * Parallel Reduction
@@ -149,14 +149,14 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 04
 
-### Lecture 07 - GPU Architectures
+### Lecture 07 - GPU Architectures ([pdf](https://drive.google.com/open?id=1TJwdnBiYieouUMN32wsiruKLjn9PJoIM))
 
 * What is a GPU?
 * General Purpose Computation on GPUs (and GPU History)
 * GPU CUDA Hardware Model
 * Accelerated Systems
 
-### Lecture 08 - Introduction to CUDA
+### Lecture 08 - Introduction to CUDA ([pdf](https://drive.google.com/open?id=1yA8X9yuCMBGpjetIEI6JEhNpGE0704c4))
 
 * CUDA Programming Model
 * CUDA Device Code
@@ -165,8 +165,8 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ### Lab 04 - Introduction to CUDA
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/open?id=1Mr-K6IdOuzeckEDG3RjJ4qmaNO-Do3qK)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab04_src.zip)
 * Solution
 
 
