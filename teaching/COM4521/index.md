@@ -167,14 +167,14 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 * [Lab Sheet](https://drive.google.com/open?id=1Mr-K6IdOuzeckEDG3RjJ4qmaNO-Do3qK)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab04_src.zip)
-* Solution
+* [Solution](https://github.com/mondus/com4521/archive/Lab04_sln.zip)
 
 
 ## Week 05
 
 ### Quiz BEFORE lecture 9
 
-### Lecture 09 - CUDA Memory 
+### Lecture 09 - CUDA Memory ([pdf](https://drive.google.com/open?id=1m6qrDEICELdp8SMhXEzBxsJP-Afy36ck))
 
 * Memory Hierarchy Overview
 * Global Memory
@@ -184,8 +184,8 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ### Lab 5 - CUDA Memory
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/open?id=1qys-DrrvJgA1wPKDlKdQIvjYynQIhRj8)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab05_src.zip)
 * Solution
 
 
