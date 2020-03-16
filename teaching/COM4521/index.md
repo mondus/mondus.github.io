@@ -191,8 +191,13 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 6
 
+###
 
-### Lecture 10 - CUDA Shared Memory
+Weeks 6 lectures are pre-recorded on encore. Follow the link below for the lecture content.
+
+[https://echo360.org.uk/media/70096996-3c13-4b31-970c-9b1b384ba0d9/public](https://echo360.org.uk/media/70096996-3c13-4b31-970c-9b1b384ba0d9/public)
+
+### Lecture 10 - CUDA Shared Memory [pdf](https://drive.google.com/open?id=1CN977UxqI5DbVpIK5YxKKuSalnpv-7Wi)
 
 * Shared Memory
 * Shared Memory Bank Conflicts
@@ -201,7 +206,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 * Host-side Configurations for Shared Memory
 * Shared Memory Bank Conflict Calculator
 
-### Lecture 11 - CUDA Performance
+### Lecture 11 - CUDA Performance [pdf](https://drive.google.com/open?id=1aeoY76E9mIlBdgWsHvg5NpmQEdpaf0Cp)
 
 * Global Memory Coalescing
 * Global Memory Coalescing with the L1 Cache
