@@ -191,9 +191,9 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 ## Week 6
 
-###
+### Encore
 
-Weeks 6 lectures are pre-recorded on encore. Follow the link below for the lecture content.
+Weeks 6 lectures (e.g. Lecture 10 and 11) are pre-recorded on encore. Follow the link below for the lecture content.
 
 [https://echo360.org.uk/media/70096996-3c13-4b31-970c-9b1b384ba0d9/public](https://echo360.org.uk/media/70096996-3c13-4b31-970c-9b1b384ba0d9/public)
 
