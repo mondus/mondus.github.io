@@ -186,7 +186,7 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 * [Lab Sheet](https://drive.google.com/open?id=1qys-DrrvJgA1wPKDlKdQIvjYynQIhRj8)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab05_src.zip)
-* Solution
+* [Solution](https://github.com/mondus/com4521/archive/Lab05_sln.zip)
 
 
 ## Week 6
@@ -214,8 +214,8 @@ Weeks 6 lectures (e.g. Lecture 10 and 11) are pre-recorded on encore. Follow the
 
 ### Lab 6 - Shared Memory
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/open?id=1vDkYtG3DiEZxFqGxSaUh6sep-wgaJkjF)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab06_src.zip)
 * Solution
 * Solution Explanation
 
