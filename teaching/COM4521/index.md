@@ -216,8 +216,8 @@ Weeks 6 lectures (e.g. Lecture 10 and 11) are pre-recorded on encore. Follow the
 
 * [Lab Sheet](https://drive.google.com/open?id=1vDkYtG3DiEZxFqGxSaUh6sep-wgaJkjF)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab06_src.zip)
-* Solution
-* Solution Explanation
+* [Solution](https://github.com/mondus/com4521/archive/Lab06_sln.zip)
+* [Solution Explanation](https://drive.google.com/open?id=1xDo9HAYDPax8c3d3EFffKoZH5nUV7Vjm)
 
 ## Week 07
 
