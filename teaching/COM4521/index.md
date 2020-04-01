@@ -221,14 +221,26 @@ Weeks 6 lectures (e.g. Lecture 10 and 11) are pre-recorded on encore. Follow the
 
 ## Week 07
 
-### Lecture 12 - Warp Level CUDA 
+Due to COVID-19 Week 7 Has been removed from the teaching semester.
+
+## EASTER VACATION
+
+## Week 8
+
+## Encore
+
+Weeks 8 lectures are pre-recorded on encore. Follow the link below for the lecture content.
+
+[https://echo360.org.uk/media/2f39e288-7206-4cb1-99b8-7b481dc03cec/public](https://echo360.org.uk/media/2f39e288-7206-4cb1-99b8-7b481dc03cec/public)
+
+### Lecture 12 - Warp Level CUDA ([pdf](https://drive.google.com/open?id=1rn8nwnDcgT4x8Ld1vFfXPE4k38xEnlxC))
 
 * Warp Scheduling and Divergence
 * Atomics
 * Warp Operations
 * Excel sheet for SM conflicts
 
-### Lecture 13 - Parallel Patterns 
+### Lecture 13 - Parallel Patterns ([pdf](https://drive.google.com/open?id=1q0kCiPk6p6wWU0zDMuFWetDVtMIBWQfP))
 
 * Parallel Patterns Overview
 * Reduction
@@ -236,37 +248,49 @@ Weeks 6 lectures (e.g. Lecture 10 and 11) are pre-recorded on encore. Follow the
 
 ### Lab 07 - Atomics and Primitives
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/open?id=1L-1v2QROFVbR0gJk7jnrJCRUxZA8gUV2)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab07_src.zip)
 * Solution
 
-## Week 8
+## Week 9
 
-### Lecture 14 and 15 - Performance Optimisation 
+
+### Encore
+
+Weeks 9 lectures are pre-recorded on encore. Follow the link below for the lecture content.
+
+[https://echo360.org.uk/media/1df87c02-cf1c-4b5d-818a-c2596f8185b3/public](https://echo360.org.uk/media/1df87c02-cf1c-4b5d-818a-c2596f8185b3/public)
+
+### Lecture 14 and 15 - Performance Optimisation ([pdf](https://drive.google.com/open?id=1MpXx4TuEwomtdZkJkIVnW5nA44DINFM0))
 
 * Profiling Introduction
 * The Problem
 * Visual Profiler Guided Analysis
-* Profiling in the lab ([available as a separate download]())
+* Profiling on instancehub ([available as a separate download](https://drive.google.com/open?id=1qQw0Ut2lggbdJm8PF_TO0xsJZlpPKLW-))
 
-### Lab 08 - Profiling Example and ShARC Lab
+### Lab 08 - Profiling Example
 
-* [Online Lab Guide](./sharc)
-* [Profile Lecture Example Code](https://github.com/mondus/com4521/archive/lab08_src.zip)
+Note: As labs have moved to instancehub there is no need to undertake a lab on ShARC which is extreemly busy with remote research work.
+
+* [Profile Lecture Example Code](https://github.com/mondus/com4521/archive/lab09_sln.zip)
 
 
-## EASTER VACATION
+## Week 10
 
-## Week 09
+### Encore
 
-### Lecture 16 - Sorting and Libraries 
+Weeks 9 lectures are pre-recorded on encore. Follow the link below for the lecture content.
+
+[https://echo360.org.uk/media/5eacecd1-eb25-4850-b378-019549500bb7/public](https://echo360.org.uk/media/5eacecd1-eb25-4850-b378-019549500bb7/public)
+
+### Lecture 16 - Sorting and Libraries ([pdf](https://drive.google.com/open?id=1lMx_jEFtOxl02FRh09oxHRUHoMC5bwT5))
 
 * Sorting Networks
 * Merge and Bitonic Sort
 * Thrust Parallel Primitives Library
 * Applications of Sorting (binning)
 
-### Lecture 17 - CUDA Streams 
+### Lecture 17 - CUDA Streams ([pdf](https://drive.google.com/open?id=1zhGV8WmMlsLI-PpTYO6b2i3XaDH6cRRe))
 
 * Synchronous and Asynchronous execution 
 * CUDA Streams
@@ -275,29 +299,34 @@ Weeks 6 lectures (e.g. Lecture 10 and 11) are pre-recorded on encore. Follow the
 
 ### Lab 09 - Libraries and Streams
 
-* Lab Sheet
-* Source Code
+* [Lab Sheet](https://drive.google.com/open?id=1oksunLWVfePbXrRRmnNF_njlBlyKahdV)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab08_src.zip)
 * Solution
 
-## Week 10
+## Week 11
 
-### Lecture 18 - Invited Talk
+### MOLE Quiz during lecture time
 
-### MOLE Quiz AFTER Lecture 18
+This MOLE quiz will no longer be assessed but can still be taken and the answeres reviewed. It is **stronly** encouraged to take this quiz as it provides formative feedback which will help you to undertsnad your learning.
 
 ### Lab 10 - Assignment Help
 
-## Week 11:
+## Week 12:
 
 ## No Lectures
 
-### Lab 11 - OpenGL and Assignment Help
+Please Find below a list of previous invited lectures
 
-* Lab Sheet
-* Source Code
+* [Acclerating Road Network Simulations using GPUs](https://echo360.org.uk/media/de75ffe6-c839-49de-af50-ddb270dd529f/public)
+* [Optimising Pedestrian Simulations](https://echo360.org.uk/media/6f8ed7dd-f3d8-4c25-acf2-03c36e40ea9e/public)
+
+### Lab 11 - Optional OpenGL Lab and Assignment Help
+
+*Note: The OpenGL lab is only suitable for those who have completed the undergraduate Computer Graphics module. The content of this lab is entirely optional and is not assesed as part of the module.*
+
+* [Lab Sheet](https://drive.google.com/open?id=1q32RwV1XiiqplIut17ovO_OQJ3w83DzK)
+* [Source Code](https://github.com/mondus/com4521/archive/Lab10_src.zip)
 * Solution
-
-## Week 12: No lectures or labs
 
 # Calendar
 
