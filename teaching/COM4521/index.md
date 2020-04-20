@@ -248,6 +248,7 @@ Weeks 8 lectures are pre-recorded on encore. Follow the link below for the lectu
 
 ### Lab 07 - Atomics and Primitives
 
+* [Online Lab Class Instructions](./onlinelabs.md)
 * [Lab Sheet](https://drive.google.com/open?id=1L-1v2QROFVbR0gJk7jnrJCRUxZA8gUV2)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab07_src.zip)
 * Solution
@@ -270,7 +271,8 @@ Weeks 9 lectures are pre-recorded on encore. Follow the link below for the lectu
 
 ### Lab 08 - Profiling Example
 
-Note: As labs have moved to instancehub there is no need to undertake a lab on ShARC which is extreemly busy with remote research work.
+* [Online Lab Class Instructions](./onlinelabs.md)
+Note: As labs have moved to instancehub there is no need to undertake a lab on ShARC which is extreemly busy with remote research work. This lab class can be used for help with any of the lab exercises or for assignment help.
 
 * [Profile Lecture Example Code](https://github.com/mondus/com4521/archive/lab09_sln.zip)
 
@@ -299,6 +301,7 @@ Weeks 9 lectures are pre-recorded on encore. Follow the link below for the lectu
 
 ### Lab 09 - Libraries and Streams
 
+* [Online Lab Class Instructions](./onlinelabs.md)
 * [Lab Sheet](https://drive.google.com/open?id=1oksunLWVfePbXrRRmnNF_njlBlyKahdV)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab08_src.zip)
 * Solution
@@ -322,8 +325,9 @@ Please Find below a list of previous invited lectures
 
 ### Lab 11 - Optional OpenGL Lab and Assignment Help
 
-*Note: The OpenGL lab is only suitable for those who have completed the undergraduate Computer Graphics module. The content of this lab is entirely optional and is not assesed as part of the module.*
+*Note: The OpenGL lab is only suitable for those who have completed the undergraduate Computer Graphics module. The content of this lab is entirely optional and is not assesed as part of the module. You can attend this lab to get help with any of the lab classes or your assignment.*
 
+* [Online Lab Class Instructions](./onlinelabs.md)
 * [Lab Sheet](https://drive.google.com/open?id=1q32RwV1XiiqplIut17ovO_OQJ3w83DzK)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab10_src.zip)
 * Solution
