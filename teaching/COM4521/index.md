@@ -219,17 +219,14 @@ Weeks 6 lectures (e.g. Lecture 10 and 11) are pre-recorded on encore. Follow the
 * [Solution](https://github.com/mondus/com4521/archive/Lab06_sln.zip)
 * [Solution Explanation](https://drive.google.com/open?id=1xDo9HAYDPax8c3d3EFffKoZH5nUV7Vjm)
 
-## Week 07
-
-Due to COVID-19 Week 7 Has been removed from the teaching semester.
 
 ## EASTER VACATION
 
-## Week 8
+## Week 7
 
 ## Encore
 
-Weeks 8 lectures are pre-recorded on encore. Follow the link below for the lecture content.
+Weeks 7 lectures are pre-recorded on encore. Follow the link below for the lecture content.
 
 [https://echo360.org.uk/media/2f39e288-7206-4cb1-99b8-7b481dc03cec/public](https://echo360.org.uk/media/2f39e288-7206-4cb1-99b8-7b481dc03cec/public)
 
@@ -253,12 +250,12 @@ Weeks 8 lectures are pre-recorded on encore. Follow the link below for the lectu
 * [Source Code](https://github.com/mondus/com4521/archive/Lab07_src.zip)
 * Solution
 
-## Week 9
+## Week 8
 
 
 ### Encore
 
-Weeks 9 lectures are pre-recorded on encore. Follow the link below for the lecture content.
+Weeks 8 lectures are pre-recorded on encore. Follow the link below for the lecture content.
 
 [https://echo360.org.uk/media/1df87c02-cf1c-4b5d-818a-c2596f8185b3/public](https://echo360.org.uk/media/1df87c02-cf1c-4b5d-818a-c2596f8185b3/public)
 
@@ -277,7 +274,7 @@ Note: As labs have moved to instancehub there is no need to undertake a lab on S
 * [Profile Lecture Example Code](https://github.com/mondus/com4521/archive/lab09_sln.zip)
 
 
-## Week 10
+## Week 9
 
 ### Encore
 
@@ -306,7 +303,7 @@ Weeks 9 lectures are pre-recorded on encore. Follow the link below for the lectu
 * [Source Code](https://github.com/mondus/com4521/archive/Lab08_src.zip)
 * Solution
 
-## Week 11
+## Week 10
 
 ### MOLE Quiz during lecture time
 
@@ -314,9 +311,9 @@ This MOLE quiz will no longer be assessed but can still be taken and the answere
 
 ### Lab 10 - Assignment Help
 
-## Week 12:
+## Week 11:
 
-## No Lectures
+## Invited Lecture
 
 Please Find below a list of previous invited lectures
 
@@ -331,6 +328,10 @@ Please Find below a list of previous invited lectures
 * [Lab Sheet](https://drive.google.com/open?id=1q32RwV1XiiqplIut17ovO_OQJ3w83DzK)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab10_src.zip)
 * Solution
+
+## Week 12:
+
+No Lectures or Labs
 
 # Calendar
 
