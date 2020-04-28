@@ -204,7 +204,7 @@ Weeks 6 lectures (e.g. Lecture 10 and 11) are pre-recorded on encore. Follow the
 * 2D Shared Memory Bank Conflicts
 * Boundary Conditions for Shared Memory Loading
 * Host-side Configurations for Shared Memory
-* Shared Memory Bank Conflict Calculator ([xlxs file](https://drive.google.com/file/d/173St-SBa9J3gtvt3CdTVrhPZqE-fNbY_/view?usp=sharing))
+* Shared Memory Bank Conflict Calculator ([xlxs file](https://drive.google.com/file/d/1pHTvo-X02_xp8OHCobJ-zFaZ0Vq2mtKK/view?usp=sharing))
 
 ### Lecture 11 - CUDA Performance [pdf](https://drive.google.com/open?id=1aeoY76E9mIlBdgWsHvg5NpmQEdpaf0Cp)
 
