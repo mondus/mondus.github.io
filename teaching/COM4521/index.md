@@ -248,7 +248,7 @@ Weeks 7 lectures are pre-recorded on encore. Follow the link below for the lectu
 * [Online Lab Class Instructions](./onlinelabs.md)
 * [Lab Sheet](https://drive.google.com/open?id=1L-1v2QROFVbR0gJk7jnrJCRUxZA8gUV2)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab07_src.zip)
-* Solution
+* [Solution](https://github.com/mondus/com4521/archive/Lab07_sln.zip)
 
 ## Week 8
 
