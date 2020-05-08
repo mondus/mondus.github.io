@@ -58,7 +58,7 @@ You will receive feedback from the lab registers during lectures and lab classes
 There are two assignments for the module which contribute 80% of the total module mark
 
 * Part 1 (30% of the assignment total) - Released Week 3, Due Monday week 7 (23/03/2020) at 15:00
-* Part 2 (70% of the assignment total) - Released Week 6, Due Monday week 12 (18/05/2020) at 15:00
+* Part 2 (70% of the assignment total) - Released Week 6, Due Monday week 11 (18/05/2020) at 15:00
 
 The remaining 20% of the module mark is from two mole quizes which are 
 
