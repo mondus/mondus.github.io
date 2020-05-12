@@ -320,7 +320,7 @@ Please Find below a list of previous invited lectures
 * [Acclerating Road Network Simulations using GPUs](https://echo360.org.uk/media/de75ffe6-c839-49de-af50-ddb270dd529f/public)
 * [Optimising Pedestrian Simulations](https://echo360.org.uk/media/6f8ed7dd-f3d8-4c25-acf2-03c36e40ea9e/public)
 
-### Lab 11 - Optional OpenGL Lab and Assignment Help
+### Lab 11 - Optional OpenGL Lab
 
 *Note: The OpenGL lab is only suitable for those who have completed the undergraduate Computer Graphics module. The content of this lab is entirely optional and is not assesed as part of the module. You can attend this lab to get help with any of the lab classes or your assignment.*
 
