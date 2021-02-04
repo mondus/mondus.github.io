@@ -44,8 +44,8 @@ In response to student feedback the number of assignments has been reduced to a 
 
 The remaining 20% of the module mark is from two mole quizes which can be taken remotely **only at the specified times**
 
-* Week 5 - During the first half of the lab (10:00-11:00 08/03/2021)
-* Week 9 - During the first half of the lab (10:00-11:00 26/04/2021)
+* Week 5 - During the first half of the lab (11:00-12:00 08/03/2021)
+* Week 9 - During the first half of the lab (11:00-12:00 26/04/2021)
 
 ## DDP students and Staff Candidates
 
