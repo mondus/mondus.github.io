@@ -22,8 +22,9 @@ If you want to complete the exercises in Linux then example Makefiles will be pr
 
 As the module requires access to a machine with a GPU the following have been made available to you.
 
-* [Diamond Virtual Computer Lab 1](https://www.sheffield.ac.uk/findapc/rdp/room/37/pcs) - This is reserved for exclusive access during the scheduled lab hours. You can access this lab by opening [myTimetable](https://cmisgonext.sheffield.ac.uk/Web/Timetable) and selecting the COM4521/COM6521 lab session which provides a link to the virtual room. The machines in this room are the same as the Diamond all in one machines and have a NVIDIA GTX1050 GPU.
-* [Diamond High Spec Lab - Computer Room 4](https://www.sheffield.ac.uk/findapc/rdp/room/4/pcs) - This room can not be reserved but machines can be requested. These machines have slightly higher capability GPUs (Quadro P4000) but are limited in availability.
+* Diamond Virtual Computer Lab 1 - This is reserved for exclusive access during the scheduled lab hours. You can access this lab by opening [myTimetable](https://cmisgonext.sheffield.ac.uk/Web/Timetable) and selecting the COM4521/COM6521 lab session which provides a link to the virtual room. The machines in this room are the same as the Diamond all in one machines and have a NVIDIA GTX1050 GPU.
+* Diamond High Spec Lab Reservation - This is reserved for exclusive access during the scheduled lab hours. You can access this lab by opening [myTimetable](https://cmisgonext.sheffield.ac.uk/Web/Timetable) and selecting the COM4521/COM6521 lab session which provides a link to the virtual room. The machines in this room are the same as the Diamond High Spec lab and have an NVIDIA Quadro P4000.
+* Diamond High Spec Lab - Computer Room 4(https://www.sheffield.ac.uk/findapc/rdp/room/4/pcs) - This room can not be reserved but machines can be requested. These machines have slightly higher capability GPUs (Quadro P4000) but are limited in availability.
 * [Any other Diamond Computer Lab](https://www.sheffield.ac.uk/findapc/now) - These machines can be requested at any time and have GTX 1050s.
 * Your own Windows/Linux machine - Follow the instructions under "software for this module".
 
