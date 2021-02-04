@@ -2,6 +2,13 @@
 
 Lab classes for this module are held virtually with support available from instructors via the Mole (vle.sheffield.ac.uk) course rooms.
 
+## Joining a lab class
+
+1) Lab classes should be joined via Blackboard. Once you log in and select the module you will have alink on the main Module Content page for **Lab Class Session (Backboard Collaborate)**. This link will provide you with a list of lab sessions for each teaching week.
+
+2) Once you have joined a session, to request help you can select the raise hand icon at the bottom of the screen. One of the lab demonstratiors will move you in to a private break-out room for discussion. 
+
+
 ## Logging into a machine
 
 The majority of lab classes for this module require a computer with an NVIDIA GPU. The course [main page](../) has details of machines which are availabel to you. Connecting remotely to university machines requires:
@@ -30,12 +37,6 @@ Click "Check for an updated license", and select your user account.
 ![Visual Studio License](4.png "Visual Studio License")
 
 6) You should now be ready to complete the lab classes. Materials for the lab classes can be downloaded from the [course website](https://paulrichmond.shef.ac.uk/teaching/COM4521/). This will be updated weekly to add the new lab material and the previous weeks lab solutions.
-
-## Recieving support during lab classes
-
-1) Lab classes should be joined via the [Blackboard Collaborate link](https://eu.bbcollab.com/collab/ui/session/join/14fe0893486748f9b6bb439e281954f5)
-
-2) To request help you can select the raise hand icon at the bottom of the screen. One of the lab demonstratiors will move you int a breakoutroom for discussion. 
 
 ## Remote Assistance
 
