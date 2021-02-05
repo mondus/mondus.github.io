@@ -80,7 +80,7 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lab 01 - Introduction to Visual Studio and C Programming 
 
-* Getting Started with Visual Studio 2019 Overview [pdf](https://drive.google.com/file/d/1BCpXw9Mr04DSkal7P_ARzMis78t3Pveu/view?usp=sharing)
+* [Getting Started with Visual Studio 2019 Overview](https://drive.google.com/file/d/1BCpXw9Mr04DSkal7P_ARzMis78t3Pveu/view?usp=sharing)
 * [Lab Sheet](https://drive.google.com/file/d/1DsU1uOsQqiBwDrNwpVH4yB5GyWBaia_x/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab01_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab01_sln.zip)
@@ -102,7 +102,7 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lab 02 - Memory and Performance
 
-* [Lab Sheet]()
+* [Lab Sheet](https://drive.google.com/file/d/1JMqV-a5J2de0mUS961xrNsG1GUn4C8tr/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab02_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab02_sln.zip)
 
@@ -110,19 +110,19 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lecture 05 - OpenMP 
 
-* OpenMP Overview [pdf]() [recording]()
-* Loops and Critical Sections [pdf]() [recording]()
-* Scoping and Tasks [pdf]() [recording]()
+* OpenMP Overview ([pdf](https://drive.google.com/file/d/1Y9EUh835wkh8bwMHyNhu0fzFQGlygGl1/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+05+-+Part+01+-+OpenMP+Overview/1_tr35veym))
+* Loops and Critical Sections ([pdf](https://drive.google.com/file/d/1adfofgTWGOGqUwOuDgTS9OW_nVDeBS3n/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+05+-+Part+02+-+Loops+and+Critical+Sections/1_j4mfsl94))
+* Scoping and Tasks ([pdf](https://drive.google.com/file/d/14RxdZl6x2GYiCjbbi_1g1j5B5GhlXfzA/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+05+-+Part+03+-+Scoping+and+Tasks/1_tfgpqt3a))
 
 ### Lecture 06 - OpenMP Part II 
 
-* Parallel Reduction [pdf]() [recording]()
-* Scheduling [pdf]() [recording]()
-* Nesting and Summary [pdf]() [recording]()
+* Parallel Reduction ([pdf](https://drive.google.com/file/d/1DhPA-mFid4mFkUkFsRacIjzrPPvqpQs2/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+06+-+Part+01+-+Parallel+Reductions/1_0wfcdxdy))
+* Scheduling ([pdf](https://drive.google.com/file/d/1n86lfK9u96e6VaqxONkqFg0yTqbIqET-/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+06+-+Part+02+-+Scheduling/1_jbiq6pkl))
+* Nesting and Summary ([pdf](https://drive.google.com/file/d/1V-ufrzqwAZPvIs6bXl0zt9wE6uJ9KUeT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+06+-+Part+03+-+Nesting+and+Summary/1_m9hddu82))
 
 ### Lab 03 - OpenMP
 
-* [Lab Sheet]()
+* [Lab Sheet](https://drive.google.com/file/d/1ADMZfATvH17S2-XdLXQMcJwqf2I-wcAc/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab03_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab03_sln.zip)
 
@@ -130,10 +130,10 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lecture 07 - GPU Architectures 
 
-* What is a GPU?
-* General Purpose Computation on GPUs (and GPU History)
-* GPU CUDA Hardware Model
-* Accelerated Systems
+* Introduction to GPUs ([pdf](https://drive.google.com/file/d/1cGZgGCB27m6zBkqR7-P1Lo0Ce8z7LzYx/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+07+-+Part+01+-+Introduction+to+GPUs/1_p7q41uvc))
+* Programming GPUs ([pdf](https://drive.google.com/file/d/13G5k7JxXWYkmKdf_f3m34173Z4QQZNNb/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+07+-+Part+02+-+Programming+GPUs/1_76m5dhjm))
+* GPU Hardware ([pdf](https://drive.google.com/file/d/1Q5YBM8GZqXp4P3FR1yDSPKSN9LP3yFTk/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+07+-+Part+03+-+GPU+Hardware/1_t7dweiyp))
+
 
 ### Lecture 08 - Introduction to CUDA 
 
@@ -144,7 +144,7 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lab 04 - Introduction to CUDA
 
-* [Lab Sheet]()
+* [Lab Sheet](https://drive.google.com/file/d/1y5GnTyyp0wmBk1RRLep8oYs_HVMvAvxX/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab04_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab04_sln.zip)
 
@@ -163,14 +163,12 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lab 5 - CUDA Memory
 
-* [Lab Sheet]()
+* [Lab Sheet](https://drive.google.com/file/d/1O57IkNHqL9VcNIGa8qtpY-aKWg3D8FWp/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab05_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab05_sln.zip)
 
 
 ## Week 6
-
-### Encore
 
 ### Lecture 10 - CUDA Shared Memory
 
@@ -189,10 +187,10 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lab 6 - Shared Memory
 
-* [Lab Sheet]()
+* [Lab Sheet](https://drive.google.com/file/d/1_G8pSTyfSw04ELjp13Y1FB-AFKn7Sa9Q/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab06_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab06_sln.zip)
-* [Solution Explanation](https://drive.google.com/open?id=1xDo9HAYDPax8c3d3EFffKoZH5nUV7Vjm)
+* [Solution Further Explanation](https://drive.google.com/file/d/1RD06KqubAHJnhRVzoThf-KdTWrG9linc/view?usp=sharing)
 
 ## Week 7
 
@@ -211,7 +209,7 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lab 07 - Atomics and Primitives
 
-* [Lab Sheet]()
+* [Lab Sheet](https://drive.google.com/file/d/1AhnQeeAn6-Fn4h1SsFiAh1OxqofUrRdA/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab07_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab07_sln.zip)
 
@@ -248,7 +246,7 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lab 09 - Libraries and Streams
 
-* [Lab Sheet]()
+* [Lab Sheet](https://drive.google.com/file/d/1nB7uOrb-ZolV5qsuiQEasBl9CDyg2axk/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab08_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab08_sln.zip)
 
