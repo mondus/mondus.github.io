@@ -56,7 +56,7 @@ You can share your Visual Studio session with a lab demonstrator by completing t
 
 4) When live share has initialised, the "Live Share" button will change to "Sharing". Click it will now give you the option to copy the share link. Copy this link and send it to the lab assistant when you have been moved to a private room in the Mole classroom.
 
-![Sharing](11.png "Sharing")
+![Sharing](10.png "Sharing")
 
 5) When the lab assistant has connected you should recieve a notification and they will appear as a participant in the Live Share panel.
 
