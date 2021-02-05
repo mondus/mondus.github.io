@@ -61,22 +61,21 @@ A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-gro
 
 # Course Material Material
 
-Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing with Graphical Processing Units Kaltura Channel](https://digitalmedia.sheffield.ac.uk/channel/COM4521%2BParallel%2BComputing%2Bwith%2BGraphical%2BProcessing%2BUnits/201133333) or as downloadable pdfs on [Google Drive](https://drive.google.com/drive/folders/1XxXJdrzSP6XFwrzzEnNv1BLptfsgZOXu?usp=sharing). Each weeks practical activities (the labs) follow the ideas presented in the lectures so it is important that you follow the lecture and lab timetable below.
+Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing with Graphical Processing Units Kaltura Channel](https://digitalmedia.sheffield.ac.uk/channel/COM4521+Parallel+Computing+with+Graphical+Processing+Units/201133333) or as downloadable pdfs on [Google Drive](https://drive.google.com/drive/folders/1XxXJdrzSP6XFwrzzEnNv1BLptfsgZOXu?usp=sharing). Each weeks practical activities (the labs) follow the ideas presented in the lectures so it is important that you follow the lecture and lab timetable below.
 
 ## Week 01
 
 ### Lecture 01 - Introduction 
 
-* Context and Hardware Trends
-* Supercomputing
-* Software and Parallel Computing
-* Course Outline
+* Course Context ([pdf](https://drive.google.com/file/d/18PDhCWL_TQqntVqPTTHVeWJoZyF54Sf2/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+01+-+Part+01+-+Course+Context/1_4ozidnx3))
+* Supercomputing and Software ([pdf](https://drive.google.com/file/d/1oMgIPthO-N7EyllFrxol-zkF19J5Kh75/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+01+-+Part+02+-+Super+Computing+and+Software/1_3cae6aog))
+* Module Details ([pdf](https://drive.google.com/file/d/12g0vTczjQCzQj0Idpjpt3k1Od-z7Uo9W/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+01+-+Part+03+-+Module+Details/1_hx158hky))
 
 ### Lecture 02 - Introduction to C
 
-* Introducing C [pdf](https://drive.google.com/file/d/1_mL4lhg2sb7Ez4-BzFEele6MXggXBiUK/view?usp=sharing) [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+07+-+Part+03+-+GPU+Hardware/1_t7dweiyp)
-* Functions and Scoping [pdf](https://drive.google.com/file/d/1tM_1D7w0WuVcvzU8QrdaEaZIf7-cgs6R/view?usp=sharing) [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+02+-+Part+02+-+Functions+and+Scoping/1_cf4tnuln)
-* Arrays, Strings and IO [pdf](https://drive.google.com/file/d/1KqpjzKsc5QjPq-qDKueT1EQBaP8ZCZeJ/view?usp=sharing) [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+02+-+Part+03+-+Arrays+Strings+and+IO/1_60zchnsf)
+* Introducing C ([pdf](https://drive.google.com/file/d/1_mL4lhg2sb7Ez4-BzFEele6MXggXBiUK/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+02+-+Part+01+-+Introducing+C/1_eakd0424))
+* Functions and Scoping ([pdf](https://drive.google.com/file/d/1tM_1D7w0WuVcvzU8QrdaEaZIf7-cgs6R/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+02+-+Part+02+-+Functions+and+Scoping/1_cf4tnuln))
+* Arrays, Strings and IO ([pdf](https://drive.google.com/file/d/1KqpjzKsc5QjPq-qDKueT1EQBaP8ZCZeJ/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+02+-+Part+03+-+Arrays+Strings+and+IO/1_60zchnsf))
 
 
 ### Lab 01 - Introduction to Visual Studio and C Programming 
@@ -90,16 +89,16 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lecture 03 - Memory 
 
-* Pointers [pdf](https://drive.google.com/file/d/1ek2YjPLMDwdtRJVlUrmPZ31SV6E7UWbV/view?usp=sharing) [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+01+-+Pointers/1_2lxp7wyb)
-* Advanced use of Pointers [pdf](https://drive.google.com/file/d/1TuHaiow_oGjXOWvTy05CFY3lw0bwKh2Y/view?usp=sharing) [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+02+-+Advanced+Pointers/1_v4x7d5sr)
-* Dynamically Managed Memory [pdf](https://drive.google.com/file/d/1tnGYCG48XOYMhUf78dJT-VT1kT4d6lFp/view?usp=sharing) [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+03+-+Manual+Memory+Management/1_4j49qhoj)
-* Structures and Binary Files [pdf](https://drive.google.com/file/d/1Pl_wx-H9dDXfGfKEprxs6jg3RzrTSnVq/view?usp=sharing) [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+04+-+Structures+and+Binary+Files/1_38omyxrt)
+* Pointers ([pdf](https://drive.google.com/file/d/1ek2YjPLMDwdtRJVlUrmPZ31SV6E7UWbV/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+01+-+Pointers/1_2lxp7wyb))
+* Advanced use of Pointers ([pdf](https://drive.google.com/file/d/1TuHaiow_oGjXOWvTy05CFY3lw0bwKh2Y/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+02+-+Advanced+Pointers/1_v4x7d5sr))
+* Dynamically Managed Memory ([pdf](https://drive.google.com/file/d/1tnGYCG48XOYMhUf78dJT-VT1kT4d6lFp/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+03+-+Manual+Memory+Management/1_4j49qhoj))
+* Structures and Binary Files ([pdf](https://drive.google.com/file/d/1Pl_wx-H9dDXfGfKEprxs6jg3RzrTSnVq/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+04+-+Structures+and+Binary+Files/1_38omyxrt))
 
 ### Lecture 04 - Optimisation 
 
-* Optimisation Overview [pdf](https://drive.google.com/file/d/1wVdzbq9DL0S-qK0K1np084Mc8mF7CWNb/view?usp=sharing) [recording]()
-* Compute Bound Code [pdf](https://drive.google.com/file/d/17xQZlwihTvo2vEEWPpb5k8EWOqXezz3U/view?usp=sharing) [recording]()
-* Memory Bound Code [pdf](https://drive.google.com/file/d/1pi7FnfWd_0YcMouXTnktV7Pu4BDXoEOh/view?usp=sharing) [recording]()
+* Optimisation Overview ([pdf](https://drive.google.com/file/d/1wVdzbq9DL0S-qK0K1np084Mc8mF7CWNb/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+04+-+Part+01+-+Optmisation+Overview/1_z09qnv7q))
+* Compute Bound Code ([pdf](https://drive.google.com/file/d/17xQZlwihTvo2vEEWPpb5k8EWOqXezz3U/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+04+-+Part+02+-+Compute+Bound+Code/1_t74gjrqg))
+* Memory Bound Code ([pdf](https://drive.google.com/file/d/1pi7FnfWd_0YcMouXTnktV7Pu4BDXoEOh/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+04+-+Part+03+-+Memory+Bound+Code/1_eaa6z5dh))
 
 ### Lab 02 - Memory and Performance
 
