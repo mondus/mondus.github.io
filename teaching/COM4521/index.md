@@ -137,10 +137,9 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lecture 08 - Introduction to CUDA 
 
-* CUDA Programming Model
-* CUDA Device Code
-* CUDA Host Code and Memory Management
-* CUDA Compilation and execution in Visual Studio
+* The CUDA Programming Model ([pdf](https://drive.google.com/file/d/1p50MnSqyC-U1lls08GhVX-mW8TEuXqLb/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+08+-+Part+01+-+CUDA+Programming+Model/1_kbdt8jns))
+* CUDA Device Code ([pdf](https://drive.google.com/file/d/1he_iuEuyo5nONhM9DtkMmVdQ1Zat1s86/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+08+-+Part+02+-+CUDA+Device+Code/1_q8zijjv4))
+* CUDA Host Code and Memory Management ([pdf](https://drive.google.com/file/d/1-PPKh4g2-Pe8jITUsLbUO0A0SxwIGXtU/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+08+-+Part+03+-+CUDA+Host+Code+and+Memory+Management/1_g4zl8te4))
 
 ### Lab 04 - Introduction to CUDA
 
