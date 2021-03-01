@@ -152,11 +152,9 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lecture 09 - CUDA Memory
 
-* Memory Hierarchy Overview
-* Global Memory
-* Constant Memory
-* Texture and Read-only Memory
-* Roundup & Performance Timing
+* Memory Overview ([pdf](https://drive.google.com/file/d/1BxiovKdODm1OsRTsLzW0LyOj1CfBYVQX/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+01+-+Memory+Overview/1_0pa748z1))
+* Global and Constant Memory ([pdf](https://drive.google.com/file/d/1ZvdLGJJ3D_-DrEFsR6Sai-sA5WN-uuWT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+02+-+Global+and+Constant+Memory/1_fl15aonq))
+* Read Only and Texture Memory ([pdf](https://drive.google.com/file/d/1bSk8km76Y0CXAcBhBypwknl8OGoXb0VT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+03+-+Read-Only+and+Texture+Memory/1_kiodtb5l))
 
 ### Quiz BEFORE Lab 5
 
@@ -171,18 +169,16 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lecture 10 - CUDA Shared Memory
 
-* Shared Memory
-* Shared Memory Bank Conflicts
-* 2D Shared Memory Bank Conflicts
-* Boundary Conditions for Shared Memory Loading
-* Host-side Configurations for Shared Memory
+* Introduction to Shared Memory ([pdf](https://drive.google.com/file/d/1EjnE7xi5wo8HEJ3hUA74N9WMUZOudcV5/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+10+-+Part+01+-+Introduction+to+Shared+Memory/1_rd20qeup))
+* Shared Memory Bank Conflicts ([pdf](https://drive.google.com/file/d/1-VKri93MTBbUMmlIYd-LiK6iMYphg3w9/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+10+-+Part+02+-+Shared+Memory+Bank+Conflicts/1_69yoldfs))
+* Boundary Conditions ([pdf](https://drive.google.com/file/d/1C4h9_Y0lh2M2k09avtqtqo_1Rw677JUV/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+10+-+Part+03+-+Boundary+Conditions/1_5g9cwokq))
 * Shared Memory Bank Conflict Calculator ([xlxs file](https://drive.google.com/file/d/1pHTvo-X02_xp8OHCobJ-zFaZ0Vq2mtKK/view?usp=sharing))
 
 ### Lecture 11 - CUDA Performance
 
-* Global Memory Coalescing
-* Global Memory Coalescing with the L1 Cache
-* Occupancy and Thread Block Dimensions
+* Memory Coalescing ([pdf](https://drive.google.com/file/d/1vDqsfjl_hRbyG1jBkllSIwNLlbycyjlz/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+11+-+Part+01+-+Memory+Coalescing/1_o0kfb3ux))
+* The L1 Cache ([pdf](https://drive.google.com/file/d/13lSuEalXcMGrX8orbW6HUbXZFj3OqbuH/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+11+-+Part+02+-+The+L1+Cache/1_94wtt4kb))
+* Occupancy ([pdf](https://drive.google.com/file/d/1ClFMjcO2IDjsCZ7irgSKjaUeKW4yAEev/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+11+-+Part+03+-+Occupancy/1_dweyffyn))
 
 ### Lab 6 - Shared Memory
 
