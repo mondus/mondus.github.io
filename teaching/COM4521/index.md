@@ -146,6 +146,7 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 * [Lab Sheet](https://drive.google.com/file/d/1y5GnTyyp0wmBk1RRLep8oYs_HVMvAvxX/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab04_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab04_sln.zip)
+* [CUDA Compilation with Visual Studio 2019 Guide](https://drive.google.com/file/d/1p1WLCG_KfmB54pNxOwAl2fsoh3tFxLy7/view?usp=sharing)
 
 
 ## Week 05
@@ -191,16 +192,16 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lecture 12 - Warp Level CUDA 
 
-* Warp Scheduling and Divergence
-* Atomics
-* Warp Operations
-* Excel sheet for SM conflicts
+* Scheduling and Divergence ([pdf](https://drive.google.com/file/d/1QeI551TNSpKVRZN7tq6N6-VjTp4ch0Wp/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+12+-+Part+01+-+Scheduling+and+Divergence/1_z4pi18mz))
+* Advanced Divergence ([pdf](https://drive.google.com/file/d/1LAUmDC1WkaauNJahWbdAkVi37xo7sVzd/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+12+-+Part+02+-+Advanced+Divergence/1_ddlggmc7))
+* Atomic and Warp Operations ([pdf](https://drive.google.com/file/d/17goRBO5osS5mbZHRd48A6TU8BZyT-wse/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+12+-+Part+03+-+Atomics+and+Warp+Operations/1_ais622f9))
 
 ### Lecture 13 - Parallel Patterns 
 
-* Parallel Patterns Overview
-* Reduction
-* Scan
+
+* Parallel Patterns Overview ([pdf](https://drive.google.com/file/d/1gJfnZjQzlB1GzV4BgnaQNXU4aAWyfFIX/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+13+-+Part+01+-+Parallel+Patterns+Overview/1_a0nt7yyq))
+* Reduction ([pdf](https://drive.google.com/file/d/1mbFSXVTUKmvNZTPmBlLMRIfNjQbpuFDr/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+13+-+Part+02+-+Reduction/1_c12ixy0e))
+* Scan ([pdf](https://drive.google.com/file/d/1IUDNWjkWDOHtIgg5emo-UgnbyU1xboED/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+13+-+Part+03+-+Scan/1_pfrawiuc))
 
 ### Lab 07 - Atomics and Primitives
 
