@@ -216,9 +216,7 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lecture 14 and 15 - Performance Optimisation 
 
-* Profiling Introduction
-* The Problem
-* Visual Profiler Guided Analysis
+* Performance Profiling - Guest Lecture by Dr Robert Chisholm ([pdf](https://drive.google.com/file/d/1fwo_kuB2hVBPTcJg7FViPt67MrKHS6H0/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+14+%26+15+Profiling/1_dn7xvs3k))
 
 ### Lab 08 - Profiling Example
 
