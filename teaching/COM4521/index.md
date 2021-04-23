@@ -226,19 +226,23 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lecture 16 - Sorting and Libraries 
 
-* Sorting Networks
-* Merge and Bitonic Sort
-* Thrust Parallel Primitives Library
-* Applications of Sorting (binning)
+* Sorting (Networks) ([pdf](https://drive.google.com/file/d/1P-ove2cxmDTb4J6eqCNE6T5zSKnEwpaG/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+16+-+Part+01+-+Sorting/1_xre37phi))
+* Libraries and Thrust ([pdf](https://drive.google.com/file/d/1HI19ikicGWw3_2zNlK-pZixWcH6qNryM/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+16+-+Part+02+-+Libraries/1_twyysk9a))
+* Applications of GPU Sort ([pdf](https://drive.google.com/file/d/1xkv4Zw6g86W6lzF3bs2ZEQLGci7FvLKd/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+16+-+Part+03+-+Applications+of+Sort/1_ur7qxhff))
+
+
 
 ### Lecture 17 - CUDA Streams 
 
-* Synchronous and Asynchronous execution 
-* CUDA Streams
-* Synchronisation
-* Multi GPU Programming
+* Synchronous and Asynchronous Execution ([pdf](https://drive.google.com/file/d/1grdnZs88EvybgW1vydR7FaVgpglbZiCO/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+17+-+Part+01+-+Synchronous+and+Asynchronous+Execution/1_d6b13ebk))
+* CUDA Streams ([pdf](https://drive.google.com/file/d/113W7x70o-KcuRZ2gK6drp7QM2XvUWff8/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+17+-+Part+02+-+CUDA+Streams/1_4jsxnwiz))
+* Synchronisation ([pdf](https://drive.google.com/file/d/1Ejnt2KKrydP8AJRy36ZSwIKauruKiLkj/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+17+-+Part+03+-+Synchronisation/1_zftp0xht))
+* Multi GPU Programming ([pdf](https://drive.google.com/file/d/1Ejnt2KKrydP8AJRy36ZSwIKauruKiLkj/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+17+-+Part+04+-+Multi+GPU+Programming/1_k75fi901))
+
 
 ### Lab 09 - Libraries and Streams
+
+### Quiz BEFORE Lab 9
 
 * [Lab Sheet](https://drive.google.com/file/d/1nB7uOrb-ZolV5qsuiQEasBl9CDyg2axk/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab08_src.zip)
@@ -246,7 +250,7 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ## Week 10
 
-### Lecture 18 - Guest Lecture (TBC)
+### Bank Holiday
 
 Please Find below a list of previous invited lectures
 
@@ -255,7 +259,7 @@ Please Find below a list of previous invited lectures
 
 ### Lab 
 
-No lab due to bank holiday
+Rearranged Lab for assignment help to be held mid week (due to bank holiday).
 
 ## Week 11:
 
