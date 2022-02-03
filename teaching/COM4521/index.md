@@ -28,7 +28,7 @@ As the module requires access to a machine with a GPU the following have been ma
 
 ## Course Attendance Monitoring
 
-Lab attendance is recorded through the use of the Lab Feedback Form. All attendees on the course are expected to complete this each week. The contents are used to help direct conversation around topics in the lab classes.
+Lab attendance is recorded through the use of the [Lab Feedback Form](https://bit.ly/COM4521Form). All attendees on the course are expected to complete this each week. The purpose of the lab feedback from to monitor engagement with the course content and to allow the course instructors to identify areas for group discussion. 
 
 Important Note: **It is not possible to properly understand the course material without completing the labs and reviewing the solutions.** If you do not complete the labs then you will find the assignment difficult. The first lecture will provide some insight into how course engagement affects assessment performance.
 
@@ -43,6 +43,8 @@ The lab classes have been designed to re-enforce the material which you will obs
 During the lab class there will be an opportunity to discuss and review lecture content, lecture examples and lab solutions. Guided walkthroughs of certain parts of the lab solutions will be provided.
 
 Although the labs are structured around the online lecture material each week you can (and should) ask for help regarding any of the labs during the scheduled lab time. The labs are also used for assignment help. You should start this early.
+
+You should complete the [Lab Feedback Form](https://bit.ly/COM4521Form) each week by editing your response. Please update your responses at the start of each lab.
 
 ## Course Assessment
 
