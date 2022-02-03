@@ -6,7 +6,7 @@ layout: homepage
 
 # Course Information
 
-Welcome to the 2021/2022 module page for COM4521/COM6521 Parallel Computing with GPUs.
+Welcome to the 2020/2021 module page for COM4521/COM6521 Parallel Computing with GPUs.
 
 Accelerator architectures are discrete processing units which supplement a base processor with the objective of providing advanced performance at lower energy cost. Performance is gained by a design which favours a high number of parallel compute cores at the expense of imposing significant software challenges. This module looks at accelerated computing from multi-core CPUs to GPU accelerators with many TFlops of theoretical performance. The module will give insight into how to write high performance code with specific emphasis on GPU programming with NVIDIA CUDA GPUs. A key aspect of the module will be understanding what the implications of program code are on the underlying hardware so that it can be optimised.
  
@@ -22,46 +22,39 @@ If you want to complete the exercises in Linux then example Makefiles will be pr
 
 As the module requires access to a machine with a GPU the following have been made available to you.
 
-* All diamond Compute Labs (other than High spec lab) - All diamond all in one machines have an NVIDIA GTX1050 (Pascal generation) GPUs. Dedicated labs have been reserved each week to use these. You can find machine availability outside of lab times by using [Find a PC](https://www.sheffield.ac.uk/findapc)
-* Diamond High Spec Lab Reservation - These are higher spec machines with NVIDIA Quadro 5200 (Pascal generation) GPUs.
+* Diamond Virtual Computer Lab 1 - This is reserved for exclusive access during the scheduled lab hours. You can access this lab by opening [myTimetable](https://cmisgonext.sheffield.ac.uk/Web/Timetable) and selecting the COM4521/COM6521 lab session which provides a link to the virtual room. The machines in this room are the same as the Diamond all in one machines and have a NVIDIA GTX1050 GPU.
+* Diamond High Spec Lab Reservation - This is reserved for exclusive access during the scheduled lab hours. You can access this lab by opening [myTimetable](https://cmisgonext.sheffield.ac.uk/Web/Timetable) and selecting the COM4521/COM6521 lab session which provides a link to the virtual room. The machines in this room are the same as the Diamond High Spec lab and have an NVIDIA Quadro P4000.
+* [Diamond High Spec Lab - Computer Room 4](https://www.sheffield.ac.uk/findapc/rdp/room/4/pcs) - This room can not be reserved but machines can be requested. These machines have slightly higher capability GPUs (Quadro P4000) but are limited in availability.
+* [Any other Diamond Computer Lab](https://www.sheffield.ac.uk/findapc/now) - These machines can be requested at any time and have GTX 1050s.
 * Your own Windows/Linux machine - Follow the instructions under "software for this module".
 
 ## Course Attendance Monitoring
 
-Lab attendance is recorded through the use of the [Lab Feedback Form](https://bit.ly/COM4521Form). All attendees on the course are expected to complete this each week. The purpose of the lab feedback from to monitor engagement with the course content and to allow the course instructors to identify areas for group discussion. 
+Lab attendance is recorded through Blackboard collaborate. You are expected to attend labs to get assistance form the module leader and course demonstrators. It is not possible to properly understand the course material without completing the labs and reviewing the solutions. If you do not complete the labs then you will find the assignment difficult.
 
-Important Note: **It is not possible to properly understand the course material without completing the labs and reviewing the solutions.** If you do not complete the labs then you will find the assignment difficult. The first lecture will provide some insight into how course engagement affects assessment performance.
+## Lab class Guide
 
-## Lectures
+Assistance with the course material is provided through online labs. Each week is designed to provide support for a particular set of lectures and lab material. You are however free to ask about any of the lab content or assignment help in any of the lab classes.
 
-With the exception of the first lecture, which will be delivered in person, the course will be run using a flip classroom approach. Lecture content has been pre-recorded into bite sized chunks of ~10-15m each. There is a lecture list for each week which you are expected to listen to **in advance** of the next weeks lab. 
+[Link to the lab class guide](./lab_guide)
 
-## In Person Lab Classes
-
-The lab classes have been designed to re-enforce the material which you will observe in the on-line lectures by applying the techniques and approaches to specific problems. You should aim to attempt the lab classes exercises **prior** to attending the lab class (i.e. the week before) and use the labs to obtain help in understand and applying the taught content. The lab class solutions are commented to provide insight. The solutions are available in advance of the lab so if you are stuck on a particular exercise then review these to move on and seek help in understanding the problem and solution in the lab class. Within the labs, pair programming or work within small groups is encouraged but left to personal preference. Discussion is encouraged. 
-
-During the lab class there will be an opportunity to discuss and review lecture content, lecture examples and lab solutions. Guided walkthroughs of certain parts of the lab solutions will be provided.
-
-Although the labs are structured around the online lecture material each week you can (and should) ask for help regarding any of the labs during the scheduled lab time. The labs are also used for assignment help. You should start this early.
-
-You should complete the [Lab Feedback Form](https://bit.ly/COM4521Form) each week by editing your response. Please update your responses at the start of each lab.
 
 ## Course Assessment
 
-In response to student feedback the number of assignments has been reduced to a single assignment which reflects the reduced number of learning objectives for the module. The assignment will be released Monday the 28th February 2022 (week 4) and is due 17:00 on Wednesday 25th May (week 13). The assignment forms 80% of your mark. You are expected to ask for feedback on your assignment work during the scheduled lab classes.
+In response to student feedback the number of assignments has been reduced to a single assignment this year which reflects the reduced number of learning objectives for the module. The assignment will be released Monday the 1st March 2021 (week 4) and is due 17:00 on Monday 17th May (week 12). The assignment forms 80% of your mark. You are expected to ask for feedback on your assignment work during the scheduled lab classes.
 
 The remaining 20% of the module mark is from two mole quizes which can be taken remotely **only at the specified times**
 
-* Week 5 - TBC
-* Week 10 - TBC
+* Week 5 - During the first half of the lab (11:00-12:00 08/03/2021)
+* Week 9 - During the first half of the lab (11:00-12:00 26/04/2021)
 
 ## DDP students and Staff Candidates
 
-PhD students and research/academic staff are not required to undertake assessment but DDP students are expected to attend labs as evidence of participation in the module. You should ensure that you enroll for the course via DDP to ensure that you have access to the Blackboard. If you are a staff member attendee and require access to Blackboard then please contact me.
+PhD students and research/academic staff are not required to undertake assessment but DDP students are expected to attend labs as evidence of participation in the module.
 
 ## Discussion, Announcements and Requests for Help
 
-A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group) has been created for announcements, help and discussion. Any important announcements relating to the module will be made via this group. All students enrolled on the module on the 3rd February 2021 have been added to this group already. Likewise and staff or Phd students who expressed an interest in the course via the google form have been added. If you have transferred via Add/Drop then you will need to manually join the group yourself. The group is monitored by the teaching staff (including lab assistants) as well as additional PhD students who can provide help. The purpose of the mailing list is to ask for general support and guidance with the course material (e.g. with concepts and ideas) rather than posting your own code. **You should not post your assignment code on this forum**. If you require personal assistance with your assignment code then you should request this during the lab hours. Any lab class can be used for assignment help in addition to the lab exercises which are set each week.
+A [Google group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group) has been created for announcements, help and discussion. Any important announcements relating to the module will be made via this group. All students enrolled on the module on the 4th February 2021 have been added to this group already. If you have transferred via Add/Drop then you will need to manually join the group yourself. The group is monitored by the teaching staff (including lab assistants) as well as additional PhD students who can provide help. The purpose of the mailing list is to ask for general support and guidance with the course material (e.g. with concepts and ideas) rather than posting your own code. You should not post your assignment code on this forum. If you require personal assistance with your assignment code then you should request this during the lab hours. Any lab class can be used for assignment help in addition to the lab exercises which are set each week.
 
 [https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group](https://groups.google.com/a/sheffield.ac.uk/d/forum/com4521-group)
 
@@ -72,179 +65,174 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ## Week 01
 
-### Lecture 01 (In Person) - Course Introduction and Overview
+### Lecture 01 - Introduction 
 
-* Course Context ([pdf](), [recording]())
-* Supercomputing and Software ([pdf](), [recording]())
-* Module Details ([pdf](), [recording]())
+* Course Context ([pdf](https://drive.google.com/file/d/18PDhCWL_TQqntVqPTTHVeWJoZyF54Sf2/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+01+-+Part+01+-+Course+Context/1_4ozidnx3))
+* Supercomputing and Software ([pdf](https://drive.google.com/file/d/1oMgIPthO-N7EyllFrxol-zkF19J5Kh75/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+01+-+Part+02+-+Super+Computing+and+Software/1_3cae6aog))
+* Module Details ([pdf](https://drive.google.com/file/d/12g0vTczjQCzQj0Idpjpt3k1Od-z7Uo9W/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+01+-+Part+03+-+Module+Details/1_hx158hky))
 
-### On-line On Demand Lectures - Introduction to C
+### Lecture 02 - Introduction to C
 
 * Introducing C ([pdf](https://drive.google.com/file/d/1_mL4lhg2sb7Ez4-BzFEele6MXggXBiUK/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+02+-+Part+01+-+Introducing+C/1_eakd0424))
 * Functions and Scoping ([pdf](https://drive.google.com/file/d/1tM_1D7w0WuVcvzU8QrdaEaZIf7-cgs6R/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+02+-+Part+02+-+Functions+and+Scoping/1_cf4tnuln))
 * Arrays, Strings and IO ([pdf](https://drive.google.com/file/d/1KqpjzKsc5QjPq-qDKueT1EQBaP8ZCZeJ/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+02+-+Part+03+-+Arrays+Strings+and+IO/1_60zchnsf))
 
-## Week 02
 
-### Introduction to Visual Studio and C Programming Lab
+### Lab 01 - Introduction to Visual Studio and C Programming 
 
 * [Getting Started with Visual Studio 2019 Overview](https://drive.google.com/file/d/1BCpXw9Mr04DSkal7P_ARzMis78t3Pveu/view?usp=sharing)
-* [Lab Sheet](https://drive.google.com/open?id=1A6efezFVDsIThkoNCfLwXSJvg9sM9Kz6)
+* [Lab Sheet](https://drive.google.com/file/d/1DsU1uOsQqiBwDrNwpVH4yB5GyWBaia_x/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab01_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab01_sln.zip)
 
-### On-line On Demand Lectures - Memory 
+## Week 02
+
+### Lecture 03 - Memory 
 
 * Pointers ([pdf](https://drive.google.com/file/d/1ek2YjPLMDwdtRJVlUrmPZ31SV6E7UWbV/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+01+-+Pointers/1_2lxp7wyb))
 * Advanced use of Pointers ([pdf](https://drive.google.com/file/d/1TuHaiow_oGjXOWvTy05CFY3lw0bwKh2Y/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+02+-+Advanced+Pointers/1_v4x7d5sr))
 * Dynamically Managed Memory ([pdf](https://drive.google.com/file/d/1tnGYCG48XOYMhUf78dJT-VT1kT4d6lFp/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+03+-+Manual+Memory+Management/1_4j49qhoj))
 * Structures and Binary Files ([pdf](https://drive.google.com/file/d/1Pl_wx-H9dDXfGfKEprxs6jg3RzrTSnVq/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+03+-+Part+04+-+Structures+and+Binary+Files/1_38omyxrt))
 
-### On-line On Demand Lectures - Optimisation 
+### Lecture 04 - Optimisation 
 
 * Optimisation Overview ([pdf](https://drive.google.com/file/d/1wVdzbq9DL0S-qK0K1np084Mc8mF7CWNb/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+04+-+Part+01+-+Optmisation+Overview/1_z09qnv7q))
 * Compute Bound Code ([pdf](https://drive.google.com/file/d/17xQZlwihTvo2vEEWPpb5k8EWOqXezz3U/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+04+-+Part+02+-+Compute+Bound+Code/1_t74gjrqg))
 * Memory Bound Code ([pdf](https://drive.google.com/file/d/1pi7FnfWd_0YcMouXTnktV7Pu4BDXoEOh/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+04+-+Part+03+-+Memory+Bound+Code/1_eaa6z5dh))
 
-## Week 03
+### Lab 02 - Memory and Performance
 
-### Memory and Performance Lab
-
-* [Lab Sheet](https://drive.google.com/open?id=1AGK3j4UNxcIhZkZpbXfl7xrGwENcKYvV)
+* [Lab Sheet](https://drive.google.com/file/d/1JMqV-a5J2de0mUS961xrNsG1GUn4C8tr/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab02_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab02_sln.zip)
 
-### On-line On Demand Lectures - OpenMP 
+## Week 03
+
+### Lecture 05 - OpenMP 
 
 * OpenMP Overview ([pdf](https://drive.google.com/file/d/1Y9EUh835wkh8bwMHyNhu0fzFQGlygGl1/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+05+-+Part+01+-+OpenMP+Overview/1_tr35veym))
 * Loops and Critical Sections ([pdf](https://drive.google.com/file/d/1adfofgTWGOGqUwOuDgTS9OW_nVDeBS3n/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+05+-+Part+02+-+Loops+and+Critical+Sections/1_j4mfsl94))
 * Scoping and Tasks ([pdf](https://drive.google.com/file/d/14RxdZl6x2GYiCjbbi_1g1j5B5GhlXfzA/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+05+-+Part+03+-+Scoping+and+Tasks/1_tfgpqt3a))
 
-### On-line On Demand Lectures - OpenMP Part II 
+### Lecture 06 - OpenMP Part II 
 
 * Parallel Reduction ([pdf](https://drive.google.com/file/d/1DhPA-mFid4mFkUkFsRacIjzrPPvqpQs2/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+06+-+Part+01+-+Parallel+Reductions/1_0wfcdxdy))
 * Scheduling ([pdf](https://drive.google.com/file/d/1n86lfK9u96e6VaqxONkqFg0yTqbIqET-/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+06+-+Part+02+-+Scheduling/1_jbiq6pkl))
 * Nesting and Summary ([pdf](https://drive.google.com/file/d/1V-ufrzqwAZPvIs6bXl0zt9wE6uJ9KUeT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+06+-+Part+03+-+Nesting+and+Summary/1_m9hddu82))
 
-## Week 04
+### Lab 03 - OpenMP
 
-### OpenMP Lab
-
-* [Lab Sheet](https://drive.google.com/open?id=1ANdghDhzs7ez09sU-Ma4cDFV-TmFR5HL)
+* [Lab Sheet](https://drive.google.com/file/d/1ADMZfATvH17S2-XdLXQMcJwqf2I-wcAc/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab03_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab03_sln.zip)
 
-### On-line On Demand Lectures - GPU Architectures 
+## Week 04
+
+### Lecture 07 - GPU Architectures 
 
 * Introduction to GPUs ([pdf](https://drive.google.com/file/d/1cGZgGCB27m6zBkqR7-P1Lo0Ce8z7LzYx/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+07+-+Part+01+-+Introduction+to+GPUs/1_p7q41uvc))
 * Programming GPUs ([pdf](https://drive.google.com/file/d/13G5k7JxXWYkmKdf_f3m34173Z4QQZNNb/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+07+-+Part+02+-+Programming+GPUs/1_76m5dhjm))
 * GPU Hardware ([pdf](https://drive.google.com/file/d/1Q5YBM8GZqXp4P3FR1yDSPKSN9LP3yFTk/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+07+-+Part+03+-+GPU+Hardware/1_t7dweiyp))
 
 
-### On-line On Demand Lectures - Introduction to CUDA 
+### Lecture 08 - Introduction to CUDA 
 
 * The CUDA Programming Model ([pdf](https://drive.google.com/file/d/1p50MnSqyC-U1lls08GhVX-mW8TEuXqLb/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+08+-+Part+01+-+CUDA+Programming+Model/1_kbdt8jns))
 * CUDA Device Code ([pdf](https://drive.google.com/file/d/1he_iuEuyo5nONhM9DtkMmVdQ1Zat1s86/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+08+-+Part+02+-+CUDA+Device+Code/1_q8zijjv4))
 * CUDA Host Code and Memory Management ([pdf](https://drive.google.com/file/d/1-PPKh4g2-Pe8jITUsLbUO0A0SxwIGXtU/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+08+-+Part+03+-+CUDA+Host+Code+and+Memory+Management/1_g4zl8te4))
 
-### Assignment Handout 
+### Lab 04 - Introduction to CUDA
 
-The assignment will be handed out on the 28th February via Blackboard.
-
-
-## Week 05
-
-### Introduction to CUDA Lab
-
-* [Lab Sheet](https://drive.google.com/open?id=1AWj5R_4StScIoTFynDreVR61tR_Ry4x5)
+* [Lab Sheet](https://drive.google.com/file/d/1y5GnTyyp0wmBk1RRLep8oYs_HVMvAvxX/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab04_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab04_sln.zip)
 * [CUDA Compilation with Visual Studio 2019 Guide](https://drive.google.com/file/d/1p1WLCG_KfmB54pNxOwAl2fsoh3tFxLy7/view?usp=sharing)
 
 
-### On-line On Demand Lectures - CUDA Memory
+## Week 05
+
+### Lecture 09 - CUDA Memory
 
 * Memory Overview ([pdf](https://drive.google.com/file/d/1BxiovKdODm1OsRTsLzW0LyOj1CfBYVQX/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+01+-+Memory+Overview/1_0pa748z1))
 * Global and Constant Memory ([pdf](https://drive.google.com/file/d/1ZvdLGJJ3D_-DrEFsR6Sai-sA5WN-uuWT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+02+-+Global+and+Constant+Memory/1_fl15aonq))
 * Read Only and Texture Memory ([pdf](https://drive.google.com/file/d/1bSk8km76Y0CXAcBhBypwknl8OGoXb0VT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+03+-+Read-Only+and+Texture+Memory/1_kiodtb5l))
 
-### Blackboard Quiz
+### Quiz BEFORE Lab 5
 
-There is an assessed blackboard quiz this week. Date, time and location are in the course google calendar.
+### Lab 5 - CUDA Memory
 
-## Week 6
-
-### CUDA Memory Lab
-
-* [Lab Sheet](https://drive.google.com/open?id=1AjIdrVgZujFheJ0fkqUcYOWfAaPbNLPb)
+* [Lab Sheet](https://drive.google.com/file/d/1O57IkNHqL9VcNIGa8qtpY-aKWg3D8FWp/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab05_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab05_sln.zip)
 
 
-### On-line On Demand Lectures - CUDA Shared Memory
+## Week 6
+
+### Lecture 10 - CUDA Shared Memory
 
 * Introduction to Shared Memory ([pdf](https://drive.google.com/file/d/1EjnE7xi5wo8HEJ3hUA74N9WMUZOudcV5/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+10+-+Part+01+-+Introduction+to+Shared+Memory/1_rd20qeup))
 * Shared Memory Bank Conflicts ([pdf](https://drive.google.com/file/d/1-VKri93MTBbUMmlIYd-LiK6iMYphg3w9/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+10+-+Part+02+-+Shared+Memory+Bank+Conflicts/1_69yoldfs))
 * Boundary Conditions ([pdf](https://drive.google.com/file/d/1C4h9_Y0lh2M2k09avtqtqo_1Rw677JUV/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+10+-+Part+03+-+Boundary+Conditions/1_5g9cwokq))
 * Shared Memory Bank Conflict Calculator ([xlxs file](https://drive.google.com/file/d/1pHTvo-X02_xp8OHCobJ-zFaZ0Vq2mtKK/view?usp=sharing))
 
-### On-line On Demand Lectures - CUDA Performance
+### Lecture 11 - CUDA Performance
 
 * Memory Coalescing ([pdf](https://drive.google.com/file/d/1vDqsfjl_hRbyG1jBkllSIwNLlbycyjlz/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+11+-+Part+01+-+Memory+Coalescing/1_o0kfb3ux))
 * The L1 Cache ([pdf](https://drive.google.com/file/d/13lSuEalXcMGrX8orbW6HUbXZFj3OqbuH/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+11+-+Part+02+-+The+L1+Cache/1_94wtt4kb))
 * Occupancy ([pdf](https://drive.google.com/file/d/1ClFMjcO2IDjsCZ7irgSKjaUeKW4yAEev/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+11+-+Part+03+-+Occupancy/1_dweyffyn))
 
-## Week 7
+### Lab 6 - Shared Memory
 
-### Shared Memory Lab
-
-* [Lab Sheet](https://drive.google.com/open?id=1AqpAd8eseYmlDQo4iTX34HUSrbxw-IIO)
+* [Lab Sheet](https://drive.google.com/file/d/1_G8pSTyfSw04ELjp13Y1FB-AFKn7Sa9Q/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab06_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab06_sln.zip)
 * [Solution Further Explanation](https://drive.google.com/file/d/1RD06KqubAHJnhRVzoThf-KdTWrG9linc/view?usp=sharing)
 
+## Week 7
 
-### On-line On Demand Lectures - Warp Level CUDA 
+### Lecture 12 - Warp Level CUDA 
 
 * Scheduling and Divergence ([pdf](https://drive.google.com/file/d/1QeI551TNSpKVRZN7tq6N6-VjTp4ch0Wp/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+12+-+Part+01+-+Scheduling+and+Divergence/1_z4pi18mz))
 * Advanced Divergence ([pdf](https://drive.google.com/file/d/1LAUmDC1WkaauNJahWbdAkVi37xo7sVzd/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+12+-+Part+02+-+Advanced+Divergence/1_ddlggmc7))
 * Atomic and Warp Operations ([pdf](https://drive.google.com/file/d/17goRBO5osS5mbZHRd48A6TU8BZyT-wse/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+12+-+Part+03+-+Atomics+and+Warp+Operations/1_ais622f9))
 
-### On-line On Demand Lectures - Parallel Patterns 
+### Lecture 13 - Parallel Patterns 
+
 
 * Parallel Patterns Overview ([pdf](https://drive.google.com/file/d/1gJfnZjQzlB1GzV4BgnaQNXU4aAWyfFIX/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+13+-+Part+01+-+Parallel+Patterns+Overview/1_a0nt7yyq))
 * Reduction ([pdf](https://drive.google.com/file/d/1mbFSXVTUKmvNZTPmBlLMRIfNjQbpuFDr/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+13+-+Part+02+-+Reduction/1_c12ixy0e))
 * Scan ([pdf](https://drive.google.com/file/d/1IUDNWjkWDOHtIgg5emo-UgnbyU1xboED/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+13+-+Part+03+-+Scan/1_pfrawiuc))
 
-## Week 8
-
-### Atomics and Primitives Lab
+### Lab 07 - Atomics and Primitives
 
 * [Lab Sheet](https://drive.google.com/file/d/1AhnQeeAn6-Fn4h1SsFiAh1OxqofUrRdA/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab07_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab07_sln.zip)
 
-### On-line On Demand Lectures - Performance Optimisation 
-
-* Performance Profiling - Guest Lecture by Dr Robert Chisholm ([pdf](https://drive.google.com/file/d/1fwo_kuB2hVBPTcJg7FViPt67MrKHS6H0/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+14+%26+15+Profiling/1_dn7xvs3k))
 
 ## EASTER VACATION
 
-## Week 9
+## Week 8
 
-### Profiling Lab
+### Lecture 14 and 15 - Performance Optimisation 
+
+* Performance Profiling - Guest Lecture by Dr Robert Chisholm ([pdf](https://drive.google.com/file/d/1fwo_kuB2hVBPTcJg7FViPt67MrKHS6H0/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+14+%26+15+Profiling/1_dn7xvs3k))
+
+### Lab 08 - Profiling Example
 
 * [Profile Lecture Example Code](https://github.com/mondus/com4521/archive/lab09_sln.zip)
-There is no lab sheet for this lab. Examine the source code and try changing the `STEP` macro to compile different iterations of the code to run through the profiler.
 
-### On-line On Demand Lectures - Sorting and Libraries 
+## Week 9
+
+### Lecture 16 - Sorting and Libraries 
 
 * Sorting (Networks) ([pdf](https://drive.google.com/file/d/1P-ove2cxmDTb4J6eqCNE6T5zSKnEwpaG/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+16+-+Part+01+-+Sorting/1_xre37phi))
 * Libraries and Thrust ([pdf](https://drive.google.com/file/d/1HI19ikicGWw3_2zNlK-pZixWcH6qNryM/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+16+-+Part+02+-+Libraries/1_twyysk9a))
 * Applications of GPU Sort ([pdf](https://drive.google.com/file/d/1xkv4Zw6g86W6lzF3bs2ZEQLGci7FvLKd/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+16+-+Part+03+-+Applications+of+Sort/1_ur7qxhff))
 
 
-### On-line On Demand Lectures - CUDA Streams 
+
+### Lecture 17 - CUDA Streams 
 
 * Synchronous and Asynchronous Execution ([pdf](https://drive.google.com/file/d/1grdnZs88EvybgW1vydR7FaVgpglbZiCO/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+17+-+Part+01+-+Synchronous+and+Asynchronous+Execution/1_d6b13ebk))
 * CUDA Streams ([pdf](https://drive.google.com/file/d/113W7x70o-KcuRZ2gK6drp7QM2XvUWff8/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+17+-+Part+02+-+CUDA+Streams/1_4jsxnwiz))
@@ -252,39 +240,36 @@ There is no lab sheet for this lab. Examine the source code and try changing the
 * Multi GPU Programming ([pdf](https://drive.google.com/file/d/1Ejnt2KKrydP8AJRy36ZSwIKauruKiLkj/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+17+-+Part+04+-+Multi+GPU+Programming/1_k75fi901))
 
 
-## Week 10
+### Lab 09 - Libraries and Streams
 
-### Blackboard Quiz
+### Quiz BEFORE Lab 9
 
-There is an assessed blackboard quiz this week. Date, time and location are in the course google calendar.
-
-
-### Libraries and Streams Lab (Note: This is on Friday due to bank holiday)
-
-* [Lab Sheet](https://drive.google.com/open?id=1BIZ6pfUXtNHxLrP9iitY4ncAtAJUt5l5)
+* [Lab Sheet](https://drive.google.com/file/d/1nB7uOrb-ZolV5qsuiQEasBl9CDyg2axk/view?usp=sharing)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab08_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab08_sln.zip)
 
-### In Person Invited Lecture - TBC
+## Week 10
 
-### Previous On Demand Invited Lectures (Optional)
+### Bank Holiday
 
-Please Find below a list of previous invited lectures which may be of interest.
+Please Find below a list of previous invited lectures
 
 * [Accelerating Road Network Simulations using GPUs](https://echo360.org.uk/media/de75ffe6-c839-49de-af50-ddb270dd529f/public)
 * [Optimising Pedestrian Simulations](https://echo360.org.uk/media/6f8ed7dd-f3d8-4c25-acf2-03c36e40ea9e/public)
 
+### Lab 
+
+Rearranged Lab for assignment help to be held mid week (due to bank holiday).
+
 ## Week 11:
 
-### Assignment Help Lab
+### No Lecture
 
-### No Lectures
+### Assignment Help Lab
 
 ## Week 12:
 
-### Assignment Help Lab
-
-### No Lectures
+No Lectures or Labs
 
 # Calendar
 
