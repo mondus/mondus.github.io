@@ -74,9 +74,9 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 ### Lecture 01 (In Person) - Course Introduction and Overview
 
-* Course Context ([pdf](), [recording]())
-* Supercomputing and Software ([pdf](), [recording]())
-* Module Details ([pdf](), [recording]())
+* Course Context ([pdf](https://drive.google.com/open?id=1E0291GtCX_s_5QVHZllq1e6FJaHPorv8), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+01+-+Part+01+-+Course+Context/1_4ozidnx3))
+* Supercomputing and Software ([pdf](https://drive.google.com/open?id=1E87UUwB1eZAsoCvBfTN00BEcTj9Grq0E), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+01+-+Part+02+-+Super+Computing+and+Software/1_3cae6aog))
+* Module Details ([pdf](https://drive.google.com/open?id=1E9RccFaT8gKJNMkOOUObDBI8s6VwmDR3), no recording)
 
 ### On-line On Demand Lectures - Introduction to C
 
