@@ -50,10 +50,12 @@ You should complete the [Lab Feedback Form](https://bit.ly/COM4521Form) each wee
 
 In response to student feedback the number of assignments has been reduced to a single assignment which reflects the reduced number of learning objectives for the module. The assignment will be released Monday the 28th February 2022 (week 4) and is due 17:00 on Wednesday 25th May (week 13). The assignment forms 80% of your mark. You are expected to ask for feedback on your assignment work during the scheduled lab classes.
 
-The remaining 20% of the module mark is from two mole quizes which can be taken remotely **only at the specified times**
+The remaining 20% of the module mark is from two mole quizes which must be completed under exam conditions. I.e. Within the specified locations with the lock down browser under invigilation from demonstrators.  
 
-* Week 5 - TBC
-* Week 10 - TBC
+* Week 5 - 08/03/2022 13:00 in Diamond Computer Room 3
+* Week 10 - 03/05/2022 13:00 in Computer room A04, Alfred Denny Building
+
+Quizes will take 40m (must be completed within the hour) and be multiple choice in a simmilar format to the weekly lab question.
 
 ## DDP students and Staff Candidates
 
