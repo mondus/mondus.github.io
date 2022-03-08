@@ -25,6 +25,7 @@ As the module requires access to a machine with a GPU the following have been ma
 * All diamond Compute Labs (other than High spec lab) - All diamond all in one machines have an NVIDIA GTX1050 (Pascal generation) GPUs. Dedicated labs have been reserved each week to use these. You can find machine availability outside of lab times by using [Find a PC](https://www.sheffield.ac.uk/findapc)
 * Diamond High Spec Lab Reservation - These are higher spec machines with NVIDIA Quadro 5200 (Pascal generation) GPUs.
 * Your own Windows/Linux machine - Follow the instructions under "software for this module".
+* A GPU backed cloud instance (at your own risk and cost)
 
 ## Course Attendance Monitoring
 
@@ -151,7 +152,6 @@ Lectures are pre-recorded and are availble on the [COM4521  Parallel Computing w
 
 The assignment will be handed out on the 28th February via Blackboard.
 
-
 ## Week 05
 
 ### Introduction to CUDA Lab
@@ -167,6 +167,16 @@ The assignment will be handed out on the 28th February via Blackboard.
 * Memory Overview ([pdf](https://drive.google.com/file/d/1BxiovKdODm1OsRTsLzW0LyOj1CfBYVQX/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+01+-+Memory+Overview/1_0pa748z1))
 * Global and Constant Memory ([pdf](https://drive.google.com/file/d/1ZvdLGJJ3D_-DrEFsR6Sai-sA5WN-uuWT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+02+-+Global+and+Constant+Memory/1_fl15aonq))
 * Read Only and Texture Memory ([pdf](https://drive.google.com/file/d/1bSk8km76Y0CXAcBhBypwknl8OGoXb0VT/view?usp=sharing), [recording](https://digitalmedia.sheffield.ac.uk/media/Lecture+09+-+Part+03+-+Read-Only+and+Texture+Memory/1_kiodtb5l))
+
+
+### On-Demand Lectures - Using GPU Backed Cloud Instances (Optional Content)
+
+*Note/Disclaimer: Any use of cloud is entirely at your own risk and cost. The videos provide a short overview of the use of cloud instances but you are responsible for your own accounts and any cost associated with it. You are encouraged to read up on aspects such as billing notifications and the specific charges for on demand pricing and storage.*
+
+* Creating an EC2 instance using the template AMI ([recording](https://digitalmedia.sheffield.ac.uk/media/CloudComputing-Part1/1_dzaso44d))
+* Connecting to your cloud instance ([recording](https://digitalmedia.sheffield.ac.uk/media/CloudComputing-Part2/1_buquvcon))
+* Setting restriction on inbound traffic to your instance ([recording](https://digitalmedia.sheffield.ac.uk/media/CloudComputing-Part3.mkv/1_7lf1y6v9))
+
 
 ### Blackboard Quiz
 
