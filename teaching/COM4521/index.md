@@ -232,7 +232,7 @@ There is an assessed blackboard quiz this week. Date, time and location are in t
 
 ### Atomics and Primitives Lab
 
-* [Lab Sheet](https://drive.google.com/file/d/1AhnQeeAn6-Fn4h1SsFiAh1OxqofUrRdA/view?usp=sharing)
+* [Lab Sheet](https://drive.google.com/open?id=1B8tAAQsfVbWVaQtKB_GOyQtDkeBJKVJN)
 * [Source Code](https://github.com/mondus/com4521/archive/Lab07_src.zip)
 * [Solution](https://github.com/mondus/com4521/archive/Lab07_sln.zip)
 
