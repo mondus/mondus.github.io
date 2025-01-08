@@ -1,98 +1,22 @@
-- text: "Home"
-  url: "/"
-  target: 
-  subnav:
+# The following is the order of the links in the header of the website.
+#
+# Changing the order here will adjust the order and you can also add additional
+# links. Removing a link prevents it from showing in the header, but does not
+# prevent it from being included in the site.
 
-- text: "Profile"
-  url: "/profile/"
-  target: 
-  subnav: 
-    - text: "Research Software Engineering"
-      url: "/profile/rse/"
-      target: 
-      subnav: 
-    - text: "Collaborative Research Team"
-      url: "/profile/research/"
-      target: 
-      subnav:
+main:
+  - title: "Outputs"
+    url: /outputs/
 
-- text: "C.V."
-  url: "/cv/"
-  target: 
-  subnav:
-    - text: "Publications"
-      url: "/cv/publications"
-      target: 
-      subnav:
-    - text: "Funding Track Record"
-      url: "/cv/funding"
-      target: 
-      subnav: 
-    - text: "Events and Talks"
-      url: "/cv/events"
-      target: 
-      subnav:
-    - text: "Committee and Reviewing"
-      url: "/cv/committe"
-      target: 
-      subnav: 
+  - title: "RSE"
+    url: /rse/ 
 
-- text: "GPUs"
-  url: "/gpu/"
-  target: 
-  subnav:
-    - text: "Research Consultancy and Collaboration"
-      url: "/gpu/research/"
-      target: 
-      subnav: 
-    - text: "Industrial Consultancy"
-      url: "/gpu/industry/"
-      target: 
-      subnav:
-    - text: "GPUComputing@Sheffield"
-      url: "/gpu/gpucomputingatsheffield"
-      target: 
-      subnav:
+  - title: "Complex Systems"
+    url: /complex-systems/    
 
-- text: "Complex Systems"
-  url: "/cs/"
-  target: 
-  subnav:
-    - text: "FLAME and FLAME GPU"
-      url: "/cs/FLAMEGPU/"
-      target: 
-      subnav: 
-    - text: "Computational Biology and Neuroinformatics"
-      url: "/cs/biology/"
-      target: 
-      subnav:
-    - text: "Computer Graphics and VR"
-      url: "/cs/graphics/"
-      target: 
-      subnav:
-
-- text: "Teaching"
-  url: "/teaching/"
-  target: 
-  subnav:
-    - text: "Introduction to CUDA"
-      url: "/teaching/CUDA/"
-      target: 
-      subnav: 
-    - text: "NVIDIA Sponsored Training"
-      url: "/teaching/NVIDIA/"
-      target: 
-      subnav: 
-    - text: "COM4521 - Parallel Computing with GPUs"
-      url: "/teaching/COM4521/"
-      target: 
-      subnav:
-    - text: "Jobs and PhDs Available"
-      url: "/teaching/positions/"
-      target: 
-      subnav:
-
-- text: "Contact"
-  url: "/contact/"
-  target:
-  subnav:
+  - title: "GPU Computing"
+    url: /gpus/    
+          
+  - title: "Education"
+    url: /education/
+    
